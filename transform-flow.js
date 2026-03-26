@@ -39,7 +39,7 @@ const POS_BEFORE = { x: -4966.029312030866, y: -2190.9606951160295 };
 const POS_AFTER  = { x: -4980.157852586156, y: -1826.54563888677  };
 
 const initBeforeVav = {
-  id: 'init0001-0000-4000-8000-000000000001',
+  id: 'a1b00001-0000-4000-8000-000000000001',
   data: {
     label: 'init_vars_before_vav',
     config: {
@@ -66,7 +66,7 @@ const initBeforeVav = {
 };
 
 const initAfterVav = {
-  id: 'init0001-0000-4000-8000-000000000002',
+  id: 'a1b00002-0000-4000-8000-000000000002',
   data: {
     label: 'init_vars_after_vav',
     config: {
@@ -94,26 +94,26 @@ const initAfterVav = {
 
 const newEdges = [
   {
-    id: 'init0001-0000-4000-8000-000000000003',
+    id: 'a1b00003-0000-4000-8000-000000000003',
     source: '039b794b-b8b7-47b3-9914-77df8d0e30ee',   // input
-    target: 'init0001-0000-4000-8000-000000000001',    // initBeforeVav
+    target: 'a1b00001-0000-4000-8000-000000000001',    // initBeforeVav
     data: { handleType: 'success' }, animated: true, selected: false, sourceHandle: 'onSuccess',
   },
   {
-    id: 'init0001-0000-4000-8000-000000000004',
-    source: 'init0001-0000-4000-8000-000000000001',    // initBeforeVav
+    id: 'a1b00004-0000-4000-8000-000000000004',
+    source: 'a1b00001-0000-4000-8000-000000000001',    // initBeforeVav
     target: 'e04dca09-e8ae-46e3-bb2a-f6ebf7d895f7',   // vav_datos_contacto
     data: { handleType: 'success' }, animated: true, selected: false, sourceHandle: 'onSuccess',
   },
   {
-    id: 'init0001-0000-4000-8000-000000000005',
+    id: 'a1b00005-0000-4000-8000-000000000005',
     source: 'e04dca09-e8ae-46e3-bb2a-f6ebf7d895f7',   // vav_datos_contacto
-    target: 'init0001-0000-4000-8000-000000000002',    // initAfterVav
+    target: 'a1b00002-0000-4000-8000-000000000002',    // initAfterVav
     data: { handleType: 'success' }, animated: true, selected: false, sourceHandle: 'onSuccess',
   },
   {
-    id: 'init0001-0000-4000-8000-000000000006',
-    source: 'init0001-0000-4000-8000-000000000002',    // initAfterVav
+    id: 'a1b00006-0000-4000-8000-000000000006',
+    source: 'a1b00002-0000-4000-8000-000000000002',    // initAfterVav
     target: 'e01975cf-d782-4e9e-ade7-f7544d49b881',   // prompt_orquestador
     data: { handleType: 'success' }, animated: true, selected: false, sourceHandle: 'onSuccess',
   },
@@ -140,9 +140,7 @@ const output = {
     updatedAt: new Date().toISOString(),
   },
 };
-// Remove checksum — platform should regenerate it on import
-delete output.checksum;
-
+// Keep checksum field as-is (platform validates its presence)
 fs.writeFileSync(outputPath, JSON.stringify(output, null, 2));
 
 console.log(`✓ Done — saved to ${outputPath}`);
