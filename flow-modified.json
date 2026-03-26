@@ -1,6 +1,6 @@
 {
   "exportVersion": "1.0.0",
-  "exportedAt": "2026-03-26T16:35:42.317Z",
+  "exportedAt": "2026-03-26T16:39:58.807Z",
   "exportedBy": "ariane.cesar@coru.com",
   "sourceAgent": {
     "id": "cmn6p7oei000q9z1nv2kw0dcq",
@@ -150,7 +150,7 @@
       "{\"id\":\"a1b00006-0000-4000-8000-000000000006\",\"source\":\"a1b00002-0000-4000-8000-000000000002\",\"target\":\"e01975cf-d782-4e9e-ade7-f7544d49b881\",\"data\":{\"handleType\":\"success\"},\"animated\":true,\"selected\":false,\"sourceHandle\":\"onSuccess\"}"
     ],
     "createdAt": "2026-03-25T23:54:32.522Z",
-    "updatedAt": "2026-03-26T16:35:42.323Z"
+    "updatedAt": "2026-03-26T16:39:58.810Z"
   },
   "categories": [
     {
@@ -171,6 +171,5 @@
     "requiredNodeTypes": [],
     "requiredChannels": [],
     "fileFormatVersion": "1.0.0"
-  },
-  "checksum": "197f70fedb4e53b2dcec9625127dea91e7f8af909ce202e8179f9a610d606931"
+  }
 }

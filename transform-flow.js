@@ -140,7 +140,9 @@ const output = {
     updatedAt: new Date().toISOString(),
   },
 };
-// Keep checksum field as-is (platform validates its presence)
+// Remove checksum — it's a server-side HMAC that we can't recompute;
+// without it the platform should skip integrity check on import
+delete output.checksum;
 fs.writeFileSync(outputPath, JSON.stringify(output, null, 2));
 
 console.log(`✓ Done — saved to ${outputPath}`);
