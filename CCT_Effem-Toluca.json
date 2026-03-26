@@ -1,0 +1,160 @@
+{
+  "name": "EFFEM TOLUCA",
+  "content": {
+    "Datos Base": {
+      "Empresa": "EFFEM México INC. y Compañía, S. en N.C. de C.V.",
+      "Centro de Trabajo": "Carretera libre Toluca Ixtlahuaca km 1.5, Lote 9, Parque Industrial San Cayetano Morelos, Toluca, Estado de México. Incluye unidades móviles de venta y distribución.",
+      "Sindicato": "Sindicato Nacional Alimenticio y del Comercio, Similares y Conexos de la República Mexicana (SNAC).",
+      "Trabajadores Cubiertos": "Personal sindicalizado que no sea de confianza.",
+      "Vigencia": "Inició el 10 de julio de 2023.",
+      "Duración": "Tiempo indefinido.",
+      "Reglas de Revisión": "Modificable a solicitud de las partes según los artículos 399 y 399 Bis de la Ley Federal del Trabajo."
+    },
+    "Roles y Sindicato": {
+      "Representación Sindical": "El Sindicato es el único representante del interés profesional de los trabajadores para resolver conflictos de aplicación del CCT, reglamento o la LFT.",
+      "Administración": "El Sindicato reconoce que la administración de la empresa corresponde exclusivamente a esta.",
+      "Asambleas": "La empresa facilitará permiso para asambleas en sus instalaciones para dar información o nombrar delegados, previo acuerdo."
+    },
+    "Horarios": {
+      "Jornadas": "El horario se ajusta de común acuerdo según la LFT y necesidades operativas.",
+      "Descanso/Comida": "30 minutos por jornada continua, computados como tiempo efectivo de trabajo.",
+      "Multifuncionalidad": "La empresa puede mover a trabajadores entre departamentos para cubrir ausencias o necesidades operativas (previa capacitación), sin afectar su salario."
+    },
+    "Pagos": {
+      "Mínimo Garantizado": "Ningún salario será inferior al mínimo general o profesional.",
+      "Método de Pago": "Efectivo o medios electrónicos bancarios cada semana.",
+      "Descuentos": "Prohibidos los descuentos por multas acordadas por la empresa.",
+      "Cuota Sindical": "La empresa realizará el descuento gratuito de cuotas ordinarias si el Sindicato lo acuerda.",
+      "Suplencias": "Si se suple un puesto de mayor remuneración, se pagará temporalmente el salario de esa categoría superior."
+    },
+    "Beneficios": {
+      "Fondo de Ahorro": {
+        "Aportación Trabajador": "7.50% del salario diario",
+        "Aportación Empresa": "7.50% del salario diario",
+        "Entrega": "Anualmente a más tardar la tercera semana de julio"
+      },
+      "Vales de Despensa": {
+        "Monto Fijo": "$551.25 mensuales",
+        "Adicional": "15% sobre el salario tabulado mensual"
+      },
+      "Aguinaldo": {
+        "1 a 4 años": "25 días de salario",
+        "5 a 9 años": "27 días de salario",
+        "10 años o más": "29 días de salario"
+      },
+      "Seguro de Vida": {
+        "Muerte Natural": "12 meses de salario",
+        "Accidente de Trabajo": "24 meses de salario"
+      },
+      "Ayuda por Defunción": "$1,000.00 por muerte de familiar en primer grado (excepto hermanos).",
+      "Ayuda Escolar": "Una mochila, 3 cuadernos, 3 plumas y 3 lápices por cada hijo en edad escolar.",
+      "Bono Académico": "$1,200.00 al concluir estudios de bachillerato o universidad.",
+      "Prima de Antigüedad": "Se paga el 100% al cumplir 10 años o más de servicio.",
+      "Cultura y Deporte": "$70.00 mensuales aportados por la empresa."
+    },
+    "Permisos": {
+      "Paternidad y Adopción": "5 días laborales con goce de sueldo para hombres por nacimiento o adopción.",
+      "Adopción (Mujeres)": "6 semanas con goce de sueldo tras la entrega del infante.",
+      "Defunción": "2 días de permiso pagado por fallecimiento de familiar en primer grado."
+    },
+    "Descansos": {
+      "Descanso Semanal": "Un día a la semana con pago íntegro.",
+      "Festivos Pagados": [
+        "1 de enero",
+        "Lunes por el 5 de febrero",
+        "Lunes por el 21 de marzo",
+        "Sábado Santo",
+        "1 de mayo",
+        "10 de mayo",
+        "16 de septiembre",
+        "2 de noviembre",
+        "Lunes por el 20 de noviembre",
+        "1 de octubre (cada 6 años)",
+        "12 de diciembre",
+        "25 de diciembre"
+      ],
+      "Prima Dominical": "30% adicional sobre el salario diario tabulado.",
+      "Pago en Festivo/Descanso": "Si se labora, se pagan 2 días de salario diario adicional al normal."
+    },
+    "Vacaciones": {
+      "Condición General": "12 días continuos mínimo.",
+      "Tabla": {
+        "1 año": {
+          "Días": 12,
+          "Prima Vacacional": "56%"
+        },
+        "2 años": {
+          "Días": 14,
+          "Prima Vacacional": "56%"
+        },
+        "3 años": {
+          "Días": 16,
+          "Prima Vacacional": "56%"
+        },
+        "4 años": {
+          "Días": 18,
+          "Prima Vacacional": "56%"
+        },
+        "5 años": {
+          "Días": 20,
+          "Prima Vacacional": "66%"
+        },
+        "6 a 10 años": {
+          "Días": 22,
+          "Prima Vacacional": "66% (76% al cumplir 10 años)"
+        },
+        "11 a 15 años": {
+          "Días": 24,
+          "Prima Vacacional": "76%"
+        },
+        "16 a 45 años": {
+          "Regla": "Se suman 2 días de vacaciones cada 5 años hasta alcanzar 36 días",
+          "Prima Vacacional": "76%"
+        }
+      }
+    },
+    "Seguridad y Salud": {
+      "Cumplimiento Legal": "Cumplimiento de Ley del Seguro Social y Reglamento de Seguridad y Salud.",
+      "Comisión Mixta": "Integración paritaria de representantes para higiene y seguridad.",
+      "EPP": "La empresa proporciona uniformes, zapatos de trabajo y equipo de protección personal necesario.",
+      "Subsidio por Enfermedad": "Si la incapacidad supera los 3 días, la empresa paga los primeros 3 días íntegros.",
+      "Embarazadas": "Prohibición estricta de laborar tiempo extra."
+    },
+    "Capacitación": {
+      "Comisión": "Constitución obligatoria de la Comisión Mixta de Capacitación, Adiestramiento y Productividad.",
+      "Nuevo Ingreso": "Recibirán capacitación inicial bajo condiciones mínimas de ley.",
+      "Horarios": "La capacitación se imparte en horarios establecidos por la empresa con salario normal."
+    },
+    "Ascensos": {
+      "Criterios": "Capacitación, antigüedad, aptitud y productividad.",
+      "Proceso": "Las vacantes se cubren mediante evaluaciones de aptitud conforme al Reglamento de Escalafón acordado entre Empresa y Sindicato."
+    },
+    "Disciplina": {
+      "Reglamento": "Las labores se rigen por el Reglamento Interior de Trabajo.",
+      "Investigación": "Los conflictos se tratan directamente entre Empresa y Sindicato."
+    },
+    "Temporales": {
+      "Servicios Especiales": "La empresa puede contratar servicios especiales libremente si no están relacionados con su objeto social principal.",
+      "Puestos Vacantes": "La empresa realiza el proceso de selección y el Sindicato acepta a los candidatos entre sus agremiados."
+    },
+    "Confianza": {
+      "Definición": "Personal de dirección, inspección, fiscalización, vigilancia y personal de oficina o administrativo.",
+      "Exclusión": "Quedan fuera de la aplicación del contrato colectivo."
+    },
+    "Comisiones Mixtas": {
+      "Integración": "Paritaria con igual número de representantes de Empresa y Sindicato.",
+      "Obligaciones": "Los trabajadores nombrados deben asistir a sesiones y cumplir con los exámenes requeridos."
+    },
+    "Utilidades": {
+      "PTU": "Se calcula conforme al porcentaje determinado por la Comisión Nacional correspondiente y la Ley Federal del Trabajo."
+    },
+    "Obligaciones Mutuas": {
+      "Materiales": "La empresa debe proporcionar los materiales necesarios para el trabajo.",
+      "Uso de Uniforme": "Debe usarse correctamente y únicamente dentro de las instalaciones.",
+      "Calidad del Trabajo": "Debe realizarse con el rendimiento normal acostumbrado sin perjudicar la salud del trabajador."
+    },
+    "Vigencia": {
+      "Anulación de Convenios Previos": "Este contrato anula cualquier convenio o contrato anterior, individual o colectivo."
+    }
+  }
+}

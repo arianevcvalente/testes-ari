@@ -1,0 +1,139 @@
+{
+  "_id": {
+    "$oid": "6995f9e77807572c74ec7094"
+  },
+  "name": "BARCEL MEXICALI",
+  "content": {
+    "Datos Base": {
+        "Empresa": "Barcel, S.A. de C.V. (Planta Mexicali).",
+        "Centros de Trabajo": "Planta ubicada en Avenida Robledo Industrial, Lote 1 Manzana 2, Colonia El Robledo, Mexicali, Baja California, C.P. 21384. También cubre todas las dependencias, agencias y centros de ventas dependientes de esta planta.",
+        "Sindicato": "Sindicato Nacional Alimenticio y del Comercio (SNAC).",
+        "Vigencia": "A partir del 1 de octubre de 2023.",
+        "Duración": "Indefinida. El contrato se mantiene mientras la empresa exista, pero se revisa periódicamente.",
+        "Reglas de Revisión": "Revisión integral del contrato cada dos años y revisión de salarios cada año (Artículos 399 y 399 Bis de la Ley)."
+    },
+    "Roles y Sindicato": {
+        "Representación": "El SNAC es el único representante del interés profesional de los trabajadores y la empresa tratará con él todos los conflictos colectivos.",
+        "Admisión": "La empresa contrata libremente a los nuevos trabajadores, pero el Sindicato los acepta entre sus agremiados (Cláusula de admisión).",
+        "Manejo de Materiales": "La carga, descarga, manejo y distribución de productos deben ser realizados por personal afiliado al sindicato."
+    },
+    "Horarios": {
+        "Jornada Semanal (Cláusula 15)": "6 días de trabajo por 1 día de descanso.",
+        "Turnos": {
+            "Diurno": "8 horas (entre 6:00 y 20:00).",
+            "Nocturno": "7 horas (entre 20:00 y 6:00).",
+            "Mixto": "7.5 horas (comprende periodos de ambos, menos de 3.5 horas nocturnas)."
+        },
+        "Teletrabajo (Cláusula 15 Bis)": "Quienes trabajen bajo modalidad de Teletrabajo se rigen por el contrato individual y el capítulo XII Bis de la Ley, no por los horarios de planta.",
+        "Horas Extras": "Se pagan al 100% las primeras 9 horas semanales y al 200% las excedentes. Requieren permiso por escrito de la empresa."
+    },
+    "Pagos": {
+        "Tabulador (Cláusula 12)": "Los salarios se pagan según el anexo del contrato (montos específicos del salario diario no visibles en el extracto).",
+        "Garantía Mínima (Cláusula 13)": "Nadie ganará menos del salario mínimo general vigente en la zona.",
+        "Forma de Pago (Cláusula 14)": "Semanal, en efectivo o vía electrónica, en el lugar de trabajo dentro de horas laborales.",
+        "Cuota Sindical": "La empresa retiene las cuotas ordinarias del salario y las entrega al sindicato gratuitamente."
+    },
+    "Beneficios": {
+        "Aguinaldo (Cláusula 32)": {
+            "Pago": "Antes del 20 de diciembre.",
+            "Días según antigüedad": {
+                "1 a 5 años": "20 días.",
+                "6 a 10 años": "21 días.",
+                "11 a 20 años": "22 días.",
+                "21 años en adelante": "23 días."
+            }
+        },
+        "Vales de Despensa (Cláusula 35)": "$2,100.00 pesos mensuales. Se entregan si no hay faltas injustificadas. El trabajador aporta el 0.5% del monto.",
+        "Fondo de Ahorro (Anual) (Cláusula 40)": "El trabajador ahorra 4.5% semanal y la empresa aporta otro 4.5%. Se entrega anualmente.",
+        "Fondo de Ahorro (Largo Plazo) (Cláusula 41)": "Ahorro para el retiro. Trabajador 3% y Empresa 3% semanalmente.",
+        "Premio de Puntualidad y Productividad (Cláusula 34)": "Bono anual consistente en un 25% adicional sobre la cantidad que reciba el trabajador por Reparto de Utilidades (PTU). Requiere récord de puntualidad.",
+        "Premio Nocturno (Cláusula 36)": "Pago de 1.5 horas de salario diario adicionales por turno nocturno laborado (o $139.15 por noche para transportistas).",
+        "Ayuda Defunción (Cláusula 46)": {
+            "Cónyuge/Concubina": "$2,102.95.",
+            "Hijos": "$1,460.73."
+        },
+        "Seguro de Vida (Cláusula 38)": {
+            "Muerte natural": "$520,000.00.",
+            "Muerte accidental": "$1,040,000.00.",
+            "Invalidez total permanente": "$520,000.00."
+        },
+        "Becas (Cláusula 39)": "13 becas de $1,023.50 mensuales para trabajadores o hijos.",
+        "Ayuda Deportiva (Cláusula 49)": "$2,279.30 mensuales para fomento al deporte.",
+        "Vacaciones": {
+            "1 año": "12 días y 4 días de prima",
+            "2 años": "14 días y 4 días de prima",
+            "3 años": "16 días y 4.5 días de prima",
+            "4 años": "18 días y 5 días de prima",
+            "5 años": "20 días y 5.5 días de prima",
+            "6 a 9 años": "22 días y 5.5 días de prima",
+            "10 años": "22 días y 6 días de prima",
+            "11 a 14 años": "24 días y 6 días de prima",
+            "15 años": "24 días y 7 días de prima",
+            "16 a 20 años": "26 días y 7 días de prima",
+            "21 a 24 años": "28 días y 7 días de prima",
+            "25 años": "28 días y 8 días de prima",
+            "26 a 29 años": "30 días y 8 días de prima",
+            "30 años en adelante": "30 días y 9 días de prima"
+        }
+    },
+    "Permisos": {
+        "Matrimonio (Cláusula 42)": "Prima de 9 días de salario + 1 semana de permiso con goce de sueldo (incluye 7º día).",
+        "Nacimiento de Hijo (Cláusula 43)": "Prima de $862.50 para trabajadoras o esposas de trabajadores.",
+        "Paternidad (Cláusula 44)": "5 días laborales con goce de sueldo.",
+        "Adopción (Madres) (Cláusula 45)": "6 semanas de descanso con goce de sueldo.",
+        "Defunción (Cláusula 46)": {
+            "Localidad del trabajo": "1 día con goce de sueldo (si el funeral es local).",
+            "Fuera de la localidad": "2 días con goce de sueldo."
+        }
+    },
+    "Descansos": {
+        "Descanso Semanal (Cláusula 27)": "Un día de paga con goce de sueldo por cada 6 trabajados.",
+        "Días Festivos Obligatorios (Cláusula 28)": "1 enero, primer lunes febrero, tercer lunes marzo, 1 mayo, 16 septiembre, tercer lunes noviembre, 25 diciembre, cambio de gobierno federal. Adicional: Viernes Santo.",
+        "12 de Diciembre (Cláusula 29)": "Se trabaja normal, pero se paga un día adicional de salario diario. Si se falta (justificada o injustificadamente) se pierde el pago extra.",
+        "Pago en Descanso/Festivo (Cláusula 30)": "Si se trabaja en día de descanso o festivo, se paga salario doble adicional al normal.",
+        "Prima Dominical (Cláusula 33)": "30% adicional sobre el salario diario si se trabaja en domingo."
+    },
+    "Seguridad": {
+        "Comisión Mixta (Cláusula 51)": "Se integra la Comisión Mixta de Seguridad e Higiene en un plazo no mayor a 30 días para operar según la ley.",
+        "Ropa de Trabajo (Cláusula 42)": "Entrega de uniformes y zapatos de seguridad en mayo y noviembre. Uso obligatorio.",
+        "Obligaciones (Cláusula 20)": "Empresa y trabajadores deben cumplir la Ley del Seguro Social y reglamentos de seguridad."
+    },
+    "Capacitación": {
+        "Comisión Mixta (Cláusula 21)": "Se constituye para vigilar la capacitación, adiestramiento y productividad.",
+        "Nuevo Ingreso (Cláusula 22)": "Recibirán capacitación inicial según la ley.",
+        "Obligación (Cláusula 23)": "La empresa debe capacitar conforme a los planes establecidos. Se considera cumplida la obligación si el trabajador no ejerce su derecho o reprueba."
+    },
+    "Ascensos": {
+        "Escalafón (Cláusula 18)": "Derecho a ascenso considerando capacitación, antigüedad, aptitud y productividad.",
+        "Exámenes (Cláusula 24)": "Para ascender, el trabajador debe aprobar el examen con el mejor resultado. En igualdad de condiciones, decide la antigüedad."
+    },
+    "Disciplina": {
+        "General": "Se hace referencia general al cumplimiento del Reglamento Interior de Trabajo y la Ley Federal del Trabajo. Las faltas injustificadas afectan el pago de aguinaldo, vacaciones y bonos."
+    },
+    "Temporales": {
+        "Contratación (Cláusula 8)": "Permitida por obra o tiempo determinado (arts. 36 y 37 LFT). Terminación automática al concluir el objeto del contrato.",
+        "Servicios Especiales": "La empresa puede contratar servicios externos para tareas exclusivas y no relacionadas con el objeto social principal."
+    },
+    "Confianza": {
+        "Definición (Cláusula 9)": "Dirección, inspección, fiscalización y vigilancia. Incluye vigilantes, supervisores y administrativos. Están excluidos del contrato colectivo."
+    },
+    "Comisiones": {
+        "Integración (Cláusula 50)": "Empresa y Sindicato integran Comisiones Mixtas (temporales y permanentes) según la Ley.",
+        "Funciones (Cláusula 52)": "Los representantes deben asistir a cursos y sesiones dentro o fuera del horario laboral con facilidades de la empresa."
+    },
+    "Utilidades": {
+        "PTU": "Se menciona como base para el cálculo del 'Premio Anual por Puntualidad y Productividad' (Cláusula 34)."
+    },
+    "Áreas": {
+        "Cobertura (Cláusula 4)": "El contrato cubre Planta Mexicali y sus dependencias, departamentos y centros de ventas.",
+        "Reglamento Interior (Cláusula 17)": "Rige el trabajo en planta y dependencias."
+    },
+    "Obligaciones": {
+        "Subsidio Enfermedad (Cláusula 37)": "Para enfermedad general (no profesional), la empresa paga el complemento para llegar al 100% del salario (hasta por 60 días en un año). Requiere certificado del IMSS."
+    },
+    "Vigencia": {
+        "Inicio": "1 de octubre de 2023.",
+        "Derogación (Cláusula 7)": "Este contrato anula cualquier convenio anterior."
+    }
+  }
+}

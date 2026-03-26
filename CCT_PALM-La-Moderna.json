@@ -1,0 +1,142 @@
+{
+  "name": "LA MODERNA",
+  "alt_name": "PALM",
+  "content": {
+    "Datos Base": {
+      "Empresa": "Productos Alimenticios La Moderna, S.A. de C.V.",
+      "Centro de Trabajo": "Av. Francisco I. Madero No. 1675 Norte, Colonia Gómez Palacio Centro, Gómez Palacio, Durango",
+      "Sindicato": "Sindicato Nacional Alimenticio y del Comercio, Similares y Conexos de la República Mexicana (SNAC)",
+      "Trabajadores Cubiertos": "Personal que labora en la planta dedicada a la manufactura, fabricación, elaboración, envasado y venta de pastas alimenticias",
+      "Duracion": "Tiempo indefinido",
+      "Reglas Revision": "Modificable conforme a los artículos 399 y 399 Bis de la Ley Federal del Trabajo",
+      "Inicio Vigencia": "1 de enero de 2024"
+    },
+    "Roles y Sindicato": {
+      "Partes": [
+        "La Empresa",
+        "El Sindicato"
+      ],
+      "Representacion": "El sindicato representa el total interés profesional de los trabajadores activos",
+      "Contratacion": "La empresa contrata personal conforme a sus procesos; el sindicato puede aceptar a los trabajadores como agremiados",
+      "Cuota Sindical": "La empresa retendrá cuotas sindicales establecidas y las entregará al sindicato gratuitamente"
+    },
+    "Horarios": {
+      "Jornada": "Se ajusta conforme a los artículos 58 al 62 de la Ley Federal del Trabajo y necesidades operativas",
+      "Tiempo Comida": "30 minutos de descanso o alimentos fuera del área de trabajo considerados como tiempo laborado",
+      "Tiempo Extra": "Pagado conforme a los artículos 67 y 68 de la Ley Federal del Trabajo"
+    },
+    "Pagos": {
+      "Tabulador": "Establecido en Anexo Número Uno",
+      "Salario Minimo Garantizado": "Ningún trabajador recibirá menos del salario mínimo general de la zona",
+      "Frecuencia Pago": "Pago semanal en efectivo, depósito bancario o sistema definido por la empresa",
+      "Descuentos": "No se permiten descuentos por multas",
+      "Incremento 2024": "7.5% directo al salario"
+    },
+    "Tabulador Salarial 2024": {
+      "Electromecanico": 471.82,
+      "Prensista": 400.15,
+      "Montacarguista C": 396.67,
+      "Operador Empaque": 377.10,
+      "Almacenista": 357.89,
+      "Auxiliar Prensas": 357.89,
+      "Molinero": 322.99,
+      "Auxiliar Operador Empaque": 302.67,
+      "Auxiliar Almacen CEDI": 290.98,
+      "Estibador": 290.98,
+      "Sanidad": 267.60,
+      "Ayudante General": 267.60
+    },
+    "Beneficios": {
+      "Vacaciones": "Periodo anual pagado conforme a tabla de antigüedad",
+      "Prima Vacacional": "50% del salario correspondiente al periodo vacacional",
+      "Aguinaldo": "21 días de salario pagados antes del 20 de diciembre",
+      "Vales Despensa": "$900 mensuales condicionados a puntualidad y asistencia perfecta",
+      "Fondo Ahorro": {
+        "Trabajador": "5% del salario",
+        "Empresa": "5% adicional"
+      },
+      "Ayuda Transporte": "$16 diarios para personal del tercer turno",
+      "Premio Puntualidad Asistencia": {
+        "Turno 1 y 2": "$18 por jornada",
+        "Turno 3": "$25 por jornada",
+        "Condicion": "Se pierde con 3 retardos o 1 falta en 28 días"
+      },
+      "Prima Nacimiento": "$700 por nacimiento de un hijo"
+    },
+    "Permisos": {
+      "Defuncion Familiar": "3 días con goce de salario para familiares de primer grado",
+      "Paternidad Adopcion": "5 días laborables con goce de salario",
+      "Matrimonio": "3 días con goce de salario por primera boda",
+      "Asambleas": "Facilidades para realizar asambleas sindicales en las instalaciones"
+    },
+    "Descansos": {
+      "Descanso Semanal": "1 día semanal con salario íntegro",
+      "Festivos": [
+        "1 de enero",
+        "Primer lunes de febrero",
+        "Tercer lunes de marzo",
+        "1 de mayo",
+        "16 de septiembre",
+        "Tercer lunes de noviembre",
+        "Cambio de poder ejecutivo",
+        "25 de diciembre",
+        "Otros establecidos por la ley"
+      ],
+      "Pago Festivo": "Si se trabaja en festivo se pagan dos días adicionales",
+      "Coincidencia Descanso": "Si el festivo coincide con el descanso semanal se otorga un día adicional",
+      "Restriccion": "El 1 de mayo no se trabaja bajo ningún concepto"
+    },
+    "Seguridad": {
+      "Cumplimiento": "Cumplimiento de la Ley del Seguro Social y el Reglamento Federal de Seguridad y Salud en el Trabajo",
+      "Comision Higiene": "Comisión Mixta de Seguridad e Higiene integrada por empresa y trabajadores"
+    },
+    "Capacitacion": {
+      "Programas": "La empresa establece sistemas de capacitación conforme a la ley",
+      "Nuevo Ingreso": "Capacitación inicial bajo condiciones mínimas de ley",
+      "Capacitacion Operativa": "Impartida por técnicos o supervisores dentro de horarios definidos",
+      "Salario Durante Curso": "Se mantiene salario y prestaciones",
+      "Aprobacion": "La obligación de capacitar se considera cumplida independientemente del resultado del trabajador"
+    },
+    "Ascensos": {
+      "Escalafon": "Otorgado por departamento considerando capacitación, antigüedad, aptitud y productividad",
+      "Examen": "Ascensos mediante demostración de aptitudes en examen"
+    },
+    "Trabajadores Temporales": {
+      "Tipos": "Contratos por obra o tiempo determinado",
+      "Terminacion": "Concluyen al terminar el objeto del contrato",
+      "Servicios Especiales": "La empresa puede contratar servicios especiales no relacionados con su objeto social"
+    },
+    "Trabajadores Confianza": {
+      "Definicion": "Personal con funciones de dirección, inspección, fiscalización o vigilancia",
+      "Categorias": [
+        "Vigilantes",
+        "Supervisores",
+        "Personal administrativo",
+        "Personal de oficina"
+      ],
+      "Aplicacion CCT": "No están cubiertos por el contrato colectivo"
+    },
+    "Comisiones": {
+      "Integracion": "Igual número de representantes de empresa y trabajadores",
+      "Tipos": [
+        "Capacitación, Adiestramiento y Productividad",
+        "Higiene y Seguridad",
+        "Otras necesarias para el funcionamiento social o económico"
+      ],
+      "Obligacion Asistencia": "Los representantes deben asistir a cursos y actividades"
+    },
+    "Utilidades": {
+      "PTU": "Participación conforme al porcentaje fijado por la Comisión Nacional correspondiente"
+    },
+    "Areas y Obligaciones": {
+      "Reglamento": "El trabajo se rige por el Reglamento Interior de Trabajo",
+      "Materiales": "La empresa debe proporcionar materiales y herramientas necesarias",
+      "Calidad Trabajo": "El esfuerzo debe corresponder a la jornada legal sin afectar la salud del trabajador"
+    },
+    "Vigencia": {
+      "Inicio": "1 de enero de 2024",
+      "Tabulador": "Vigencia de un año con prórroga automática hasta nueva revisión",
+      "Derogacion": "Sustituye cualquier contrato o convenio previo"
+    }
+  }
+}

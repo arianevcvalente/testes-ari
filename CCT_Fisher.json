@@ -1,0 +1,123 @@
+{
+    "name": "FISHER",
+    "content": {
+        "Datos Base": {
+            "Empresa": "Fisher & Paykel Healthcare, S.A. de C.V.",
+            "Centros de Trabajo": {
+                "Matriz": "Av. Todos los Santos 12831, Parque Industrial Pacífico, Tijuana, B.C.",
+                "Sucursales MX-2 y MX-3": "Blvd. La Encantada 24352, Parque Industrial El Florido II, Tijuana, B.C."
+            },
+            "Sindicato": "Sindicato Nacional Alimenticio y del Comercio, Similares y Conexos de la República Mexicana (SNAC).",
+            "Trabajadores Cubiertos": "Personas físicas que prestan servicios personales subordinados a la Empresa.",
+            "Vigencia": "Inicia el 1º de enero de 2024.",
+            "Duración y Revisión": "El contrato dura tres años. Las revisiones (integrales o de tabulador) se realizan en junio de cada año y los cambios surten efecto en enero del año siguiente.",
+            "CCT": "Contrato Colectivo de Trabajo"
+        },
+        "Roles y Sindicato": {
+            "Representación": "El Sindicato es el único representante del interés profesional de los trabajadores sindicalizados.",
+            "Gestión de Contratación": "La Empresa es la única encargada de contratar personal según el perfil de negocio que necesite.",
+            "Delegados": "Se otorga permiso al delegado general para asistir a dos asambleas sindicales anuales fuera de Tijuana; la Empresa cubre los viáticos (traslado, estancia y alimentos).",
+            "Libertad Sindical": "La Empresa garantiza protección contra actos de discriminación o injerencia que afecten la libertad sindical."
+        },
+        "Horarios y Jornadas": {
+            "Días de Trabajo": "La jornada semanal se distribuye según el turno asignado.",
+            "Tabla de Jornadas": {
+                "Turno Diurno": "06:00 a 14:00, Lunes a Viernes, Descanso: Sábado y Domingo",
+                "Turno Mixto": "14:00 a 22:00, Lunes a Viernes, Descanso: Sábado y Domingo",
+                "Turno Nocturno": "22:00 a 06:00, Lunes a Viernes, Descanso: Sábado y Domingo",
+                "Fin de Semana Diurno": "06:00 a 18:00, Sábado y Domingo, Descanso: Lunes a Viernes",
+                "Fin de Semana Nocturno": "18:00 a 06:00, Sábado y Domingo, Descanso: Lunes a Viernes"
+            }
+        },
+        "Pagos y Salarios": {
+            "Garantía Mínima": "Ningún trabajador ganará menos del salario mínimo general vigente en la entidad.",
+            "Método de Pago": "Mediante transferencia bancaria a la cuenta abierta por la Empresa para el trabajador.",
+            "Tiempo Extra": "Se paga con un 100% adicional las primeras 9 horas semanales, y con un 200% adicional a partir de la décima hora. Requiere autorización por escrito y registro electrónico.",
+            "Cuota Sindical": "Se descuenta semanalmente del salario, a menos que el trabajador manifieste por escrito su voluntad de que no se le aplique. La Empresa pagará el 1% de la cuota solo durante el año 2024 para no afectar el ingreso del trabajador.",
+            "Tabulador de Salarios (Cuota Diaria)": {
+                "Colaborador Multi hábil": "$445.00",
+                "Colaborador Nivel 1": "$398.00"
+            }
+        },
+        "Beneficios": {
+            "Aguinaldo": {
+                "Días": 20,
+                "Pago": "Antes del 20 de diciembre"
+            },
+            "Vales de Despensa": {
+                "Monto": "$374.00 semanales",
+                "Condición": "Asistencia perfecta; en caso de faltas, se paga la parte proporcional"
+            },
+            "Bono de Puntualidad y Asistencia (Semanal)": {
+                "Colaborador Nivel 1": "$260.00 por cada concepto (Total: $520.00)",
+                "Colaborador Multi hábil": "$314.00 por cada concepto (Total: $628.00)"
+            },
+            "Fondo de Ahorro": {
+                "Aportación Trabajador": "6.5% del salario",
+                "Aportación Empresa": "6.5% del salario"
+            },
+            "Caja de Ahorro": "Fomento a la constitución de una caja voluntaria para préstamos a tasa baja, administrada por una institución externa."
+        },
+        "Permisos": {
+            "Paternidad y Adopción (Hombres)": "5 días laborables con goce de sueldo por nacimiento o adopción.",
+            "Descanso por Adopción (Mujeres)": "6 semanas con goce de sueldo tras la entrega del infante (acreditar con acta)."
+        },
+        "Descansos y vacaciones": {
+            "Descanso Semanal": "Un día de descanso con salario por cada seis laborados.",
+            "Festivos Obligatorios": "1 de enero, primer lunes de febrero (5 Feb), tercer lunes de marzo (21 Mar), 1 de mayo, 16 de septiembre, tercer lunes de noviembre (20 Nov), transmisión del Poder Ejecutivo Federal y 25 de diciembre.",
+            "Pago en Festivo": "Si se labora en día de descanso obligatorio, se pagan dos días de salario adicional al normal.",
+            "Vacaciones y Prima": {
+                "Descripción": "Se otorgan según la antigüedad (ver tabla); la prima vacacional no será menor al 50% sobre el salario diario tabulado.",
+                "Tabla de Vacaciones": {
+                    "1 año": "12 días",
+                    "2 años": "14 días",
+                    "5 años": "20 días",
+                    "6 a 10 años": "22 días",
+                    "11 a 15 años": "24 días",
+                    "21 a 25 años": "28 días",
+                    "31 a 35 años": "32 días",
+                    "41 a 45 años": "36 días"
+                }
+            }
+        },
+        "Seguridad e Higiene": {
+            "Obligaciones": "Cumplimiento de la Ley del Seguro Social y el Reglamento Federal de Seguridad y Salud.",
+            "Comisión Mixta": "Se integrará una Comisión de Seguridad e Higiene para operar dentro de la Empresa.",
+            "Protocolos": "Compromiso para establecer un protocolo que prevenga y erradique la discriminación de género, violencia laboral y acoso sexual."
+        },
+        "Capacitación y Adiestramiento": {
+            "Comisión Mixta": "Se constituye una Comisión Mixta de Capacitación, Adiestramiento y Productividad.",
+            "Programas": "La Empresa debe presentar planes ante la STPS e informar al Sindicato.",
+            "Nuevo Ingreso": "Mientras reciben capacitación inicial, se rigen por las condiciones mínimas de la Ley.",
+            "Obligatoriedad": "El trabajador debe asistir puntualmente y cumplir con los exámenes requeridos."
+        },
+        "Ascensos y Escalafón": {
+            "Derecho de Escalafón": "Se concede considerando capacitación, antigüedad, aptitud, evaluación y productividad.",
+            "Vacantes": "Las vacantes de planta se cubren tras un periodo de prueba de 30 días y la aprobación de un examen de aptitud."
+        },
+        "Disciplina": {
+            "Medidas Disciplinarias": "La Empresa tiene el derecho de aplicar medidas disciplinarias inmediatamente.",
+            "Rescisión Laboral": "En caso de despido, debe estar presente un delegado sindical para garantizar la defensa del trabajador.",
+            "Investigación": "La Empresa mantiene autonomía para sus métodos de investigación de causales de rescisión (actas administrativas)."
+        },
+        "Temporales y Capacitación Inicial": {
+            "Periodo de Prueba": "Los trabajadores de nuevo ingreso están sujetos a 30 días de prueba para obtener la planta.",
+            "Capacitación Inicial": "Los contratados bajo esta modalidad se rigen por sus contratos individuales y están excluidos de las prestaciones de este CCT hasta que obtengan la planta definitiva."
+        },
+        "Personal de Confianza": {
+            "Definición": "Puestos de dirección, inspección, fiscalización y vigilancia. Incluye Directores, Gerentes, personal administrativo, Supervisores y Líderes de Grupo.",
+            "Exclusión": "Están excluidos de la aplicación de este Contrato Colectivo."
+        },
+        "Teletrabajo": {
+            "Inaplicabilidad": "Las partes reconocen que el teletrabajo no es aplicable, ya que las actividades (producción y almacén) solo pueden realizarse con maquinaria instalada en la fuente de empleo."
+        },
+        "Áreas y Obligaciones": {
+            "Reglamento Interior": "El trabajo en plantas y centros de trabajo se rige por el Reglamento Interior de Trabajo.",
+            "Materiales": "La Empresa está obligada a proporcionar materiales y elementos necesarios para el trabajo oportunamente.",
+            "Desempeño": "Los trabajadores deben laborar con intensidad, cuidado, esmero y eficiencia."
+        },
+        "Vigencia Final": {
+            "Derogación": "Este contrato anula cualquier convenio o contrato anterior (individual o colectivo)."
+        }
+    }
+}

@@ -1,0 +1,146 @@
+{
+  "name": "KROMA",
+  "content": {
+    "Datos Base": {
+      "Empresa": "Distribuidora Kroma, S.A. de C.V.",
+      "Identificación": "Bodega Minatitlán",
+      "Giro": "Comercialización de pinturas, solventes e impermeabilizantes",
+      "Centro de Trabajo": "Calle Berlín Número 4, Colonia Nueva Mina, Minatitlán, Veracruz, C.P. 96760",
+      "Sindicato": "Sindicato Nacional Alimenticio y del Comercio (SNAC)",
+      "Trabajadores Cubiertos": "Todo el personal al servicio de la bodega, de planta y eventuales",
+      "Vigencia": "1 de enero de 2024",
+      "Duración": "Tiempo indefinido"
+    },
+    "Roles y Sindicato": {
+      "Representación": "La empresa reconoce al SNAC como el único representante del interés profesional de los trabajadores",
+      "Delegados": {
+        "Delegado General": "Representante sindical dentro de la empresa",
+        "Subdelegado": "Apoya en la representación y manejo de conflictos"
+      },
+      "Facilidades": "La empresa otorgará facilidades a los representantes sindicales para investigar y tratar asuntos laborales",
+      "Manejo de Conflictos": "La empresa tratará asuntos de trabajadores sindicalizados únicamente con los representantes sindicales"
+    },
+    "Horarios": {
+      "Jornada Legal": {
+        "Diurna": "48 horas semanales",
+        "Mixta": "45 horas semanales",
+        "Nocturna": "42 horas semanales"
+      },
+      "Turnos": {
+        "Diurna": "Entre 6:00 y 20:00 horas",
+        "Nocturna": "Entre 20:00 y 6:00 horas",
+        "Mixta": "Incluye periodos diurnos y nocturnos (menos de 3.5 horas nocturnas)"
+      },
+      "Comidas": "30 minutos diarios para tomar alimentos",
+      "Jornada Reducida": "Si se requiere jornada reducida, el salario se paga proporcional a las horas trabajadas"
+    },
+    "Pagos": {
+      "Tabulador": "Salarios conforme al tabulador anexo al contrato",
+      "Forma de Pago": "En efectivo y moneda de curso legal en el lugar de trabajo semanalmente",
+      "Protección al Salario": "No puede ser retenido ni reducido salvo descuentos legales (IMSS, ISR)",
+      "Tiempo Extra": {
+        "Primeras 9 horas": "Pago doble (100%)",
+        "Excedentes": "Pago triple (200%)"
+      }
+    },
+    "Beneficios": {
+      "Aguinaldo": "26 días de salario tabulado pagados antes del 20 de diciembre",
+      "Prima Vacacional": "82% sobre el salario correspondiente al periodo vacacional",
+      "Comedor Gratuito": "La empresa proporciona comida sana y abundante gratuitamente mediante concesionario",
+      "Ayuda Escolar": "$800.00 anuales en agosto para trabajadores o hijos estudiantes",
+      "Bono de Productividad": "3.2% mensual sobre el salario diario tabulado si se cumplen metas",
+      "Fondo de Ahorro": {
+        "Trabajador": "1.8% semanal",
+        "Empresa": "1.8% semanal"
+      }
+    },
+    "Permisos": {
+      "Representación Sindical": "Los representantes sindicales tienen permisos para tratar asuntos laborales",
+      "Nota": "Permisos específicos como matrimonio o defunción se rigen principalmente por la LFT"
+    },
+    "Descansos": {
+      "Descanso Semanal": "Un día de descanso con pago del 16.66% del salario devengado por cada día trabajado",
+      "Prima Dominical": "25% adicional sobre el salario diario si se trabaja en domingo",
+      "Días Festivos": [
+        "1 de enero",
+        "Primer lunes de febrero",
+        "Tercer lunes de marzo",
+        "1 de mayo",
+        "16 de septiembre",
+        "Tercer lunes de noviembre",
+        "1 de diciembre cada 6 años",
+        "25 de diciembre",
+        "Días determinados por leyes electorales"
+      ]
+    },
+    "Seguridad": {
+      "Obligaciones": "Cumplimiento de la Ley del Seguro Social y reglamentos de seguridad",
+      "Comisión Mixta": "Comisión de Seguridad e Higiene para vigilar el cumplimiento de normas",
+      "Prevención de Accidentes": "Cumplimiento del Reglamento Federal de Seguridad y Salud en el Trabajo",
+      "Instalaciones": "La empresa debe mantener baños, bebederos y lockers en buen estado"
+    },
+    "Capacitación": {
+      "Planes y Programas": "La empresa establecerá sistemas de capacitación conforme a la ley",
+      "Comisión Mixta": "Integrada por representantes de empresa y sindicato para vigilar capacitación y productividad",
+      "Nuevo Ingreso": "Reciben capacitación inicial con condiciones mínimas de ley",
+      "Obligatoriedad": "La empresa debe capacitar y el trabajador asistir"
+    },
+    "Ascensos": {
+      "Criterios": "Capacitación, antigüedad, aptitud y productividad",
+      "Preferencia": "En igualdad de condiciones se prefiere al trabajador sindicalizado con mayor antigüedad",
+      "Escalafón": "Derecho de los trabajadores a ascender según bases acordadas entre sindicato y empresa"
+    },
+    "Disciplina": {
+      "Sanciones": "La empresa puede sancionar faltas al Reglamento Interior de Trabajo y obligaciones legales"
+    },
+    "Temporales": {
+      "Definición": "Trabajadores por tiempo u obra determinada",
+      "Contratación": "Permitida para trabajos exclusivos y especiales como albañilería o mecánica"
+    },
+    "Confianza": {
+      "Nota": "No se detallan puestos específicos, pero se infiere su exclusión del contrato colectivo"
+    },
+    "Comisiones": {
+      "Tipos": [
+        "Seguridad e Higiene",
+        "Capacitación y Adiestramiento",
+        "PTU",
+        "Reglamento Interior"
+      ],
+      "Funcionamiento": "La empresa otorgará facilidades para su operación dentro o fuera del horario laboral"
+    },
+    "Utilidades": {
+      "PTU": "Derecho de participación conforme al porcentaje determinado por la Comisión Nacional y la LFT"
+    },
+    "Áreas": {
+      "Reglamento Interior": "Rige el trabajo en plantas de producción y bodegas",
+      "Herramientas": "La empresa debe proporcionar herramientas, maquinaria y útiles necesarios"
+    },
+    "Obligaciones": {
+      "Intensidad y Calidad": "El trabajo debe ejecutarse con intensidad, cuidado y esmero apropiados",
+      "Seguridad Social": "La empresa pagará las cuotas correspondientes al IMSS",
+      "Confidencialidad": "El trabajador debe guardar secretos industriales y comerciales"
+    },
+    "Vigencia": {
+      "Inicio": "1 de enero de 2024",
+      "Lugar de Firma": "Minatitlán, Veracruz",
+      "Estatus": "Contrato depositado ante el Centro Federal de Conciliación y Registro Laboral"
+    },
+    "Vacaciones": {
+      "Tabla": [
+        { "Antigüedad": "1 año", "Días Vacaciones": 12 },
+        { "Antigüedad": "2 años", "Días Vacaciones": 14 },
+        { "Antigüedad": "3 años", "Días Vacaciones": 16 },
+        { "Antigüedad": "4 años", "Días Vacaciones": 18 },
+        { "Antigüedad": "5 años", "Días Vacaciones": 20 },
+        { "Antigüedad": "6 a 10 años", "Días Vacaciones": 22 },
+        { "Antigüedad": "11 a 15 años", "Días Vacaciones": 24 },
+        { "Antigüedad": "16 a 20 años", "Días Vacaciones": 26 },
+        { "Antigüedad": "21 a 25 años", "Días Vacaciones": 28 },
+        { "Antigüedad": "26 a 30 años", "Días Vacaciones": 30 },
+        { "Antigüedad": "31 a 35 años", "Días Vacaciones": 32 },
+        { "Antigüedad": "36 a 40 años", "Días Vacaciones": 34 }
+      ]
+    }
+  }
+}

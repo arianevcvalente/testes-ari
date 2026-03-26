@@ -1,0 +1,180 @@
+{
+  "name": "SABRITAS ORIZABA",
+  "content": {
+    "Datos Base": {
+      "Empresa": "Comercializadora Pepsico México S. de R.L. de C.V.",
+      "Centro de Trabajo": "Av. Camino Nacional 61, Colonia Hospitalito, Río Blanco, Veracruz",
+      "Sindicato": "Sindicato Nacional Alimenticio y del Comercio, Similares y Conexos de la República Mexicana (SNAC)",
+      "Trabajadores Cubiertos": 47,
+      "Vigencia": "1 de abril de 2024",
+      "Duracion": "Tiempo indeterminado",
+      "Reglas Revision": "Revisable conforme a los plazos legales",
+      "Regla Antiguedad Prestaciones": "Prestaciones contractuales aplican a partir del mes 13 de servicio"
+    },
+    "Roles y Sindicato": {
+      "Definiciones": [
+        "Empresa",
+        "Sindicato",
+        "Trabajadores operativos",
+        "Trabajadores de Confianza"
+      ],
+      "Administracion Empresa": "La empresa mantiene la facultad de administrar y realizar cambios operativos, incluyendo renombrar o suprimir puestos",
+      "Tercerizacion": "La empresa puede contratar servicios de terceros para labores no cubiertas por el contrato"
+    },
+    "Horarios y Jornadas": {
+      "Normativa": "Conforme a los artículos 59 al 65 de la Ley Federal del Trabajo",
+      "Establecimiento Horarios": "La empresa determina turnos y horarios según necesidades de operación",
+      "Modificaciones": "La empresa puede modificar turnos, horarios y descansos según necesidades operativas"
+    },
+    "Pagos y Salarios": {
+      "Frecuencia Pago": "Semanal",
+      "Metodo Pago": "Moneda de curso legal",
+      "Cuotas Sindicales": "La empresa descontará cuotas sindicales ordinarias",
+      "Tabulador Salarial": {
+        "Vendedor Detalle DTS": {
+          "Canal": "DTS SALA",
+          "Descripcion": "Paketaxo / Supl MXT",
+          "Salario Diario": 248.93,
+          "Salario Semanal": 1742.51
+        }
+      },
+      "Comisiones": {
+        "Linea Salado": "3.0%",
+        "Linea Dulce": "6.3%",
+        "Condicion": "Incluye pago de séptimo día y festivos dentro de la comisión"
+      }
+    },
+    "Beneficios y Prestaciones": {
+      "Vacaciones y Prima Vacacional": {
+        "Tabla": [
+          {"Antiguedad": "1 año", "Vacaciones": 12, "Prima": "40%"},
+          {"Antiguedad": "2 años", "Vacaciones": 14, "Prima": "70%"},
+          {"Antiguedad": "3 años", "Vacaciones": 16, "Prima": "80%"},
+          {"Antiguedad": "4 años", "Vacaciones": 18, "Prima": "80%"},
+          {"Antiguedad": "5 a 8 años", "Vacaciones": 20, "Prima": "80%"},
+          {"Antiguedad": "8 a 9 años", "Vacaciones": 22, "Prima": "100%"},
+          {"Antiguedad": "10 a 14 años", "Vacaciones": 24, "Prima": "106%"},
+          {"Antiguedad": "15 a 20 años", "Vacaciones": 26, "Prima": "100%"},
+          {"Antiguedad": "20 a 25 años", "Vacaciones": 28, "Prima": "100%"},
+          {"Antiguedad": "25 a 30 años", "Vacaciones": 30, "Prima": "100%"},
+          {"Antiguedad": "30 a 35 años", "Vacaciones": 32, "Prima": "100%"},
+          {"Antiguedad": "Más de 35 años", "Vacaciones": "Aumenta 2 días cada 5 años", "Prima": "100%"}
+        ]
+      },
+      "Aguinaldo": {
+        "Menos de 1 año": "15 días",
+        "1 año": "18 días",
+        "2 años": "21 días",
+        "3 a 5 años": "26 días",
+        "6 años o mas": "32 días"
+      },
+      "Fondo Ahorro": {
+        "Empresa": "6%",
+        "Trabajador": "6%",
+        "Base": "Salario fijo más comisión",
+        "Entrega": "Finales de enero"
+      },
+      "Seguro Vida": {
+        "Muerte Accidental": 180000,
+        "Muerte Natural": 90000
+      },
+      "Vales Despensa": {
+        "Monto": "11% del salario fijo más comisión",
+        "Periodicidad": "Cada 28 días"
+      },
+      "Utiles Escolares": {
+        "Monto": 2000,
+        "Entrega": "Agosto"
+      }
+    },
+    "Permisos y Ayudas": {
+      "Matrimonio": {
+        "Apoyo": 1260,
+        "Permiso": "2 días con goce de sueldo",
+        "Condicion": "Una sola vez"
+      },
+      "Nacimiento Hijos": {
+        "Apoyo": 1260,
+        "Permiso": "5 días con goce de sueldo"
+      },
+      "Paternidad y Adopcion": {
+        "Permiso": "5 días laborables con goce de sueldo"
+      },
+      "Defuncion Familiar": {
+        "Apoyo": 3500,
+        "Permiso": "2 días con goce de sueldo"
+      },
+      "Defuncion Trabajador": {
+        "Apoyo": 3675
+      }
+    },
+    "Descansos": {
+      "Dias Festivos": [
+        "1 de enero",
+        "Primer lunes de febrero",
+        "Tercer lunes de marzo",
+        "1 de mayo",
+        "16 de septiembre",
+        "Tercer lunes de noviembre",
+        "25 de diciembre",
+        "Cambio de Poder Ejecutivo",
+        "Viernes Santo",
+        "Días electorales"
+      ],
+      "Pago Festivo Trabajado": "Dos salarios promedio adicionales al sueldo normal"
+    },
+    "Seguridad y Salud": {
+      "IMSS": "Inscripción obligatoria",
+      "Incapacidad General": {
+        "Condicion": "Mayor a 4 días",
+        "Complemento": "La empresa cubre la diferencia no pagada por el IMSS",
+        "Periodo": "Del día 4 hasta 120 días"
+      },
+      "Uniformes": {
+        "Entrega": "Anual",
+        "Contenido": [
+          "3 pantalones",
+          "5 camisas",
+          "1 par de zapatos",
+          "1 chamarra"
+        ]
+      },
+      "Protocolo Prevencion": "Compromiso para prevenir discriminación, violencia laboral, acoso y hostigamiento sexual"
+    },
+    "Capacitacion": {
+      "Temas": [
+        "Normas de convivencia laboral",
+        "Prevención de acoso",
+        "Orientación laboral"
+      ]
+    },
+    "Ascensos": {
+      "Escalafon": "Vacantes y promociones se rigen por derechos de escalafón y antigüedad",
+      "Comision": "Integración de comisión mixta para evaluación"
+    },
+    "Disciplina": {
+      "Aseo y Uniforme": "Obligatorio presentarse aseado y con uniforme limpio",
+      "Uso Uniforme": "No debe utilizarse fuera del horario laboral salvo autorización",
+      "Accidentes Vehiculares": "Trabajador responsable paga deducible del 2% del valor comercial de la unidad",
+      "Reglamento Interior": "Las partes elaborarán un Reglamento Interior de Trabajo"
+    },
+    "Trabajadores": {
+      "Planta": "Contratados por tiempo indeterminado",
+      "Temporales": "Por obra o tiempo determinado",
+      "Flexibilidad Jornada": "Puede ser tiempo completo o medio tiempo"
+    },
+    "Trabajadores Confianza": {
+      "Exclusion": "No están sujetos a este contrato",
+      "Puestos": [
+        "Directores",
+        "Gerentes",
+        "Supervisores",
+        "Almacenistas",
+        "Personal de transporte",
+        "Secretarias",
+        "Vigilancia",
+        "Administrativos con funciones de supervisión"
+      ]
+    }
+  }
+}

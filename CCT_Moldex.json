@@ -1,0 +1,135 @@
+{
+  "name": "MOLDEX",
+  "content": {
+    "Datos Base": {
+      "Empresa": "Moldes y Exhibidores, S.A. de C.V.",
+      "Centros de Trabajo": [
+        "Paseo Tollocan No. 128 Local K, Parque Industrial Lerma, Estado de México",
+        "Emiliano Zapata S/N Local K, Parque Industrial Lerma, Estado de México",
+        "Cualquier centro futuro o lugar donde se realicen labores físicamente"
+      ],
+      "Sindicato": "Sindicato Nacional Alimenticio y del Comercio, Similares y Conexos de la República Mexicana (SNAC)",
+      "Trabajadores Cubiertos": "Todas las personas físicas que prestan servicios personales subordinados a la empresa, excluyendo a los de confianza",
+      "Vigencia": "16 de octubre de 2025",
+      "Duración": "Indefinida mientras la empresa no sea clausurada legalmente",
+      "Reglas de Revisión": "Revisable conforme a los artículos 399 y 399 Bis de la Ley Federal del Trabajo"
+    },
+    "Roles y Sindicato": {
+      "Definición de Trabajador": "Personas físicas que prestan servicios personales subordinados",
+      "Representación Sindical": "La empresa reconoce al sindicato como el único representante del interés profesional de los trabajadores",
+      "Administración": "El sindicato reconoce que la administración de la empresa corresponde exclusivamente a esta",
+      "Resolución de Conflictos": "Lo no estipulado se ajustará a principios de justicia social, derecho, jurisprudencia, costumbre y equidad"
+    },
+    "Horarios": {
+      "Días de Trabajo": "Seis días de trabajo por uno de descanso",
+      "Tipos de Jornada": {
+        "Diurna": "8 horas entre las 06:00 y 20:00",
+        "Nocturna": "7 horas entre las 20:00 y 06:00",
+        "Mixta": "7.5 horas con menos de 3.5 horas nocturnas"
+      },
+      "Tiempo Extra": "100% adicional por las primeras 9 horas semanales y 200% adicional por las que excedan, con autorización expresa de la empresa"
+    },
+    "Pagos": {
+      "Garantía Salarial": "Ningún trabajador recibirá menos del salario mínimo general vigente",
+      "Método y Frecuencia": "Pago semanal en efectivo y moneda de curso legal en el centro de trabajo o vía sistema bancario",
+      "Protección del Salario": "No habrá mermas por causas imputables a la empresa; la empresa debe proveer materiales y herramientas a tiempo",
+      "Cuotas Sindicales": "La empresa retendrá las cuotas sindicales y las entregará al sindicato sin costo"
+    },
+    "Beneficios": {
+      "Vacaciones y Prima": {
+        "1 año": "12 días y 3.5 días de prima",
+        "2 años": "14 días y 6 días de prima",
+        "3 años": "16 días y 7.5 días de prima",
+        "4 años": "18 días y 8.5 días de prima",
+        "5 años": "20 días y 8.5 días de prima",
+        "6 a 10 años": "22 días y entre 8.5 y 9.5 días de prima",
+        "11 a 15 años": "24 días y entre 10 y 10.5 días de prima",
+        "16 a 20 años": "26 días y entre 11 y 11.5 días de prima",
+        "21 a 25 años": "28 días y 12 días de prima",
+        "26 a 30 años": "30 días y 12.5 días de prima",
+        "31 a 35 años": "32 días y 12.5 días de prima"
+      },
+      "Aguinaldo": {
+        "1 a 5 años": "18 días de salario",
+        "6 años o más": "19 días de salario"
+      },
+      "Vales de Despensa": "Hasta $2,300.00 para trabajadores de planta sin faltas ni acumulación de 5 retardos o 25 minutos de retraso; el trabajador aporta 0.5% del monto",
+      "Premio Nocturno": "25% adicional del salario diario por cada jornada nocturna trabajada",
+      "Fondos de Ahorro": {
+        "Anual": {
+          "Trabajador": "0.5% del salario",
+          "Empresa": "0.5% del salario"
+        },
+        "Retiro Largo Plazo": {
+          "Trabajador": "4%",
+          "Empresa": "4%"
+        }
+      },
+      "Uniformes": "Dos uniformes al ingreso, dos al obtener la planta y dos cada semestre; incluye un par de botas de seguridad al año",
+      "Seguro de Vida": {
+        "Muerte Natural": "$550,000",
+        "Accidente de Trabajo": "$1,100,000",
+        "Beneficio Adicional": "Servicio funerario sin costo"
+      }
+    },
+    "Permisos": {
+      "Matrimonio": "6 días de salario y una semana de permiso con goce de sueldo",
+      "Paternidad": "5 días laborables con goce de sueldo por nacimiento o adopción",
+      "Adopción Mujeres": "6 semanas de descanso con goce de sueldo",
+      "Defunción Familiar": "2 días con goce de sueldo por fallecimiento de cónyuge, hijos o padres",
+      "Nacimiento": "Ayuda económica de $1,160.49; se duplica en caso de gemelos"
+    },
+    "Descansos": {
+      "Descanso Semanal": "Un día pagado por cada seis días laborados",
+      "Días Festivos": [
+        "1 de enero",
+        "5 de febrero",
+        "21 de marzo",
+        "1 de mayo",
+        "16 de septiembre",
+        "20 de noviembre",
+        "25 de diciembre",
+        "Transmisión del Poder Ejecutivo Federal",
+        "Viernes Santo"
+      ],
+      "12 de diciembre": "Se trabaja normalmente pero se paga un día adicional de salario",
+      "Trabajo en Descanso": "Se paga doble salario adicional al salario normal del día",
+      "Prima Dominical": "25% adicional del salario diario por trabajar en domingo"
+    },
+    "Seguridad": {
+      "Cumplimiento": "Obligación de cumplir la Ley del Seguro Social y el Reglamento Federal de Seguridad y Salud",
+      "Subsidio por Enfermedad": "Si la incapacidad supera 3 días, la empresa paga los primeros 3 al 100% y a partir del cuarto complementa con el IMSS hasta completar el 100% del salario por máximo 100 días al año"
+    },
+    "Capacitación": {
+      "Comisión Mixta": "Integrada por igual número de representantes para vigilar planes de capacitación",
+      "Obligatoriedad": "Se considera cumplida si la empresa ofrece la posibilidad efectiva de capacitar aunque el trabajador no la tome o no apruebe",
+      "Registro": "Los planes deben presentarse ante la Secretaría del Trabajo y Previsión Social"
+    },
+    "Ascensos": {
+      "Escalafón": "Basado en capacitación, antigüedad, aptitud y productividad",
+      "Selección": "El ascenso se otorga a quien obtenga el mejor resultado en exámenes y concursos de aptitud"
+    },
+    "Trabajadores Temporales": {
+      "Contratos Especiales": "Se pueden contratar por obra o tiempo determinado en casos justificados",
+      "Terminación": "Terminan automáticamente al concluir el objeto o tiempo pactado",
+      "Periodo de Prueba": "30 días de prueba y posteriormente 3 meses de capacitación inicial antes de obtener la planta"
+    },
+    "Personal de Confianza": {
+      "Definición": "Trabajadores dedicados a dirección, inspección, vigilancia y fiscalización",
+      "Exclusión": "Quedan fuera del contrato vigilantes, supervisores, personal de oficina, almacén y administración en general"
+    },
+    "Comisiones Mixtas": {
+      "Seguridad e Higiene": "Debe integrarse en un plazo máximo de 30 días",
+      "Becas": "11 becas de $1,014.00 mensuales de agosto a julio para personal de planta",
+      "Facilidades": "La empresa proporcionará lo necesario para que las comisiones operen dentro o fuera del horario laboral"
+    },
+    "Obligaciones": {
+      "Cumplimiento Legal": "Cumplir estrictamente con la LFT, IMSS y reglamentos vigentes",
+      "Desempeño": "Los trabajadores deben laborar con intensidad, cuidado, esmero, productividad y eficiencia"
+    },
+    "Vigencia Legal": {
+      "Sustitución": "Este contrato deja sin efectos cualquier contrato o convenio previo",
+      "Reglamento Interior": "La operación de la planta se rige por el Reglamento Interior de Trabajo"
+    }
+  }
+}

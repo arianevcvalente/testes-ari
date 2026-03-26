@@ -1,0 +1,148 @@
+{
+  "name": "CMDTA",
+  "content": {
+    "Datos Base": {
+      "Empresa": "Grupo CMDTA Méx., S. de R.L. de C.V.",
+      "Centros de Trabajo": {
+        "Principal": "Av. Añil número 611, piso 1, Colonia Granjas México, Iztacalco, CDMX.",
+        "Sucursal Torre Diamante": "Rodolfo Gaona número 3, piso 8, Colonia Periodista, Miguel Hidalgo, CDMX.",
+        "Sucursal Torre Condesa": "Av. Benjamín Franklin número 161, piso 5, Colonia Hipódromo, Cuauhtémoc, CDMX."
+      },
+      "Sindicato": "Sindicato Nacional Alimenticio y del Comercio (SNAC).",
+      "Vigencia": "Tiempo indefinido.",
+      "Reglas de Revisión": {
+        "Integral (Cláusulas)": "Cada dos años.",
+        "Salarial (Tabulador)": "Cada año."
+      },
+      "Nota": "La información combina datos del contrato inicial registrado en septiembre de 2024 y las tablas de prestaciones del contrato registrado en marzo de 2024."
+    },
+    "Roles y Sindicato": {
+      "Representación": "La empresa reconoce al SNAC como el único representante del interés profesional de los trabajadores.",
+      "Nuevos Ingresos": "La empresa selecciona y contrata a los nuevos trabajadores, pero el Sindicato los acepta como agremiados (Cláusula de admisión).",
+      "Cobranza Delegada": "El Sindicato puede solicitar a la empresa que descuente vía nómina pagos de bienes o servicios que el trabajador adquiera voluntariamente a través de convenios sindicales."
+    },
+    "Horarios": {
+      "Jornada Semanal": "6 días de trabajo por 1 día de descanso.",
+      "Turnos": {
+        "Diurna": "8 horas (entre 6:00 y 20:00).",
+        "Nocturna": "7 horas (entre 20:00 y 6:00).",
+        "Mixta": "7.5 horas (menos de 3.5 horas nocturnas)."
+      },
+      "Teletrabajo": "Si se contrata bajo esta modalidad, se rige por el artículo 311 y el Capítulo XII Bis de la Ley Federal del Trabajo. Las condiciones se harán constar por escrito en contrato individual."
+    },
+    "Pagos": {
+      "Tabulador": "Los salarios se ajustan al anexo del contrato (montos específicos no visibles en el extracto, pero referenciados).",
+      "Garantía Mínima": "Nadie percibirá un salario inferior al mínimo general o profesional de la zona.",
+      "Forma de Pago": "En efectivo o vía electrónica (transferencia bancaria).",
+      "Frecuencia": "Se menciona pago semanal en el contrato inicial de septiembre 2024, aunque versiones previas mencionaban quincenal.",
+      "Descuentos": "La empresa descuenta las cuotas sindicales ordinarias."
+    },
+    "Beneficios": {
+      "Aguinaldo": "16 días de salario. Se paga antes del 20 de diciembre. Si no se trabajó todo el año, se paga la parte proporcional.",
+      "Prima Vacacional": "Inicia en 25% y sube al 50% a partir del cuarto año de antigüedad (ver tabla en sección 'Vacaciones').",
+      "Caja de Ahorro": "Fomento para constituir una caja de ahorro voluntaria donde el trabajador decide la cantidad a ahorrar y solicitar préstamos; la empresa realiza la retención y entrega.",
+      "Seguro de Gastos Médicos Menores": "La empresa proporcionará un seguro de gastos médicos menores conforme a las bases de la póliza contratada."
+    },
+    "Permisos": {
+      "Paternidad": "5 días laborales con goce de salario diario tabulado por nacimiento de hijos o adopción.",
+      "Adopción (Madres)": "6 semanas de descanso con goce de salario diario tabulado a partir de la entrega del infante."
+    },
+    "Descansos": {
+      "Descanso Semanal": "Un día de descanso con goce de salario por cada 6 trabajados.",
+      "Días Festivos": "1 enero, primer lunes febrero, tercer lunes marzo, 1 mayo, 16 septiembre, tercer lunes noviembre, 25 diciembre, y el día de transmisión del Poder Ejecutivo Federal (cada 6 años)."
+    },
+    "Seguridad": {
+      "Comisión Mixta": "Empresa y Sindicato se comprometen a integrar la Comisión Mixta de Higiene y Seguridad.",
+      "Obligaciones": "Cumplimiento estricto de la Ley del Seguro Social y reglamentos de seguridad."
+    },
+    "Capacitación": {
+      "Comisiones": "Se integrará la Comisión Mixta de Capacitación, Adiestramiento y Productividad con igual número de representantes.",
+      "Planes y Programas": "La empresa debe establecer sistemas de capacitación conforme a la ley.",
+      "Personal Nuevo": "Recibirá capacitación inicial; mientras tanto, sus condiciones serán las mínimas de ley."
+    },
+    "Ascensos": {
+      "Escalafón": "Derecho de ascenso considerando capacitación, antigüedad, aptitud y productividad. Se implementará de común acuerdo.",
+      "Exámenes": "Para ascender, el trabajador debe demostrar aptitud. En igualdad de condiciones, se prefiere al trabajador sindicalizado y con mayor antigüedad."
+    },
+    "Disciplina": {
+      "Reglamento Interior": "El trabajo en las sucursales o dependencias se regirá por lo estipulado en el Reglamento Interior de Trabajo."
+    },
+    "Temporales": {
+      "Contratación": "Permitida por obra o tiempo determinado (conforme a la ley). Terminación automática al concluir el objeto del contrato.",
+      "Trabajos Especiales": "La empresa puede contratar servicios externos para tareas exclusivas no relacionadas con el objeto social principal."
+    },
+    "Confianza": {
+      "Definición": "Personal de dirección, inspección, fiscalización y vigilancia. Incluye vigilantes, supervisores y personal administrativo. Están excluidos del contrato colectivo."
+    },
+    "Comisiones": {
+      "Integración": "Empresa y Sindicato integran Comisiones Mixtas (temporales y permanentes) según el Artículo 391 de la Ley Federal del Trabajo.",
+      "Facilidades": "La empresa proporcionará facilidades para el funcionamiento de estas comisiones."
+    },
+    "Utilidades": {
+      "PTU": "Los trabajadores participarán en las utilidades según el porcentaje que determine la Comisión Nacional para la Participación de los Trabajadores en las Utilidades."
+    },
+    "Áreas": {
+      "Cobertura": "El contrato cubre las oficinas corporativas y sucursales en CDMX (Iztacalco, Miguel Hidalgo, Cuauhtémoc).",
+      "Reubicación": "La reubicación de trabajadores de la calle San Luis Potosí a las nuevas ubicaciones no afecta sus derechos adquiridos."
+    },
+    "Obligaciones": {
+      "Intensidad del Trabajo": "Los trabajadores deben desempeñar sus labores con la intensidad, cuidado, esmero, productividad y eficiencia apropiados."
+    },
+    "Vigencia": {
+      "Inicio": "El contrato inicial más reciente tiene fecha de registro de septiembre de 2024, con efectos a partir del 1 de enero de 2024 según documentos previos.",
+      "Duración": "Indefinida."
+    },
+    "Vacaciones": {
+      "Tabla": {
+        "1 año": {
+          "Días": "12",
+          "Prima Vacacional": "25%"
+        },
+        "2 años": {
+          "Días": "15",
+          "Prima Vacacional": "25%"
+        },
+        "3 años": {
+          "Días": "18",
+          "Prima Vacacional": "25%"
+        },
+        "4 años": {
+          "Días": "20",
+          "Prima Vacacional": "50%"
+        },
+        "5 años": {
+          "Días": "22",
+          "Prima Vacacional": "50%"
+        },
+        "6 a 10 años": {
+          "Días": "24",
+          "Prima Vacacional": "50%"
+        },
+        "11 a 15 años": {
+          "Días": "26",
+          "Prima Vacacional": "50%"
+        },
+        "16 a 20 años": {
+          "Días": "26",
+          "Prima Vacacional": "50%"
+        },
+        "21 a 25 años": {
+          "Días": "28",
+          "Prima Vacacional": "50%"
+        },
+        "26 a 30 años": {
+          "Días": "30",
+          "Prima Vacacional": "50%"
+        },
+        "31 a 35 años": {
+          "Días": "32",
+          "Prima Vacacional": "50%"
+        },
+        "36 a 40 años": {
+          "Días": "34",
+          "Prima Vacacional": "50%"
+        }
+      }
+    }
+  }
+}

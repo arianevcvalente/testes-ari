@@ -1,0 +1,211 @@
+{
+  "name": "RICOLINO SLP",
+  "content": {
+    "Datos Base": {
+      "Empresa": "Productos Ricolino, S.A.P.I. de C.V. (Planta San Luis Potosí)",
+      "Centros de Trabajo": [
+        "Planta SLP (Eje 100 #225)",
+        "Cedis SLP (Parque Millenium)",
+        "Cedis Lerma Park (Estado de México)",
+        "Reempaque Cuautitlán (Estado de México)",
+        "Otras dependencias o unidades móviles de venta presentes o futuras"
+      ],
+      "Sindicato": "Sindicato Nacional Alimenticio y del Comercio, Similares y Conexos de la República Mexicana (SNAC)",
+      "Trabajadores Cubiertos": "Aproximadamente 1,425 trabajadores de planta y temporales",
+      "Vigencia Contrato": "A partir del 1 de octubre de 2023",
+      "Vigencia Tabulador": "Hasta el 30 de septiembre de 2024, prorrogable hasta nueva revisión",
+      "Duracion": "Tiempo indefinido",
+      "Reglas Revision": "Revisable conforme a los artículos 399 y 399 Bis de la Ley Federal del Trabajo"
+    },
+    "Roles y Sindicato": {
+      "Definicion Trabajador": "Persona física que presta servicios personales subordinados",
+      "Representacion Sindical": "El sindicato es el único representante legal del interés profesional de los trabajadores",
+      "Administracion Empresa": "La administración corresponde exclusivamente a la empresa",
+      "Resolucion Conflictos": "Las partes se obligan a tratar directamente cualquier dificultad derivada de la interpretación del contrato o la ley",
+      "Exclusividad Maniobras": "Las labores de manejo, carga y descarga de materiales y productos serán realizadas exclusivamente por personal afiliado al sindicato"
+    },
+    "Horarios y Jornada": {
+      "Dias Trabajo": "6 días de trabajo por 1 de descanso",
+      "Jornada Diurna": "8 horas entre 06:00 y 20:00",
+      "Jornada Nocturna": "7 horas entre 20:00 y 06:00",
+      "Jornada Mixta": "7.5 horas",
+      "Tiempo Extra": {
+        "Primeras 9 Horas Semanales": "100% adicional",
+        "Excedente": "200% adicional",
+        "Condicion": "Requiere autorización expresa de la empresa"
+      }
+    },
+    "Pagos y Salarios": {
+      "Garantia Minima": "Ningún salario será inferior al salario mínimo general vigente",
+      "Metodo Pago": "Pago semanal en efectivo o sistema establecido dentro de horas de trabajo",
+      "Cuota Sindical": "Retención gratuita por la empresa para el sindicato",
+      "Tabulador Salarial": {
+        "Planta y Cedis SLP": {
+          "Operario": {
+            "Nuevo": 311.54,
+            "Planta": 327.10
+          },
+          "Ayudante Despacho": {
+            "Nuevo": 354.00,
+            "Planta": 371.69
+          },
+          "Mecanico Mantenimiento": {
+            "Nuevo": 474.76,
+            "Planta": 498.52
+          },
+          "Operario Full": {
+            "Nuevo": 475.04,
+            "Planta": 498.79
+          },
+          "Montacarguista": {
+            "Rango": "413.62 a 433.49"
+          }
+        },
+        "Lerma Park y Cuautitlan": {
+          "Operario": {
+            "Nuevo": 295.76,
+            "Planta": 311.70
+          },
+          "Mecanico Mantenimiento": 414.99
+        }
+      }
+    },
+    "Beneficios": {
+      "Aguinaldo": {
+        "1 a 5 años": "24 días",
+        "6 a 10 años": "25 días",
+        "11 a 20 años": "26 días",
+        "21 años o mas": "27 días"
+      },
+      "Vales Despensa": {
+        "Monto": 1900,
+        "Frecuencia": "Mensual",
+        "Condicion": "Se descuentan proporcionalmente por faltas injustificadas",
+        "Aportacion Trabajador": "0.5% vía nómina"
+      },
+      "Premio Nocturno": {
+        "Personal General": "2 horas adicionales de salario diario por jornada nocturna",
+        "Transportistas": 117.66
+      },
+      "Fondos Ahorro": {
+        "Anual": {
+          "Trabajador": "4.5%",
+          "Empresa": "4.5%"
+        },
+        "Largo Plazo Retiro": {
+          "Trabajador": "4.0%",
+          "Empresa": "4.0%"
+        }
+      },
+      "Seguro Vida": {
+        "Muerte Natural o Invalidez": 450000,
+        "Muerte Accidental Trabajo": 900000
+      },
+      "Uniformes": "Entrega de ropa de trabajo y equipo de seguridad en mayo y noviembre"
+    },
+    "Permisos y Ayudas": {
+      "Matrimonio": {
+        "Prima": "9 días de salario",
+        "Permiso": "1 semana con goce de sueldo"
+      },
+      "Nacimiento": {
+        "Prima": 750
+      },
+      "Paternidad": "5 días laborables con goce de sueldo",
+      "Adopcion": "6 semanas de descanso pagado para trabajadoras",
+      "Defuncion Familiares": {
+        "Conyuge": 4062.45,
+        "Hijos": 2901.75,
+        "Permiso Local": "2 días",
+        "Permiso Fuera Localidad": "3 días"
+      },
+      "Becas": {
+        "Cantidad": 13,
+        "Monto Mensual": 1023.50
+      },
+      "Enfermedad General": {
+        "Subsidio": "Completa el 100% del salario desde el cuarto día (80% para transportistas)",
+        "Limite": "Hasta 110 días al año"
+      },
+      "Licencia Sin Sueldo": {
+        "Maximo": "45 días al año",
+        "Limite Personal": "Hasta 5% del personal"
+      }
+    },
+    "Descansos y Vacaciones": {
+      "Festivos": "Días oficiales de ley más Viernes Santo",
+      "Dia Virgen": {
+        "Fecha": "12 de diciembre",
+        "Condicion": "Se trabaja pero se paga un día adicional"
+      },
+      "Septimo Dia": "Un día de descanso pagado por cada 6 trabajados",
+      "Prima Dominical": "45% sobre salario diario",
+      "Vacaciones": {
+        "Tabla Referencial": {
+          "1 año": {
+            "Vacaciones": 12,
+            "Prima": 4
+          },
+          "5 años": {
+            "Vacaciones": 20,
+            "Prima": 7.5
+          },
+          "10 años": {
+            "Vacaciones": 22,
+            "Prima": 9
+          },
+          "35 años": {
+            "Vacaciones": 32,
+            "Prima": 15
+          }
+        }
+      }
+    },
+    "Seguridad y Capacitacion": {
+      "Seguridad Higiene": "Cumplimiento legal y formación de comisión mixta en 30 días",
+      "Capacitacion": "La empresa debe proporcionar capacitación conforme a la ley",
+      "Condicion Cumplimiento": "Se considera cumplida si el trabajador tiene la opción de asistir aunque no participe o apruebe",
+      "Comision Capacitacion": "Órgano paritario que supervisa planes y programas"
+    },
+    "Ascensos y Escalafon": {
+      "Criterios": [
+        "Capacitación",
+        "Antigüedad",
+        "Aptitud",
+        "Productividad"
+      ],
+      "Evaluacion": "La aptitud se demuestra aprobando exámenes con el mejor resultado entre aspirantes"
+    },
+    "Periodo Prueba y Temporales": {
+      "Vacantes Planta": "Requieren periodo de prueba y examen de conocimientos",
+      "Terminacion": "Si no se aprueba el examen la empresa puede terminar la relación laboral sin responsabilidad",
+      "Trabajadores Temporales": "Permitidos para obra o tiempo determinado en casos justificados",
+      "Servicios Especiales": "Se pueden contratar externamente si no forman parte del giro principal"
+    },
+    "Personal Confianza": {
+      "Definicion": "Personal con funciones de dirección, inspección, vigilancia o fiscalización, así como administrativos",
+      "Aplicacion": "No están cubiertos por el contrato colectivo"
+    },
+    "Obligaciones y Disciplina": {
+      "Calidad Servicio": "El trabajo debe realizarse con intensidad, cuidado, productividad y eficiencia",
+      "Materiales": "La empresa debe proporcionar herramientas y materiales oportunamente",
+      "Reglamento Interior": "Las labores se rigen por el reglamento interior de trabajo",
+      "No Discriminacion": "Protocolos contra discriminación, acoso y violencia laboral"
+    },
+    "Transportistas": {
+      "Viaticos": 182.78,
+      "Condicion": "Para rutas de dos o más días continuos",
+      "Base Calculo Prestaciones": "Promedio de ingresos de semanas anteriores excluyendo viáticos y tiempo extra"
+    },
+    "Comisiones Mixtas": {
+      "Integracion": "Representantes de empresa y sindicato",
+      "Funciones": "Cumplimiento de obligaciones legales, sociales y económicas",
+      "Asistencia": "Obligatoria con facilidades por parte de la empresa"
+    },
+    "Disposiciones Finales": {
+      "Dia Virgen Condicion": "Si el trabajador falta el 12 de diciembre pierde el pago adicional del día",
+      "Derogacion": "Este contrato anula cualquier convenio o contrato previo",
+      "Supletoriedad": "Todo lo no previsto se resolverá conforme al Artículo 123 Constitucional y la Ley Federal del Trabajo"
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "name": "BARCEL ATITALAQUIA",
+  "content": {
+    "Datos Base": {
+        "Empresa": "Barcel, S.A. de C.V. (Planta Atitalaquia).",
+        "Centro de Trabajo": "Planta ubicada en Lote 5 y 6 Zona Oriente, Parque Industrial Atitalaquia, Hidalgo, C.P. 42970. Aplica también a dependencias y centros de ventas dependientes de esta planta.",
+        "Sindicato": "Sindicato Nacional Alimenticio y del Comercio (SNAC).",
+        "Vigencia": "A partir del 16 de octubre de 2023.",
+        "Duración": "Indefinida. El contrato prevalece mientras la empresa exista, pero se puede revisar.",
+        "Reglas de Revisión": "Revisión integral cada dos años y revisión de salarios anualmente (Artículos 399 y 399 Bis de la Ley)."
+    },
+    "Roles y Sindicato": {
+        "Reconocimiento": "El SNAC es el único representante del interés profesional de los trabajadores. La empresa tratará todos los conflictos laborales con el sindicato.",
+        "Manejo de Materiales": "Las maniobras de carga, descarga, manejo y distribución de materias primas y productos terminados deben ser realizadas exclusivamente por afiliados al SNAC.",
+        "Puestos Vacantes (Cláusula 10)": "La empresa contrata nuevos trabajadores según su proceso, pero el Sindicato los acepta entre sus agremiados (cláusula de admisión)."
+    },
+    "Horarios": {
+        "Jornada Laboral (Cláusula 15)": "Se trabaja 6 días a la semana con un día de descanso.",
+        "Tipos de Jornada": {
+            "Diurna": "8 horas diarias (entre 6:00 y 20:00 hrs). 48 hrs semanales.",
+            "Nocturna": "7 horas diarias (entre 20:00 y 6:00 hrs). 42 hrs semanales.",
+            "Mixta": "7.5 horas diarias. 45 hrs semanales."
+        },
+        "Horas Extras": "Se pagan al 100% las primeras 9 horas semanales y al 200% las excedentes. Deben ser autorizadas por escrito por la empresa."
+    },
+    "Pagos": {
+        "Salarios": "Se ajustan al tabulador anexo (no visible en el extracto).",
+        "Garantía Mínima": "Ningún trabajador ganará menos del salario mínimo legal de la zona.",
+        "Forma de Pago": "Semanal, en efectivo o medios electrónicos, en el lugar de trabajo.",
+        "Cuota Sindical": "La empresa descuenta las cuotas ordinarias del salario y las entrega al sindicato. El servicio es gratuito."
+    },
+    "Beneficios": {
+        "Aguinaldo": {
+            "Pago": "Antes del 20 de diciembre de cada año.",
+            "Días según antigüedad": {
+                "1 a 5 años": "19 días",
+                "6 a 10 años": "20 días",
+                "11 a 20 años": "21 días",
+                "21 años en adelante": "22 días"
+            }
+        },
+        "Prima Vacacional": "Varía entre 4 y 15 días de salario según antigüedad.",
+        "Vales de Despensa": "$2,100.00 mensuales para quienes no tengan faltas injustificadas. El trabajador aporta el 0.5% del monto.",
+        "Premio Puntualidad/Productividad": "Bono anual del 25% sobre el PTU si no hubo faltas y se cumplió récord de puntualidad.",
+        "Fondo de Ahorro": {
+            "Anual": "El trabajador ahorra 4% semanal y la empresa aporta otro 4%. Se entrega anualmente.",
+            "Largo Plazo": "Ahorro del 4% del trabajador y 4% de la empresa semanalmente. Se entrega al retiro o jubilación."
+        },
+        "Premio Nocturno": "1.5 horas de salario diario adicional por turno nocturno trabajado.",
+        "Ayuda Defunción": {
+            "Cónyuge/Concubina": "$2,102.95",
+            "Hijos": "$1,460.73"
+        },
+        "Seguro de Vida": {
+            "Muerte natural": "$520,000.00",
+            "Muerte accidental": "$1,040,000.00",
+            "Invalidez total permanente": "$520,000.00"
+        },
+        "Becas": "13 becas para trabajadores o hijos por $1,023.50 cada una.",
+        "Ayuda Deportiva": "$2,279.30 mensuales para fomento al deporte.",
+        "Vacaciones y Prima": {
+            "1 año": "12 días y 4 días de prima",
+            "2 años": "14 días y 4 días de prima",
+            "3 años": "16 días y 4.5 días de prima",
+            "4 años": "18 días y 5 días de prima",
+            "5 años": "20 días y 5.5 días de prima",
+            "6 a 10 años": "22 días y 5.5 días de prima",
+            "11 a 15 años": "24 días y 6 a 7 días de prima",
+            "16 a 20 años": "26 días y 7 a 7.5 días de prima",
+            "21 a 25 años": "28 días y 7.5 a 8 días de prima",
+            "26 a 30 años": "30 días y 7.5 a 8 días de prima",
+            "31 a 35 años": "32 días y 9 días de prima"
+        }
+    },
+    "Permisos": {
+        "Matrimonio": "Prima de 9 días de salario + 1 semana de permiso con goce de sueldo (incluye 7º día).",
+        "Paternidad": "5 días laborales con goce de sueldo por nacimiento o adopción.",
+        "Adopción (Madres)": "6 semanas de descanso con goce de sueldo.",
+        "Defunción": "1 día con goce de sueldo (si es local) o 2 días (si es foráneo), adicionales a la ayuda económica."
+    },
+    "Descansos": {
+        "Descanso Semanal": "Un día de descanso con goce de sueldo por cada 6 trabajados.",
+        "Días Festivos Obligatorios": "1 enero, primer lunes de febrero, tercer lunes de marzo, 1 mayo, 16 septiembre, tercer lunes de noviembre, 25 diciembre, cambio de gobierno federal. Además del Viernes Santo y el 12 de diciembre (este último se paga como día adicional).",
+        "Pago en Descanso/Festivo": "Si se trabaja en día de descanso o festivo, se paga salario doble adicional al normal.",
+        "Prima Dominical": "30% adicional sobre el salario diario si se trabaja en domingo."
+    },
+    "Seguridad": {
+        "Obligaciones": "Empresa y trabajadores deben cumplir estrictamente la Ley del Seguro Social y reglamentos de seguridad.",
+        "Comisión Mixta": "Se integra la Comisión Mixta de Seguridad e Higiene en un plazo de 30 días.",
+        "Ropa de Trabajo": "La empresa dotará de ropa necesaria en mayo y noviembre, además de equipo de seguridad y zapatos."
+    },
+    "Capacitación": {
+        "Comisión Mixta": "Se constituye para vigilar la capacitación y productividad.",
+        "Nuevo Ingreso": "Recibirán capacitación inicial según la ley.",
+        "Obligación": "La empresa debe capacitar conforme a los planes establecidos. Se considera cumplida la obligación si el trabajador no aprueba el curso."
+    },
+    "Ascensos": {
+        "Escalafón": "Derecho de ascenso considerando capacitación, antigüedad, aptitud y productividad. Se reglamenta entre empresa y sindicato.",
+        "Exámenes": "Para ascender, el trabajador debe demostrar aptitud aprobando el examen con el mejor resultado. En igualdad de condiciones, decide la antigüedad."
+    },
+    "Disciplina": {
+        "Faltas": "Las faltas a la Ley o al Reglamento Interior serán sancionadas, aunque el procedimiento específico detallado no aparece en los extractos, se hace referencia al cumplimiento del Reglamento Interior."
+    },
+    "Temporales": {
+        "Contratación": "Permitida por obra o tiempo determinado según la ley (arts. 36 y 37 LFT). Terminación automática al concluir el objeto del contrato.",
+        "Servicios Especiales": "La empresa puede contratar servicios externos para tareas exclusivas y no relacionadas con el objeto social principal."
+    },
+    "Confianza": {
+        "Definición": "Dirección, inspección, fiscalización, vigilancia y trabajos personales del patrón. Incluye vigilantes, supervisores y administrativos. Están excluidos del contrato colectivo."
+    },
+    "Comisiones": {
+        "Integración": "Se integran comisiones mixtas (empresa-sindicato) según la ley (Seguridad, Capacitación, etc.). Los representantes deben asistir a cursos y sesiones."
+    },
+    "Utilidades": {
+        "Reparto": "Se menciona indirectamente en el 'Premio Anual por Puntualidad y Productividad', el cual es un porcentaje adicional ligado al reparto de utilidades."
+    },
+    "Áreas": {
+        "Aplicación": "El contrato se aplica a la Planta Atitalaquia y todas sus dependencias, departamentos y centros de ventas relacionados. El trabajo en planta y centros de venta se rige por el Reglamento Interior de Trabajo."
+    },
+    "Obligaciones": {
+        "Enfermedad": "Subsidio por enfermedad general (no profesional). La empresa paga el complemento para llegar al 100% del salario (hasta 60 días). Requiere certificado del IMSS.",
+        "Prima de Nacimiento": "$862.50 por nacimiento de hijo (para trabajadoras o esposas de trabajadores). Si el hijo fallece (gestación min. 7 meses), se paga la ayuda de defunción."
+    },
+    "Vigencia": {
+        "Inicio": "16 de octubre de 2023.",
+        "Derogación": "Este contrato anula cualquier convenio anterior (Cláusula 7)."
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "name": "MANZANEDA",
+  "content": {
+    "Datos Base": {
+      "Empresa": "Manzaneda, S.A. de C.V.",
+      "Actividad": "Fabricación y venta de dulces y chocolates",
+      "Sindicato": "Sindicato Nacional Alimenticio y del Comercio, Similares y Conexos de la República Mexicana (SNAC)",
+      "Centro de Trabajo": "Calle Tolnáhuac número 90, Colonia San Simón Tolnáhuac, Ciudad de México, incluyendo dependencias actuales o futuras",
+      "Vigencia": "1 de enero de 2025",
+      "Duración": "Tiempo indefinido",
+      "Reglas de Revisión": "Las cláusulas pueden modificarse a petición de cualquiera de las partes conforme a la Ley Federal del Trabajo"
+    },
+    "Roles y Sindicato": {
+      "Representación": "El Sindicato representa el total de los intereses profesionales de los trabajadores activos",
+      "Denominaciones": {
+        "Empresa": "La Negociación",
+        "Trabajadores": "El Sindicato"
+      },
+      "Contrataciones": "La empresa puede seleccionar y contratar libremente nuevos trabajadores para vacantes o puestos nuevos; estos podrán ser aceptados como miembros del sindicato",
+      "Asambleas": "La empresa facilitará espacio para asambleas informativas o elección de delegados previo acuerdo con el sindicato"
+    },
+    "Horarios y Jornadas": {
+      "Turnos": [
+        {
+          "Turno": "Primer Turno",
+          "Horario": "07:00 a 15:00",
+          "Días": "Lunes a sábado"
+        },
+        {
+          "Turno": "Segundo Turno",
+          "Horario": "14:00 a 21:30",
+          "Días": "Lunes a sábado"
+        }
+      ],
+      "Descanso Diario": "30 minutos diarios computados como tiempo trabajado",
+      "Cambios de Turno": "Cualquier modificación o creación de nuevos turnos deberá acordarse entre empresa y sindicato",
+      "Horas Extra": "Se ajustarán a lo establecido en los artículos 67 y 68 de la Ley Federal del Trabajo"
+    },
+    "Pagos y Salarios": {
+      "Salario Mínimo Garantizado": "Ningún salario será inferior al salario mínimo general vigente",
+      "Frecuencia de Pago": "Pago semanal en efectivo y moneda de curso legal",
+      "Descuentos": {
+        "Multas": "No se permiten descuentos por multas impuestas por la empresa",
+        "Cuotas Sindicales": "Se descontarán cuotas sindicales ordinarias si el sindicato lo acuerda"
+      },
+      "Tabulador 2025": [
+        {
+          "Categoría": "Maestro",
+          "Salario Diario": 332.00
+        },
+        {
+          "Categoría": "Operario A",
+          "Salario Diario": 312.00
+        },
+        {
+          "Categoría": "Operario B",
+          "Salario Diario": 284.00
+        }
+      ]
+    },
+    "Beneficios": {
+      "Aguinaldo": [
+        { "Antigüedad": "1 año", "Días": 18 },
+        { "Antigüedad": "2 a 4 años", "Días": 20 },
+        { "Antigüedad": "5 años o más", "Días": 24 }
+      ],
+      "Vacaciones": "Periodo anual pagado conforme a la antigüedad",
+      "Prima Vacacional": "26.5% sobre los salarios correspondientes al periodo de vacaciones",
+      "Premio de Asistencia": [
+        { "Periodo": "1 mes sin faltas", "Pago": "1 día de sueldo" },
+        { "Periodo": "2 meses sin faltas", "Pago": "2 días de sueldo" },
+        { "Periodo": "3 meses o más sin faltas", "Pago": "3 días de sueldo mensuales" }
+      ],
+      "Vales de Despensa": "$1,220.00 mensuales condicionados a no tener faltas en el mes",
+      "Bono de Productividad": "Pago semanal proporcional a los días trabajados basado en indicadores de área",
+      "Fondo de Ahorro": {
+        "Trabajador": "6% del salario",
+        "Empresa": "6% del salario",
+        "Entrega": "Se entrega en enero"
+      },
+      "Seguro de Vida": "$50,000.00 por muerte natural o accidente de trabajo",
+      "Apoyo Útiles Escolares": "$500.00 anuales por hijos en etapa escolar con comprobante",
+      "Uniformes": "Dos dotaciones al año en junio y diciembre; calzado una vez al año"
+    },
+    "Permisos": {
+      "Ayuda Defunción Familiar": "Cada trabajador aporta $30 y la empresa aporta una cantidad igual al total recaudado cuando fallece padre, hijo (máximo dos) o cónyuge/concubino",
+      "Permiso con Goce de Sueldo": {
+        "Zona Metropolitana CDMX": "2 días",
+        "Fuera de la Ciudad": "3 días"
+      }
+    },
+    "Descansos": {
+      "Descanso Semanal": "Un día de descanso semanal con pago íntegro",
+      "Días Festivos": [
+        "1 de enero",
+        "Lunes por el 5 de febrero",
+        "Viernes Santo",
+        "Lunes por el 21 de marzo",
+        "1 de mayo",
+        "10 de mayo",
+        "16 de septiembre",
+        "2 de noviembre",
+        "Lunes por el 20 de noviembre",
+        "Cambio de gobierno federal",
+        "24 de diciembre",
+        "25 de diciembre",
+        "31 de diciembre"
+      ],
+      "Trabajo en Festivos o Descanso": "Si se labora se pagan dos días adicionales al salario semanal",
+      "Coincidencia Festivo-Descanso": "Si el festivo coincide con el día de descanso se otorga un día adicional"
+    },
+    "Seguridad y Salud": {
+      "Cumplimiento": "Cumplimiento estricto de la Ley del Seguro Social y del Reglamento Federal de Seguridad y Salud",
+      "Comisión Mixta": "Se integrará una Comisión Mixta de Higiene y Seguridad en un plazo de 30 días",
+      "Obligaciones de los Trabajadores": "Asistir puntualmente a cursos y exámenes requeridos por las comisiones"
+    },
+    "Capacitación y Adiestramiento": {
+      "Programas": "La empresa establecerá sistemas de capacitación conforme a la ley",
+      "Nuevo Ingreso": "Recibirán capacitación inicial con condiciones mínimas de ley",
+      "Horarios y Pago": "Se imparte en horarios establecidos por la empresa con salario normal de categoría",
+      "Obligatoriedad": "Se considera cumplida la obligación de capacitar aunque el trabajador no termine o repruebe el curso"
+    },
+    "Ascensos y Escalafón": {
+      "Criterios": [
+        "Capacitación",
+        "Antigüedad",
+        "Aptitud",
+        "Productividad"
+      ],
+      "Proceso": "El escalafón se acuerda entre sindicato y empresa",
+      "Ascensos": "Requieren demostrar aptitudes mediante examen para subir a la categoría inmediata superior"
+    },
+    "Trabajadores Temporales y Servicios Especializados": {
+      "Contratos Especiales": "Se pueden contratar trabajadores por obra o tiempo determinado en casos justificados",
+      "Terminación": "Estos contratos concluyen automáticamente al terminar la obra o el tiempo pactado",
+      "Servicios Especiales": "La empresa puede contratar libremente servicios externos no relacionados con su objeto social"
+    },
+    "Comisiones Mixtas": {
+      "Tipos": [
+        "Reparto de utilidades",
+        "Cuadro de antigüedad",
+        "Seguridad e higiene",
+        "Capacitación",
+        "Reglamento interior de trabajo"
+      ],
+      "Integración": "Número igual de representantes de empresa y trabajadores",
+      "Facilidades": "La empresa proporcionará facilidades para su funcionamiento dentro o fuera del horario laboral"
+    },
+    "Utilidades": {
+      "PTU": "Los trabajadores participarán en las utilidades conforme al porcentaje legal determinado por la Comisión Nacional"
+    },
+    "Áreas y Reglamentos": {
+      "Reglamento Interior": "El trabajo en la planta se rige por el Reglamento Interior de Trabajo",
+      "Materiales": "La empresa debe proporcionar materiales necesarios para la producción sin descuentos al salario cuando existan fallas ajenas al trabajador"
+    },
+    "Obligaciones": {
+      "Calidad del Trabajo": "Debe realizarse con rendimiento normal y esfuerzo acostumbrado sin dañar la salud",
+      "Marco Legal": "Todo lo no previsto se ajustará al artículo 123 Constitucional y leyes reglamentarias"
+    },
+    "Vigencia y Cierre": {
+      "Reemplazo": "Este contrato deja sin efecto cualquier convenio o contrato anterior",
+      "Depósito": "Se firma en cuatro tantos para ser depositado ante el Centro Federal de Conciliación y Registro Laboral"
+    }
+  }
+}

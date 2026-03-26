@@ -1,0 +1,158 @@
+{
+  "name": "LA IDEAL CDMX",
+  "content": {
+    "Datos Base": {
+      "Empresa": "Pastelería Ideal, S.A. de C.V.",
+      "Sindicato": "Sindicato de Trabajadores de las Industrias Pastelera, Panificadora y Productos Elaborados con Harinas en el Distrito Federal",
+      "Centros Trabajo": [
+        "Sucursal 16 de Septiembre - Av. 16 de Septiembre 18, Col. Centro",
+        "Sucursal Uruguay - Calle Uruguay 74 y 76, Col. Centro",
+        "Sucursal San Antonio - Callejón de San Antonio Abad 53, Col. Tránsito"
+      ],
+      "Aplicacion": "Incluye sucursales futuras y unidades móviles de venta o distribución",
+      "Vigencia Tabulador": "1 de enero al 31 de diciembre de 2025",
+      "Duracion": "Tiempo indefinido",
+      "Reglas Revision": "Modificable conforme a los artículos 399 y 399 Bis de la Ley Federal del Trabajo"
+    },
+    "Roles y Sindicato": {
+      "Representacion": "El sindicato representa el interés profesional de los trabajadores miembros activos",
+      "Contratacion Personal": "La empresa contrata según sus procesos y el sindicato acepta a los trabajadores que soliciten afiliación",
+      "Multifuncionalidad": "No existe cláusula explícita, pero hay diversas categorías en el tabulador"
+    },
+    "Horarios": {
+      "Jornada Trabajo": "Se ajusta conforme a los artículos 58 al 62 de la Ley Federal del Trabajo y necesidades de la empresa",
+      "Descanso Alimentos": "30 minutos en jornada continua considerados como tiempo trabajado",
+      "Tiempo Extra": "Se paga conforme a los artículos 67 y 68 de la Ley Federal del Trabajo cuando sea solicitado por la empresa"
+    },
+    "Pagos": {
+      "Salario Minimo Garantizado": "Ningún trabajador percibe menos del salario mínimo general",
+      "Frecuencia Pago": "Semanal en efectivo o sistema establecido",
+      "Excepciones Frecuencia": "Algunos empleados cobran por decena o quincena",
+      "Cuota Sindical": "La empresa descuenta las cuotas ordinarias si el sindicato lo acuerda",
+      "Tabulador Salarios Diario": {
+        "Oficial Produccion A": 444.21,
+        "Oficial Produccion B": 344.76,
+        "Chofer A": 331.50,
+        "Oficial Produccion C": 323.77,
+        "Auxiliar Mantenimiento A": 303.88,
+        "Auxiliar General A": 288.41
+      }
+    },
+    "Beneficios": {
+      "Aguinaldo": {
+        "1-4 años": "19 días de salario",
+        "5-9 años": "21 días de salario",
+        "10-14 años": "28 días de salario",
+        "15 años o más": "31 días de salario"
+      },
+      "Fondo Ahorro": {
+        "Trabajador": "10%",
+        "Empresa": "10%"
+      },
+      "Uniformes": {
+        "Entrega": "Mayo",
+        "Contenido": "2 uniformes y gorra o cofia sin costo"
+      },
+      "Seguro Vida": {
+        "Causa Natural": "100 días de salario diario tabulado",
+        "Accidente Trabajo": "200 días de salario diario tabulado"
+      },
+      "Cultura Deportes": "Aportación anual de 27000 pesos en diciembre al sindicato",
+      "Materiales": "La empresa proporciona materiales necesarios para producción sin afectar salario"
+    },
+    "Permisos": {
+      "Paternidad": {
+        "Dias": 5,
+        "Condicion": "Nacimiento o adopción"
+      },
+      "Fallecimiento Familiar": {
+        "Dias": 3,
+        "Aplica": ["Padres", "Hijos", "Cónyuge"]
+      },
+      "Asambleas": "Permiso para reuniones sindicales en instalaciones previo acuerdo",
+      "Permisos Personales": {
+        "Maximo Anual": 30,
+        "Tipo": "Sin goce de sueldo",
+        "Aviso": "Solicitud con al menos una semana de anticipación"
+      }
+    },
+    "Descansos": {
+      "Descanso Semanal": "1 día con salario íntegro",
+      "Festivos Pagados": [
+        "1 enero",
+        "Primer lunes de febrero",
+        "Tercer lunes de marzo",
+        "1 mayo",
+        "16 septiembre",
+        "Tercer lunes de noviembre",
+        "Cambio del poder ejecutivo federal",
+        "25 diciembre"
+      ],
+      "Regla Coincidencia": "Si el festivo coincide con el descanso semanal se otorga un día adicional",
+      "Pago Descanso Laborado": "Pago doble adicional al salario diario normal"
+    },
+    "Seguridad Salud": {
+      "Cumplimiento": "Normas del IMSS y Reglamento Federal de Seguridad y Salud en el Trabajo",
+      "Comision Higiene Seguridad": "Debe integrarse dentro de 30 días"
+    },
+    "Capacitacion": {
+      "Planes Programas": "Sistemas establecidos conforme a la ley",
+      "Capacitacion Nuevo Ingreso": "Bajo condiciones mínimas de ley",
+      "Capacitacion General": "Impartida por técnicos o supervisores en horarios establecidos",
+      "Pago Durante Capacitacion": "Salario y prestaciones íntegros",
+      "Obligatoriedad": "Se considera cumplida una vez ofrecida por la empresa"
+    },
+    "Ascensos": {
+      "Escalafon": [
+        "Capacitación",
+        "Antigüedad",
+        "Aptitud",
+        "Productividad"
+      ],
+      "Procedimiento": "Se requiere examen para ascender a la categoría inmediata superior"
+    },
+    "Trabajadores Temporales": {
+      "Contratos": [
+        "Obra determinada",
+        "Tiempo determinado"
+      ],
+      "Terminacion": "Finaliza automáticamente al cumplir el objeto",
+      "Servicios Externos": "Permitidos si no están relacionados con el objeto social"
+    },
+    "Comisiones Mixtas": {
+      "Integracion": "Paritaria entre empresa y sindicato",
+      "Tipos": [
+        "Reparto de Utilidades",
+        "Cuadro de Antigüedad",
+        "Vacaciones",
+        "Reglamento Interior",
+        "Capacitacion y Productividad"
+      ]
+    },
+    "Utilidades": {
+      "PTU": "Participación conforme al porcentaje fijado por la Comisión Nacional correspondiente"
+    },
+    "Ayuda Defuncion Solidaria": {
+      "Aportacion Trabajadores": "10 pesos por nómina por fallecimiento de familiar de primer grado de un compañero",
+      "Aportacion Empresa": "30% adicional sobre el total recaudado"
+    },
+    "Vacaciones": {
+      "Tabla": {
+        "1": 12,
+        "2": 14,
+        "3": 16,
+        "4": 18,
+        "5": 20,
+        "6-10": 22,
+        "Escala": "Progresiva hasta 45 años con 36 días"
+      },
+      "Vacaciones Continuas Minimas": "12 días",
+      "Prima Vacacional": "50%"
+    },
+    "Vigencia": {
+      "Inicio": "1 de enero de 2025",
+      "Estatus": "Sustituye convenios anteriores",
+      "Supletoriedad": "Aplicación del artículo 123 Constitucional y leyes reglamentarias cuando no exista disposición expresa"
+    }
+  }
+}

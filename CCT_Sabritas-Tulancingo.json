@@ -1,0 +1,188 @@
+{
+  "name": "SABRITAS TULANCINGO",
+  "content": {
+    "Datos Base": {
+      "Empresa": "Comercializadora Pepsico México, S. de R.L. de C.V.",
+      "Centro de Trabajo": "Libramiento a Santiago s/n, Colonia San Francisco Huatengo, Tulancingo de Bravo, Hidalgo",
+      "Sindicato": "Sindicato Nacional Alimenticio y del Comercio, Similares y Conexos de la República Mexicana (SNAC)",
+      "Trabajadores Cubiertos": "Trabajadores en las categorías del tabulador del contrato",
+      "Vigencia": "1 de abril de 2025",
+      "Duracion": "Tiempo indeterminado",
+      "Reglas Revision": "Revisable conforme a los artículos 399 y 399 Bis de la Ley Federal del Trabajo"
+    },
+    "Roles y Sindicato": {
+      "Reconocimiento Sindical": "La empresa reconoce al SNAC como representante de los trabajadores",
+      "Cuotas Sindicales": "La empresa descontará las cuotas ordinarias del salario conforme a estatutos sindicales",
+      "Facultad Administracion": "La empresa puede administrar, reclasificar, crear o suprimir puestos según necesidades operativas"
+    },
+    "Horarios y Jornadas": {
+      "Establecimiento Horarios": "Definidos por la empresa según necesidades de operación y productividad",
+      "Modificaciones": "La empresa puede modificar turnos, horarios y periodos de descanso",
+      "Normativa": "Conforme a artículos 59 al 65 de la Ley Federal del Trabajo"
+    },
+    "Pagos y Salarios": {
+      "Salario Fijo": {
+        "Monto Semanal": 2049.18,
+        "Lineas": [
+          "Mixto",
+          "Salado"
+        ]
+      },
+      "Comisiones": {
+        "DTS": {
+          "Linea Salado": "3.40%",
+          "Linea Dulce": "6.60%"
+        },
+        "Proximidad": {
+          "Linea Salado": "1.80%"
+        }
+      },
+      "Septimo Dia y Festivos": "Incluidos dentro de la comisión",
+      "Frecuencia Pago": "Semanal",
+      "Metodo Pago": "Moneda de curso legal o medios electrónicos",
+      "Minimo Garantizado": "Conforme al tabulador anexo del contrato"
+    },
+    "Beneficios y Prestaciones": {
+      "Vacaciones": {
+        "Ejemplos": {
+          "1 año": 12,
+          "5 años": 20,
+          "30 años o mas": 32,
+          "50 años servicio": 40
+        }
+      },
+      "Prima Vacacional": {
+        "Minimo": "40% (1 año)",
+        "Maximo": "106% (entre 9 y 14 años)",
+        "Posterior": "100% después de 14 años"
+      },
+      "Aguinaldo": {
+        "0 a 1 año": "15 días",
+        "1 a 2 años": "18 días",
+        "3 a 5 años": "26 días",
+        "6 años o mas": "32 días"
+      },
+      "Vales Despensa": {
+        "Monto": "11% del salario fijo más comisión",
+        "Periodicidad": "Cada 28 días"
+      },
+      "Bono Navideño": {
+        "Monto": 1500,
+        "Forma": "Vales de despensa",
+        "Entrega": "Diciembre"
+      },
+      "Fondo Ahorro": {
+        "Empresa": "6%",
+        "Trabajador": "6%",
+        "Base": "Salario fijo más comisión",
+        "Entrega": "Enero con intereses"
+      },
+      "Seguro Vida": {
+        "Muerte Natural": 108000,
+        "Muerte Accidental": 216000
+      },
+      "Beca Escolar": {
+        "Monto": 2200,
+        "Entrega": "Agosto"
+      },
+      "Uniformes": {
+        "Entrega": "Anual",
+        "Contenido": [
+          "3 pantalones",
+          "5 camisas",
+          "1 par de zapatos",
+          "1 chamarra"
+        ]
+      }
+    },
+    "Permisos y Ayudas": {
+      "Matrimonio": {
+        "Apoyo": 3500,
+        "Permiso": "2 días con goce de sueldo",
+        "Condicion": "Una sola vez"
+      },
+      "Nacimiento o Adopcion": {
+        "Apoyo": 1500,
+        "Permiso": "5 días con goce de sueldo"
+      },
+      "Paternidad": {
+        "Permiso": "5 días laborables con goce de sueldo"
+      },
+      "Defuncion Familiar": {
+        "Apoyo": 5000,
+        "Permiso": "2 días con goce de sueldo",
+        "Parentesco": "Primer grado"
+      },
+      "Defuncion Trabajador": {
+        "Apoyo": 4000
+      }
+    },
+    "Descansos": {
+      "Dias Obligatorios": [
+        "1 de enero",
+        "Primer lunes de febrero",
+        "Tercer lunes de marzo",
+        "Jueves Santo",
+        "Viernes Santo",
+        "Sábado de Gloria",
+        "1 de mayo",
+        "16 de septiembre",
+        "Tercer lunes de noviembre",
+        "25 de diciembre",
+        "Cambio de gobierno federal",
+        "Días de elecciones"
+      ],
+      "Pago Festivo Trabajado": "Dos salarios promedio adicionales (pago triple)"
+    },
+    "Seguridad y Salud": {
+      "IMSS": "Inscripción obligatoria",
+      "Incapacidad General": {
+        "Condicion": "Mayor a 4 días",
+        "Complemento": "La empresa paga la diferencia no cubierta por el IMSS",
+        "Periodo": "Del día 4 hasta 120 días"
+      },
+      "Accidentes Vehiculares": "Trabajador responsable paga deducible del 2% del valor comercial del vehículo"
+    },
+    "Capacitacion": {
+      "Protocolos": "Capacitación y mecanismos para prevenir discriminación, violencia y acoso sexual",
+      "Linea Reporte": "Implementación de canal de denuncia"
+    },
+    "Ascensos": {
+      "Escalafon": "Respeto a derechos de antigüedad y escalafón",
+      "Comision": "Integración de comisión mixta para supervisión"
+    },
+    "Disciplina": {
+      "Reglamento Interior": "Empresa y sindicato formularán reglamento interno",
+      "Uso Uniforme": "Obligatorio presentarse aseado y con uniforme limpio; uso fuera de horario prohibido"
+    },
+    "Trabajadores": {
+      "Planta": "Tiempo indeterminado",
+      "Temporales": "Por tiempo u obra determinada",
+      "Servicios Externos": "La empresa puede contratar servicios de terceros para labores no cubiertas"
+    },
+    "Trabajadores Confianza": {
+      "Exclusion": "No están sujetos al contrato colectivo",
+      "Puestos": [
+        "Directores",
+        "Gerentes",
+        "Supervisores",
+        "Almacenistas",
+        "Personal de transporte",
+        "Secretarias",
+        "Vigilancia",
+        "Administrativos con funciones de supervisión"
+      ]
+    },
+    "Comisiones": {
+      "Cuadro Antiguedades": "Comisión mixta para vigilar derechos de escalafón y antigüedad"
+    },
+    "Obligaciones": {
+      "No Discriminacion": "Compromiso de erradicar violencia laboral, discriminación y acoso",
+      "Nuevo Ingreso": "Trabajadores que ingresen después del 14 de agosto de 2025 recibirán solo beneficios de ley durante su primer año (excepto uniformes)"
+    },
+    "Vigencia": {
+      "Inicio": "1 de abril de 2025",
+      "Efecto": "Deroga cualquier convenio o contrato anterior"
+    }
+  }
+}

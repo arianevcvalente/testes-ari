@@ -1,0 +1,208 @@
+{
+  "name": "SIGMA VARIOS",
+  "content": {
+    "Datos Base": {
+      "Empresa": "Sigma Alimentos Comercial, S.A. de C.V.",
+      "Centros de Trabajo": [
+        "Altamira, Tamaulipas",
+        "Tuxtla Gutiérrez, Chiapas",
+        "Tihuatlán, Veracruz",
+        "Othón P. Blanco, Quintana Roo"
+      ],
+      "Sindicato": "Sindicato Nacional Alimenticio y del Comercio, Similares y Conexos de la República Mexicana",
+      "Trabajadores Cubiertos": "Personal que presta servicio personal subordinado en los puestos señalados en el tabulador",
+      "Vigencia": "Tiempo indefinido",
+      "Revision Integral": "Cada 2 años",
+      "Revision Salarial": "Cada año",
+      "Reglas Revision": "La empresa puede cambiar o cerrar sucursales sin afectar los derechos de los trabajadores"
+    },
+    "Roles y Sindicato": {
+      "Representacion": "La empresa reconoce al sindicato como representante de los intereses profesionales de los trabajadores sindicalizados",
+      "Definicion Trabajador": "Persona que presta servicios personales subordinados mediante contrato individual por tiempo indeterminado o eventual",
+      "Afiliacion": "Los trabajadores pueden afiliarse libremente al sindicato con autorización escrita para descuento de cuotas",
+      "Resolucion Conflictos": "Las partes buscarán solución mutua basada en cooperación obrero-patronal"
+    },
+    "Horarios": {
+      "Jornada Diurna": "48 horas semanales",
+      "Jornada Mixta": "45 horas semanales",
+      "Jornada Nocturna": "42 horas semanales",
+      "Distribucion": "6 días de trabajo por 1 de descanso, pudiendo pactarse 5 días de trabajo",
+      "Descanso Alimentos": "30 minutos diarios",
+      "Vendedores Producto a Bordo": "No están sujetos a vigilancia presencial constante y gestionan su tiempo dentro de la jornada legal",
+      "Horas Extra": {
+        "Primeras 9 Semanales": "Pago con 100% adicional",
+        "Excedentes": "Pago con 200% adicional",
+        "Requisito": "Autorización previa por escrito"
+      }
+    },
+    "Pagos": {
+      "Metodo Pago": "Depósito en cuenta bancaria",
+      "Recibos": "Recibos electrónicos CFDI con validez legal",
+      "Frecuencia": "Pago por jornada legal según puesto",
+      "Descuentos": [
+        "Cuotas sindicales autorizadas",
+        "Cobranza delegada por bienes o servicios adquiridos mediante convenios del sindicato"
+      ],
+      "Tabulador Salarios Diario": {
+        "Auxiliar Almacen A": 477.23,
+        "Auxiliar Almacen B": 524.96,
+        "Auxiliar Ventas Apoyo A": 529.17,
+        "Auxiliar Reparto Multicanal A": 248.93,
+        "Auxiliar Reparto Multicanal B": 262.2,
+        "Promotor Reparto Multicanal A": 268.3,
+        "Promotor Reparto Multicanal B": 296.16,
+        "Vendedor Junior": 279.43,
+        "Vendedor Detalle Suplente A": 335.53,
+        "Vendedor Detalle Suplente B": 416.66,
+        "Vendedor Detalle Suplente C": 455.96,
+        "Vendedor Producto a Bordo A": 403.07,
+        "Vendedor Producto a Bordo B": 428.8,
+        "Prevendedor Conveniencia": 428.8,
+        "Vendedor Expendio": 295.33
+      },
+      "Vigencia Tabulador": "Agosto 2024"
+    },
+    "Beneficios": {
+      "Vacaciones": "12 días el primer año, aumentando 2 días por año hasta 20; posteriormente 2 días cada 5 años",
+      "Prima Vacacional": {
+        "Inicio": "35%",
+        "Maximo": "83%",
+        "Antiguedad Maxima": "25 años"
+      },
+      "Aguinaldo": "30 días de salario antes del 19 de diciembre",
+      "Vales Despensa": {
+        "Tuxtla y Othon": "12% del salario mensual",
+        "Tihuatlan y Altamira": "14% del salario mensual"
+      },
+      "Entrega Vales": "Semanal mediante monedero electrónico",
+      "Fondo Ahorro": {
+        "Tuxtla y Othon": "13% trabajador y 13% empresa",
+        "Tihuatlan y Altamira": "10% trabajador y 10% empresa",
+        "Entrega": "Febrero y agosto"
+      },
+      "Viaticos Comida Vendedores": {
+        "Tuxtla Othon Tihuatlan": "120 pesos diarios",
+        "Altamira": "1392 pesos semanales"
+      },
+      "Seguro Vida": {
+        "Tuxtla Tihuatlan Othon": "20 meses de salario base",
+        "Altamira": "18 meses de salario base"
+      },
+      "Seguro Invalidez": {
+        "Tuxtla Tihuatlan Othon": "10 meses de salario base",
+        "Altamira": "18 meses de salario base"
+      },
+      "Uniformes": "Ropa de trabajo y equipo de seguridad gratuito reemplazable cada 6 meses o por desgaste"
+    },
+    "Permisos": {
+      "Fallecimiento Familiar": {
+        "Tuxtla Tihuatlan Othon": {
+          "Local": "3 días",
+          "Foraneo": "5 días"
+        },
+        "Altamira": {
+          "Local": "2 días",
+          "Foraneo": "3 días"
+        }
+      },
+      "Paternidad y Adopcion": "5 días laborables con goce de sueldo",
+      "Permisos Sin Goce": "Deben solicitarse con anticipación y quedan sujetos a decisión de la empresa",
+      "Ayuda Fallecimiento": "Descuento voluntario acordado entre trabajadores para apoyar al compañero afectado"
+    },
+    "Descansos": {
+      "Descanso Semanal": "Un día de descanso pagado proporcional a los días laborados",
+      "Prima Dominical": "25% adicional si se trabaja en domingo",
+      "Festivos Obligatorios": [
+        "1 de enero",
+        "Primer lunes de febrero",
+        "Tercer lunes de marzo",
+        "1 de mayo",
+        "16 de septiembre",
+        "Tercer lunes de noviembre",
+        "25 de diciembre",
+        "Cambio de gobierno"
+      ],
+      "Festivos Adicionales": [
+        "Viernes Santo",
+        "Sábado Santo",
+        "10 de mayo",
+        "2 de noviembre",
+        "12 de diciembre"
+      ],
+      "Pago Festivo Trabajado": "200% adicional"
+    },
+    "Seguridad y Salud": {
+      "IMSS": "Registro obligatorio de trabajadores",
+      "Comision Seguridad Higiene": "Investiga accidentes y realiza inspecciones mensuales",
+      "Obligaciones Trabajador": [
+        "Someterse a exámenes médicos cuando la empresa lo indique",
+        "Usar obligatoriamente equipo de seguridad"
+      ]
+    },
+    "Capacitacion": {
+      "Programas": "Capacitación según planes de la Comisión Mixta",
+      "Becas": {
+        "Empresas 100 a 1000 trabajadores": "1 becario",
+        "Empresas mas de 1000 trabajadores": "3 becarios",
+        "Seleccion": "Propuestos por el sindicato según antigüedad y calificaciones"
+      }
+    },
+    "Ascensos": {
+      "Derecho Escalafon": "Considera capacitación, antigüedad, aptitud y productividad"
+    },
+    "Disciplina": {
+      "Sanciones": "Incumplimiento de ley, reglamento o contrato será sancionado",
+      "Faltas": [
+        "No registrar asistencia",
+        "Dañar herramientas o uniformes por culpa propia"
+      ]
+    },
+    "Trabajadores Temporales": {
+      "Contratacion": [
+        "Tiempo determinado",
+        "Obra determinada",
+        "Capacitación inicial",
+        "Periodo de prueba"
+      ],
+      "Estatus": "No se consideran de planta",
+      "Servicios Especializados": "La empresa puede contratar servicios técnicos externos ajenos a su actividad principal"
+    },
+    "Personal Confianza": {
+      "Definicion": "Personal con funciones de dirección, inspección, vigilancia o fiscalización",
+      "Exclusion": "No pertenecen al sindicato ni se rigen por el contrato",
+      "Promocion": "Si un sindicalizado es promovido a confianza deja de pertenecer al sindicato"
+    },
+    "Comisiones Mixtas": {
+      "Tipos": [
+        "Seguridad e Higiene",
+        "Capacitación y Adiestramiento",
+        "Cuadro General de Antigüedades"
+      ],
+      "Integracion": "Número igual de representantes de empresa y trabajadores"
+    },
+    "Utilidades": {
+      "Regulacion": "Conforme al artículo 132 de la Ley Federal del Trabajo"
+    },
+    "Areas y Multifuncionalidad": {
+      "Reubicacion": "La empresa puede reubicar trabajadores sin afectar salario",
+      "Eficiencia": "Los trabajadores deben cumplir tareas propias y derivadas del puesto"
+    },
+    "Obligaciones": {
+      "Empresa": [
+        "Proporcionar herramientas y uniformes",
+        "Cumplir leyes laborales y de seguridad social"
+      ],
+      "Trabajadores": [
+        "Evitar desperdicio de recursos",
+        "Seguir métodos e instrucciones de la empresa"
+      ],
+      "Trato Digno": "Protocolos obligatorios para prevenir discriminación, violencia laboral y acoso sexual"
+    },
+    "Vigencia": {
+      "Inicio": "2 de agosto de 2024",
+      "Proxima Revision Integral": "29 de noviembre de 2024",
+      "Proxima Revision Salarial": "29 de noviembre de 2025",
+      "Prorroga": "El tabulador se prorroga automáticamente hasta nueva revisión"
+    }
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "name": "EL GLOBO",
+  "content": {
+    "Datos Base": {
+      "Empresa": "Tradición en Pastelerías, S.A. de C.V.",
+      "Marcas Comerciales": [
+        "El Globo",
+        "La Balance",
+        "El Molino"
+      ],
+      "Domicilio Principal": "Oriente 233 número 154, Colonia Agrícola Oriental, Iztacalco, Ciudad de México, C.P. 08500",
+      "Centros de Trabajo": "Aplica en el domicilio principal y en todas las dependencias, sucursales (ej. Xotepingo, Zaragoza I y II), islas, carritos, corners, fast foods y puntos de venta actuales o futuros.",
+      "Sindicato": "Sindicato Nacional Alimenticio y del Comercio (SNAC)",
+      "Vigencia": "A partir del 1 de diciembre de 2025",
+      "Duración": "Tiempo indefinido (mientras la empresa exista)",
+      "Reglas de Revisión": {
+        "Integral (Cláusulas)": "Cada dos años",
+        "Salarial (Tabulador)": "Cada año"
+      }
+    },
+    "Roles y Sindicato": {
+      "Trabajadores de Planta": "Aquellos que han llenado requisitos y tienen trabajo permanente.",
+      "Representación": "El SNAC es el único representante del interés profesional de los trabajadores ante la empresa.",
+      "Puestos Vacantes": "La empresa contrata a los nuevos trabajadores, pero el Sindicato los acepta entre sus agremiados."
+    },
+    "Horarios": {
+      "Jornada Semanal": "6 días de trabajo por 1 día de descanso",
+      "Turnos": {
+        "Diurno": "8 horas (entre 6:00 y 20:00)",
+        "Nocturno": "7 horas (entre 20:00 y 6:00)",
+        "Mixto": "7.5 horas (menos de 3.5 horas nocturnas)"
+      },
+      "Comidas": "Media hora de descanso para tomar alimentos dentro de la jornada continua.",
+      "Horas Extras": {
+        "Primeras 9 horas semanales": "Pago doble (100%)",
+        "Horas excedentes": "Pago triple (200%)",
+        "Condición": "Requieren autorización por escrito"
+      }
+    },
+    "Pagos": {
+      "Tabulador": "Los salarios se ajustan a la lista anexa al contrato.",
+      "Referencia Tabulador 2023": {
+        "Multifuncional": "$246.00 diarios",
+        "Aseador": "$228.64 diarios"
+      },
+      "Garantía Mínima": "Nadie ganará menos del salario mínimo de la zona.",
+      "Forma de Pago": "Semanal, en efectivo o vía electrónica en el lugar de trabajo.",
+      "Cuota Sindical": "La empresa descuenta las cuotas ordinarias y las entrega al sindicato gratuitamente."
+    },
+    "Beneficios": {
+      "Vales de Despensa": {
+        "Monto": "$2,250.00 mensuales",
+        "Condición": "Se entregan si no hay faltas injustificadas en el periodo contable",
+        "Aportación Trabajador": "0.5% del monto"
+      },
+      "Aguinaldo": "16 días de salario pagados antes del 20 de diciembre",
+      "Prima Vacacional": "Aproximadamente 25% del salario de vacaciones",
+      "Fondo de Ahorro": {
+        "Trabajador": "4.0%",
+        "Empresa": "4.0%",
+        "Frecuencia": "Semanal"
+      },
+      "Premio de Asistencia Nocturna": "Pago de 2 horas de salario diario adicionales por turno nocturno laborado.",
+      "Becas": "22 becas de $458.85 mensuales para trabajadores o hijos.",
+      "Seguro de Vida": {
+        "Muerte Natural": "$550,000.00",
+        "Muerte Accidental": "$1,100,000.00"
+      },
+      "Uniformes": "Dos juegos de ropa de trabajo; reposición contra entrega de prenda deteriorada."
+    },
+    "Permisos": {
+      "Matrimonio": "1 semana de descanso con goce de salario (incluye séptimo día).",
+      "Paternidad": "5 días laborales con goce de salario por nacimiento o adopción.",
+      "Adopción (Madres)": "6 semanas de descanso con goce de salario.",
+      "Lactancia": "Dos reposos de media hora cada uno por día.",
+      "Permisos sin goce de sueldo": "Hasta 45 días al año (limitado al 5% del personal)."
+    },
+    "Descansos": {
+      "Descanso Semanal": "Un día de descanso con goce de salario por cada 6 trabajados.",
+      "Días Festivos": [
+        "1 de enero",
+        "Primer lunes de febrero",
+        "Tercer lunes de marzo",
+        "1 de mayo",
+        "16 de septiembre",
+        "Tercer lunes de noviembre",
+        "25 de diciembre",
+        "Cambio de gobierno federal"
+      ],
+      "Ayuda Transporte Festivos": "Si se trabaja el 1 de enero o 25 de diciembre se pagan $330.00 adicionales en vales para transporte.",
+      "Pago en Descanso/Festivo": "Salario normal más doble adicional (triple total).",
+      "Prima Dominical": "35% adicional sobre el salario diario si se trabaja en domingo."
+    },
+    "Seguridad": {
+      "Comisión Mixta": "Se integra la Comisión Mixta de Higiene y Seguridad en un plazo no mayor a 30 días.",
+      "Obligaciones": "Cumplimiento estricto de la Ley del Seguro Social y reglamentos de seguridad."
+    },
+    "Capacitación": {
+      "Comisión Mixta": "Constituida para vigilar capacitación, adiestramiento y productividad.",
+      "Nuevo Ingreso": "Recibirán capacitación inicial con condiciones mínimas de ley.",
+      "Obligación": "La empresa debe capacitar; se considera cumplida si el trabajador no aprueba o no asiste."
+    },
+    "Ascensos": {
+      "Escalafón": "Derecho de ascenso considerando categoría inmediata inferior, capacitación, antigüedad, aptitud y productividad.",
+      "Exámenes": "El trabajador debe demostrar aptitud aprobando el examen con el mejor resultado."
+    },
+    "Disciplina": {
+      "Reglamento Interior": "Rige el trabajo en plantas, sucursales y dependencias.",
+      "Sanciones": "Las faltas injustificadas afectan el pago proporcional de vales de despensa."
+    },
+    "Temporales": {
+      "Contratación": "Permitida por obra o tiempo determinado conforme a los artículos 36 y 37 de la LFT.",
+      "Servicios Especiales": "La empresa puede contratar externos para tareas no relacionadas con su objeto social principal."
+    },
+    "Confianza": {
+      "Definición": "Personal de dirección, inspección, fiscalización y vigilancia, incluyendo vigilantes, supervisores, personal de almacenes y administrativos.",
+      "Estatus": "Excluidos del contrato colectivo."
+    },
+    "Comisiones": {
+      "Integración": "Empresa y Sindicato integran Comisiones Mixtas temporales y permanentes conforme al artículo 391 de la LFT.",
+      "Funciones": "Los representantes deben asistir puntualmente a cursos y sesiones."
+    },
+    "Utilidades": {
+      "PTU": "Participación según porcentaje determinado por la Comisión Nacional correspondiente."
+    },
+    "Áreas": {
+      "Cobertura": "Planta de producción y todos los puntos de venta (sucursales, islas, carritos, etc.).",
+      "Reglamento Interior": "Aplica a particularidades de planta y puntos de venta."
+    },
+    "Obligaciones": {
+      "Intensidad del Trabajo": "Los trabajadores deben desempeñar sus labores con intensidad, cuidado y esmero apropiados.",
+      "Previsión Social": "Cumplimiento de obligaciones ante el IMSS y leyes de seguridad."
+    },
+    "Vigencia": {
+      "Inicio": "1 de diciembre de 2025",
+      "Derogación": "Este contrato anula cualquier convenio anterior."
+    },
+    "Vacaciones": {
+      "Tabla": [
+        {
+          "Antigüedad": "1 año",
+          "Días Vacaciones": 12,
+          "Días Prima": 3
+        },
+        {
+          "Antigüedad": "2 años",
+          "Días Vacaciones": 14,
+          "Días Prima": 3.5
+        },
+        {
+          "Antigüedad": "3 años",
+          "Días Vacaciones": 16,
+          "Días Prima": 4
+        },
+        {
+          "Antigüedad": "4 años",
+          "Días Vacaciones": 18,
+          "Días Prima": 4.5
+        },
+        {
+          "Antigüedad": "5 años",
+          "Días Vacaciones": 20,
+          "Días Prima": 5
+        },
+        {
+          "Antigüedad": "6 a 10 años",
+          "Días Vacaciones": 22,
+          "Días Prima": 5.5
+        },
+        {
+          "Antigüedad": "11 a 15 años",
+          "Días Vacaciones": 24,
+          "Días Prima": 6
+        },
+        {
+          "Antigüedad": "16 a 20 años",
+          "Días Vacaciones": 26,
+          "Días Prima": 6.5
+        },
+        {
+          "Antigüedad": "21 a 25 años",
+          "Días Vacaciones": 28,
+          "Días Prima": 7
+        },
+        {
+          "Antigüedad": "26 a 30 años",
+          "Días Vacaciones": 30,
+          "Días Prima": 7.5
+        },
+        {
+          "Antigüedad": "31 a 35 años",
+          "Días Vacaciones": 32,
+          "Días Prima": 8
+        }
+      ]
+    }
+  }
+}

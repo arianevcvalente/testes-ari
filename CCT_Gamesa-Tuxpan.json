@@ -1,0 +1,166 @@
+{
+  "name": "GAMESA TUXPAN",
+  "content": {
+    "Datos Base": {
+      "Empresa": "Comercializadora Pepsico México, S. de R.L. de C.V.",
+      "Identificación": "CEDIS Tuxpan Gamesa",
+      "Centro de Trabajo": "Maximino Guzmán número 1, Colonia Santiago de la Peña, Tuxpan, Veracruz",
+      "Sindicato": "Sindicato Nacional Alimenticio y del Comercio, Similares y Conexos de la República Mexicana",
+      "Trabajadores Cubiertos": "Aquellos que presten servicios en las categorías descritas en el tabulador anexo",
+      "Vigencia": "1 de marzo de 2025",
+      "Duración": "Tiempo indeterminado",
+      "Reglas de Revisión": "Según artículos 399 y 399 Bis de la Ley Federal del Trabajo"
+    },
+    "Roles y Sindicato": {
+      "Definición de Trabajador": "Persona física que presta servicios subordinados a la empresa",
+      "Representación Sindical": "La empresa reconoce al sindicato como único representante del interés profesional de los trabajadores",
+      "Facultades de la Empresa": "Puede administrar operaciones, reclasificar, crear o suprimir puestos",
+      "Libertad de Contratación": "Puede contratar servicios de terceros para labores no amparadas por el contrato"
+    },
+    "Horarios": {
+      "Jornada de Trabajo": "Conforme a lo establecido en los artículos 59 al 65 de la Ley Federal del Trabajo",
+      "Establecimiento de Horarios": "La empresa fija horarios según necesidades de operación y productividad, pudiendo modificarlos"
+    },
+    "Pagos": {
+      "Salario Fijo": {
+        "Vendedores y Suplentes": "$2,078.44 semanales"
+      },
+      "Método de Pago": "Semanal en moneda legal o por medios electrónicos en el lugar de trabajo",
+      "Cuota Sindical": "La empresa descuenta las cuotas ordinarias previstas en los estatutos del sindicato"
+    },
+    "Beneficios": {
+      "Aguinaldo": {
+        "0 a 1 año": "16 días",
+        "2 años": "30 días",
+        "3 años o más": "31 días",
+        "Pago": "Antes del 20 de diciembre"
+      },
+      "Beca Escolar": "$2,200.00 anuales en agosto para trabajadores con más de 1 año de antigüedad",
+      "Vales de Despensa": {
+        "1 a 2 años": "10.50% del salario variable",
+        "Más de 2 años": "13.50% del salario variable"
+      },
+      "Fondo de Ahorro": {
+        "1 a 2 años": "11% empresa + trabajador",
+        "Más de 2 años": "13% empresa + trabajador",
+        "Entrega": "A finales de enero con intereses"
+      },
+      "Seguro de Vida": {
+        "Muerte Accidental": "67 meses de salario",
+        "Muerte Natural": "33 meses de salario"
+      },
+      "Gastos Médicos Mayores": {
+        "Elegibilidad": "Vendedores a partir del mes 13 de servicio",
+        "Cobertura": "800 salarios mínimos de CDMX",
+        "Deducible": "1.5",
+        "Coaseguro": "10%"
+      },
+      "Uniformes": "3 pantalones, 5 camisas, 1 par de zapatos y 1 chamarra al año"
+    },
+    "Permisos y Ayudas": {
+      "Matrimonio": {
+        "Ayuda Económica": "$3,500.00 (una sola vez)",
+        "Descanso": "2 días con goce de salario"
+      },
+      "Nacimiento": {
+        "Ayuda": "$1,500.00",
+        "Descanso": "2 días pagados",
+        "Paternidad": "5 días laborables pagados"
+      },
+      "Defunción Familiar": {
+        "Ayuda": "$4,000.00",
+        "Descanso": "2 días pagados",
+        "Aplica": "Padres, cónyuge o hijos"
+      },
+      "Defunción del Trabajador": {
+        "Ayuda": "$5,000.00 para beneficiarios"
+      }
+    },
+    "Descansos": {
+      "Días Festivos": [
+        "1 de enero",
+        "Primer lunes de febrero (Constitución)",
+        "Tercer lunes de marzo (Natalicio de Juárez)",
+        "1 de mayo",
+        "16 de septiembre",
+        "Tercer lunes de noviembre (Revolución)",
+        "25 de diciembre",
+        "Cambio de Poder Ejecutivo",
+        "Viernes Santo",
+        "Sábado Santo",
+        "Días electorales"
+      ],
+      "Pago en Festivos": "Si se trabaja se pagan 2 salarios promedio adicionales al salario normal"
+    },
+    "Vacaciones": {
+      "Tabla": [
+        {
+          "Antigüedad": "1 año",
+          "Días Vacaciones": 12,
+          "Prima Vacacional": "25%"
+        },
+        {
+          "Antigüedad": "2 años",
+          "Días Vacaciones": 14,
+          "Prima Vacacional": "75%"
+        },
+        {
+          "Antigüedad": "5 años",
+          "Días Vacaciones": 20,
+          "Prima Vacacional": "93%"
+        },
+        {
+          "Antigüedad": "10 años",
+          "Días Vacaciones": 24,
+          "Prima Vacacional": "94%"
+        },
+        {
+          "Antigüedad": "20 años",
+          "Días Vacaciones": 28,
+          "Prima Vacacional": "86%"
+        },
+        {
+          "Antigüedad": "30 años",
+          "Días Vacaciones": 32,
+          "Prima Vacacional": "92%"
+        },
+        {
+          "Antigüedad": "40 años",
+          "Días Vacaciones": 36,
+          "Prima Vacacional": "79%"
+        },
+        {
+          "Antigüedad": "50 años",
+          "Días Vacaciones": 40,
+          "Prima Vacacional": "73%"
+        }
+      ]
+    },
+    "Seguridad": {
+      "Higiene": "El trabajador debe presentarse aseado y con uniforme limpio",
+      "Uso de Uniforme": "No debe usarse fuera del horario laboral salvo orden escrita",
+      "No Discriminación": "Protocolo para erradicar violencia laboral, acoso y hostigamiento sexual con línea de reporte"
+    },
+    "Ascensos": {
+      "Promociones": "Basadas en derechos de escalafón",
+      "Comisión": "Se integra comisión mixta del cuadro general de antigüedades"
+    },
+    "Disciplina": {
+      "Reglamento": "Empresa y sindicato elaborarán el Reglamento Interior de Trabajo",
+      "Uniforme": "No presentarse aseado o con uniforme limpio impide trabajar y se cuenta como falta injustificada"
+    },
+    "Trabajadores Temporales y Confianza": {
+      "Temporales": "Contratación por obra o tiempo determinado, tiempo completo o medio tiempo",
+      "Confianza": "Directores, gerentes, supervisores, almacenistas, transporte, secretarias, vigilancia y administrativos de supervisión",
+      "Estatus": "No sujetos a este contrato"
+    },
+    "Comisiones": {
+      "Vendedor a Detalle (DTS)": "4.5% de comisión sobre el portafolio autorizado",
+      "Nota": "La comisión incluye el pago de séptimos días y días festivos"
+    },
+    "Vigencia": {
+      "Nuevos Ingresos": "Quienes ingresen a partir del 13 de agosto de 2025 solo tendrán prestaciones de ley durante su primer año; las del contrato aplican desde el mes 13",
+      "Sustitución": "Este contrato deja sin efecto cualquier pacto o convenio anterior"
+    }
+  }
+}

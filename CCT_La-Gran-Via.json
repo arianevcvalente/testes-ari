@@ -1,0 +1,85 @@
+{
+  "name": "LA GRAN VIA",
+  "content": {
+    "Datos Base": {
+      "Empresa": "Pastelería La Gran Vía S.A.",
+      "Centro de Trabajo": "Calle Amsterdam 288, Accesoria 1, Colonia Hipódromo, Ciudad de México, y cualquier lugar donde los trabajadores desempeñen físicamente sus labores",
+      "Sindicato": "Sindicato Nacional Alimenticio y del Comercio, Similares y Conexos de la República Mexicana (SNAC)",
+      "Trabajadores Cubiertos": "Todos los trabajadores que prestan servicios para la empresa en el domicilio establecido y áreas de operación",
+      "Vigencia Tabulador": "10 de julio de 2024 al 9 de julio de 2025",
+      "Duración": "Tiempo indefinido"
+    },
+    "Roles y Sindicato": {
+      "Representación Sindical": "El sindicato representa el interés profesional de los trabajadores afiliados",
+      "Ingreso": "La empresa contratará trabajadores conforme a su proceso; el sindicato aceptará la afiliación si es voluntad del trabajador",
+      "Cuotas Sindicales": "La empresa descontará las cuotas sindicales ordinarias sin costo para el sindicato",
+      "Asambleas": "La empresa permitirá la celebración de asambleas sindicales en las instalaciones previo acuerdo"
+    },
+    "Horarios": {
+      "Jornadas": "Se ajustarán de común acuerdo conforme a la Ley Federal del Trabajo y necesidades de la empresa",
+      "Descansos y Comidas": "Media hora para alimentos por jornada continua, considerada tiempo efectivamente laborado",
+      "Tiempo Extra": "Se paga conforme a los artículos 67 y 68 de la Ley Federal del Trabajo"
+    },
+    "Pagos": {
+      "Tabulador de Salarios": {
+        "Cajera A": 420.97,
+        "Oficial Pastelero Panadero Batidos": 386.32,
+        "Cajera B": 258.25,
+        "Empleada de Mostrador Ayudante": 248.93
+      },
+      "Salario Minimo Garantizado": "Ningún salario será inferior al mínimo general de la entidad federativa",
+      "Frecuencia de Pago": "Semanal en efectivo o mediante el sistema de pago de la empresa"
+    },
+    "Beneficios": {
+      "Vacaciones": "Periodo anual progresivo según antigüedad, iniciando en 12 días hasta 32 días (31 a 35 años de servicio)",
+      "Prima Vacacional": "No menor al 25% sobre los salarios del periodo vacacional",
+      "Aguinaldo": "17 días de salario pagados antes del 20 de diciembre",
+      "Despensa": "Entrega de una despensa en el mes de diciembre",
+      "Venta a Empleados": "Descuento del 20% en productos terminados de la empresa"
+    },
+    "Descansos": {
+      "Descanso Semanal": "Un día a la semana con salario íntegro",
+      "Trabajo en Descanso": "Si se trabaja en día de descanso y coincide con festivo obligatorio se paga salario triple",
+      "Días Festivos": "Se reconocen todos los festivos obligatorios establecidos por la Ley Federal del Trabajo",
+      "Pago de Festivos Trabajados": "Se pagarán dos días adicionales al salario semanal incluso si no se labora la jornada completa"
+    },
+    "Seguridad y Salud": {
+      "Cumplimiento Legal": "Empresa y trabajadores cumplirán con la Ley del Seguro Social y el Reglamento Federal de Seguridad y Salud en el Trabajo",
+      "Herramientas": "La empresa proporcionará los materiales y elementos necesarios para el desempeño de las funciones"
+    },
+    "Capacitación y Educación": {
+      "Comisión Mixta": "Comisión Mixta de Capacitación, Adiestramiento y Productividad con representantes de empresa y sindicato",
+      "Nuevo Ingreso": "Los trabajadores recibirán capacitación inicial con condiciones mínimas de ley",
+      "Capacitación General": "La capacitación es obligatoria y se imparte en horarios establecidos por la empresa con salario normal"
+    },
+    "Ascensos y Escalafón": {
+      "Criterios": [
+        "Capacitación",
+        "Antigüedad",
+        "Aptitud",
+        "Productividad"
+      ],
+      "Proceso": "El escalafón se implementará de común acuerdo entre sindicato y empresa",
+      "Evaluaciones": "Los trabajadores podrán ascender a la categoría inmediata superior al demostrar aptitudes"
+    },
+    "Temporales y Servicios Especializados": {
+      "Obra Determinada": "Se podrán contratar trabajadores para obras exclusivas o especializadas que no sean el objeto social principal de la empresa"
+    },
+    "Comisiones": {
+      "Integración": "Empresa y sindicato integrarán las comisiones mixtas permanentes o temporales que establezca la ley",
+      "Facilidades": "La empresa otorgará facilidades para su funcionamiento dentro o fuera del horario laboral"
+    },
+    "Utilidades": {
+      "PTU": "Los trabajadores participarán en las utilidades conforme al porcentaje determinado por la Comisión Nacional y la Ley Federal del Trabajo"
+    },
+    "Obligaciones y Conducta": {
+      "Calidad y Esfuerzo": "El trabajo debe realizarse con intensidad y calidad sin perjudicar la salud del trabajador",
+      "Reglamento Interior": "Las relaciones de trabajo se regirán por el Reglamento Interior de Trabajo",
+      "No Discriminación": "Se implementará un protocolo para prevenir y erradicar discriminación de género, violencia laboral y acoso sexual"
+    },
+    "Vigencia": {
+      "Inicio": "10 de julio de 2024",
+      "Sustitución": "Este contrato sustituye cualquier convenio o contrato colectivo o individual anterior"
+    }
+  }
+}

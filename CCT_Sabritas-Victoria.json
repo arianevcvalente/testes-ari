@@ -1,0 +1,153 @@
+{
+  "name": "SABRITAS VICTORIA",
+  "content": {
+    "Datos Base": {
+      "Empresa": "Comercializadora Pepsico México, S. de R.L. de C.V.",
+      "Centro de Trabajo": "CEDIS Sabritas Victoria, Libramiento Naciones Unidas No. 2188-E, Col. El Mirador, Ciudad Victoria, Tamaulipas",
+      "Sindicato": "Sindicato Nacional Alimenticio y del Comercio, Similares y Conexos de la República Mexicana",
+      "Trabajadores Cubiertos": "Personal de planta y temporal que ocupe las categorías del tabulador",
+      "Vigencia": "1 de marzo de 2025",
+      "Duracion": "Tiempo indeterminado",
+      "Reglas Revision": "Revisión conforme a los plazos establecidos por la Ley Federal del Trabajo"
+    },
+    "Roles y Sindicato": {
+      "Representacion": "El sindicato es el representante legal de los trabajadores ante la empresa",
+      "Facultad Administracion": "La empresa tiene derecho de administrar sus operaciones, renombrar puestos, suprimir vacantes o crear nuevos cargos según lo necesite",
+      "Permisos Sindicales": "Los miembros del comité ejecutivo o delegados tienen permiso con goce de sueldo para atender asuntos relacionados con la empresa y los trabajadores"
+    },
+    "Horarios": {
+      "Jornadas": "Sujetos a los artículos 59 al 65 de la Ley Federal del Trabajo",
+      "Control Horarios": "La empresa establece los horarios de trabajo según la operación",
+      "Modificaciones": "La empresa puede modificar turnos y descansos si la productividad u operación lo requieren"
+    },
+    "Pagos y Salarios": {
+      "Frecuencia Pago": "Pago semanal en moneda nacional o por medios electrónicos",
+      "Estructura Sueldo": "Salario base fijo más comisiones por venta",
+      "Cuota Sindical": "Descuento directo del salario según estatutos del sindicato",
+      "Salario Fijo Semanal": {
+        "Detalle": 1951.60,
+        "Proximidad": 1951.60
+      },
+      "Comisiones": {
+        "Linea Salado Canal Detalle": "3.30%",
+        "Linea Dulce Canal Detalle": "5.70%",
+        "Rutas Proximidad": "1.80%"
+      },
+      "Integracion Comision": "La comisión incluye el pago de días de descanso y festivos",
+      "Garantia Comision": "Si por fallas de la empresa el vendedor no puede generar comisiones se pagará el promedio de las últimas 4 semanas",
+      "Falla Vehiculos": "Si el vehículo asignado falla y se repara después de las 11:00 am sin suplente se paga salario promedio más comisión generada ese día"
+    },
+    "Beneficios y Prestaciones": {
+      "Nota Aplicacion": "Las prestaciones contractuales aplican a partir de cumplir 13 meses de servicio; durante el primer año solo aplican prestaciones de ley",
+      "Fondo Ahorro": "8.5% aportado por la empresa y 8.5% por el trabajador sobre salario promedio",
+      "Vales Despensa": "9% del sueldo promedio cada 28 días",
+      "Aguinaldo": {
+        "Menos de 1 año": "15 días",
+        "1 año": "20 días",
+        "2 años": "29 días",
+        "3 años o mas": "31 días"
+      },
+      "Ayuda Utiles Escolares": 1700,
+      "Seguro Vida": {
+        "Muerte Accidental": 200000,
+        "Muerte Natural": 100000
+      },
+      "Incentivo Productividad": "Aplica para líneas de Salado y Tostitos",
+      "Uniformes": "3 pantalones y 3 camisas cada 6 meses; un par de zapatos y una chamarra anual en noviembre",
+      "Bono Seguridad": "375 pesos trimestrales si no hay accidentes automovilísticos con responsabilidad del trabajador",
+      "Ayuda Defuncion Trabajador": 5000
+    },
+    "Permisos y Ayudas Familiares": {
+      "Matrimonio": {
+        "Apoyo": 600,
+        "Dias Descanso": 3
+      },
+      "Nacimiento Hijos": {
+        "Apoyo": 1000,
+        "Dias Descanso": 5
+      },
+      "Paternidad o Adopcion": "5 días laborables pagados",
+      "Fallecimiento Familiar": {
+        "Apoyo": 3500,
+        "Descanso Sepelio Local": "3 días",
+        "Descanso Sepelio Foraneo": "4 días"
+      }
+    },
+    "Descansos y Vacaciones": {
+      "Descanso Semanal": "1 día de descanso pagado por semana",
+      "Festivos": "Se descansan con pago íntegro los días oficiales de ley y electorales",
+      "Aniversario Sindical": "23 de octubre se trabaja y se paga compensación de 85 pesos",
+      "Pago Trabajo Descanso": "Si se trabaja en día de descanso o festivo se pagan dos salarios adicionales",
+      "Vacaciones": {
+        "1 año": {
+          "Dias": 12,
+          "Prima Vacacional": "40%"
+        },
+        "2 años": {
+          "Dias": 14,
+          "Prima Vacacional": "65%"
+        },
+        "3 años": {
+          "Dias": 16,
+          "Prima Vacacional": "70%"
+        },
+        "4 a 5 años": {
+          "Dias": "18 a 20",
+          "Prima Vacacional": "90%"
+        },
+        "6 a 9 años": {
+          "Dias": 22,
+          "Prima Vacacional": "90%"
+        },
+        "10 años en adelante": {
+          "Dias": "22 a 38",
+          "Prima Vacacional": "95%"
+        }
+      },
+      "Base Calculo": "Salario promedio fijo más comisiones de las últimas 8 semanas"
+    },
+    "Seguridad y Salud": {
+      "Accidentes Transito": "La empresa cubre daños; el trabajador paga deducible hasta 3000 pesos si es responsable",
+      "Prevencion Violencia": "Compromiso para evitar discriminación, violencia laboral y acoso sexual"
+    },
+    "Capacitacion": {
+      "Compromiso": "La empresa proporcionará capacitación y adiestramiento dentro de la jornada laboral conforme a la ley"
+    },
+    "Ascensos": {
+      "Criterio": "Se promueve al trabajador mejor calificado; en igualdad de condiciones se prioriza la mayor antigüedad"
+    },
+    "Disciplina": {
+      "Higiene Uniforme": "Obligatorio presentarse aseado y con uniforme limpio",
+      "Prohibicion Uso Uniforme": "No usar el uniforme fuera del horario laboral",
+      "Sancion": "Si no se cumple con higiene o uniforme se considera falta injustificada"
+    },
+    "Trabajadores Temporales": {
+      "Tipos Contrato": "Contratación por obra determinada o tiempo determinado",
+      "Restriccion Prestaciones": "Durante los primeros 12 meses solo se reciben prestaciones de ley"
+    },
+    "Trabajadores Confianza": {
+      "Definicion": "Directores, gerentes, supervisores, almacenistas, vigilantes, personal de transporte y administrativos con funciones de supervisión",
+      "Exclusion": "No pertenecen al sindicato ni se rigen por este contrato colectivo"
+    },
+    "Comisiones y Rutas Foraneas": {
+      "Ayuda Alimentos Basica": "12 pesos diarios",
+      "Ayuda Alimentos Con Pernocta": "150 pesos diarios",
+      "Ayuda Alimentos Sin Pernocta": "100 pesos diarios",
+      "Hospedaje": "Pagado por la empresa en los lugares designados"
+    },
+    "Utilidades": {
+      "Pago": "Conforme a la Ley Federal del Trabajo a más tardar el 30 de mayo"
+    },
+    "Reglas Operacion": {
+      "Estandares Venta": "Uso obligatorio de sistemas HHC, cumplimiento de normas de ejecución y códigos de frescura"
+    },
+    "Obligaciones Generales": {
+      "Flexibilidad": "La empresa puede contratar personal de tiempo completo o jornada reducida según el mercado",
+      "Trato Digno": "Compromiso mutuo para erradicar discriminación y violencia sexual"
+    },
+    "Vigencia": {
+      "Estatus": "Deroga cualquier pacto o convenio anterior",
+      "Base Revisiones Futuras": "1 de marzo será la fecha base para revisiones salariales y contractuales"
+    }
+  }
+}

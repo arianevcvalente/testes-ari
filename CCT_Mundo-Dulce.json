@@ -1,0 +1,144 @@
+{
+  "name": "MUNDO DULCE",
+  "content": {
+    "Datos Base": {
+      "Empresa": "Mundo Dulce, S.A. de C.V.",
+      "Centro de Trabajo": "Boulevard Miguel Alemán No. 100, Parque Industrial Exportec II, Toluca, Estado de México, C.P. 50223, incluyendo dependencias actuales, futuras y unidades móviles de venta o distribución",
+      "Sindicato": "Sindicato Nacional Alimenticio y del Comercio, Similares y Conexos de la República Mexicana (Registro Federal 4232)",
+      "Trabajadores Cubiertos": "876 trabajadores sindicalizados",
+      "Vigencia del Tabulador": "16 de octubre de 2023 al 15 de octubre de 2024",
+      "Duración": "Indefinida mientras la empresa no sea clausurada",
+      "Revisión": "Conforme a los artículos 399 y 399 Bis de la Ley Federal del Trabajo"
+    },
+    "Roles y Sindicato": {
+      "Definición de Trabajador": "Persona física que presta servicios personales subordinados jurídicamente a la empresa",
+      "Representación Sindical": "La empresa reconoce al sindicato como único representante del interés profesional de los trabajadores sindicalizados",
+      "Resolución de Conflictos": "Las dificultades derivadas del contrato, reglamento o ley se tratarán con el sindicato",
+      "Administración": "La administración de la empresa corresponde exclusivamente a la empresa"
+    },
+    "Horarios": {
+      "Días de Trabajo": "6 días de trabajo por 1 de descanso",
+      "Jornada Diurna": "8 horas entre 06:00 y 20:00",
+      "Jornada Nocturna": "7 horas entre 20:00 y 06:00",
+      "Jornada Mixta": "7.5 horas con menos de 3.5 horas nocturnas",
+      "Tiempo Extra": "Primeras 9 horas semanales pagadas al 100% adicional; excedentes al 200%, con autorización de la empresa"
+    },
+    "Pagos": {
+      "Incremento Salarial": "9% directo al salario en la revisión 2023",
+      "Garantía Salarial": "Ningún trabajador recibirá menos del salario mínimo general vigente",
+      "Frecuencia de Pago": "Pago semanal en efectivo o transferencia bancaria",
+      "Cuotas Sindicales": "La empresa retendrá y entregará al sindicato las cuotas establecidas"
+    },
+    "Tabulador Salarial": {
+      "Ayudante General Nuevo Ingreso": 262.98,
+      "Empacador General Planta": 276.15,
+      "Despacho Nuevo Ingreso": 262.98,
+      "Despacho Planta": 276.15,
+      "Auxiliar Mecánico Mantenimiento Nuevo Ingreso": 394.14,
+      "Ayudante Mecánico Mantenimiento Planta": 413.87
+    },
+    "Beneficios": {
+      "Aguinaldo": {
+        "1 a 5 años": "19 días de salario",
+        "6 a 10 años": "20 días de salario",
+        "11 a 20 años": "21 días de salario",
+        "21 años o más": "22 días de salario"
+      },
+      "Vales de Despensa": "$1,800 mensuales para trabajadores de planta sin faltas; el trabajador aporta 0.5%",
+      "Premio Puntualidad Productividad": "25% adicional sobre PTU para trabajadores con 2 años de antigüedad y buen récord de asistencia",
+      "Premio Nocturno": "Pago equivalente a 2 horas adicionales del salario diario por jornada nocturna",
+      "Fondo de Ahorro Anual": {
+        "Trabajador": "4.5% del salario",
+        "Empresa": "4.5% del salario"
+      },
+      "Fondo de Ahorro Retiro": {
+        "Trabajador": "4%",
+        "Empresa": "4%"
+      },
+      "Seguro de Vida": {
+        "Muerte Natural o Invalidez": 520000,
+        "Muerte Accidental Trabajo": 1040000
+      },
+      "Becas": "12 becas de $979 mensuales para trabajadores o hijos durante calendario escolar",
+      "Subsidio por Enfermedad": "Empresa completa salario al 100% desde el cuarto día hasta por 60 días",
+      "Ropa de Trabajo": "Uniformes y equipo de protección entregados gratuitamente",
+      "Deportes": "Aportación mensual de $1,802.90 para actividades deportivas"
+    },
+    "Permisos": {
+      "Matrimonio": "6 días de salario tabulado y una semana de permiso con goce de sueldo",
+      "Nacimiento": "$673 de ayuda económica",
+      "Paternidad": "5 días laborables con goce de sueldo",
+      "Adopción": "6 semanas de descanso pagado para trabajadoras",
+      "Defunción": {
+        "Local": "2 días con goce de sueldo",
+        "Fuera de la localidad": "3 días con goce de sueldo"
+      },
+      "Ayuda Defunción": {
+        "Cónyuge o Concubino": 3365,
+        "Hijos": 2405
+      }
+    },
+    "Descansos": {
+      "Descanso Semanal": "1 día pagado por cada 6 laborados",
+      "Festivos": "Los establecidos por la ley más Viernes Santo",
+      "Trabajo en Descanso": "Pago doble adicional al salario normal",
+      "Prima Dominical": "40% adicional sobre salario diario"
+    },
+    "Vacaciones": {
+      "1 año": { "dias": 12, "prima": 3 },
+      "2 años": { "dias": 14, "prima": 3.5 },
+      "3 años": { "dias": 16, "prima": 4 },
+      "4 años": { "dias": 18, "prima": 4.5 },
+      "5 años": { "dias": 20, "prima": 5 },
+      "6 a 10 años": { "dias": 22, "prima": 5.6 },
+      "11 a 15 años": { "dias": 24, "prima": 6.2 },
+      "Escala Maxima": "Hasta 32 días de vacaciones y 8.75 días de prima a los 35 años"
+    },
+    "Seguridad": {
+      "Cumplimiento": "Cumplimiento de la Ley del Seguro Social y Reglamento Federal de Seguridad y Salud",
+      "Comisión Seguridad e Higiene": "Debe integrarse en máximo 30 días"
+    },
+    "Capacitación": {
+      "Planes": "La empresa debe presentar planes ante la Secretaría del Trabajo",
+      "Personal Nuevo": "Recibe capacitación inicial conforme a la ley",
+      "Cumplimiento": "Se considera cumplido si la empresa ofrece la capacitación"
+    },
+    "Ascensos": {
+      "Criterios": "Capacitación, antigüedad, aptitud y productividad",
+      "Evaluación": "Exámenes y concursos de aptitud"
+    },
+    "Periodo de Prueba": {
+      "Requisito": "Periodo de prueba y examen de aptitud para obtener planta",
+      "Resultado Negativo": "La empresa puede terminar la relación sin responsabilidad"
+    },
+    "Trabajadores Temporales": {
+      "Contratación": "Permitida por obra o tiempo determinado",
+      "Terminación": "Finaliza al concluir el objeto o tiempo pactado",
+      "Servicios Externos": "Permitidos para actividades ajenas al giro principal"
+    },
+    "Personal de Confianza": {
+      "Definición": "Funciones de dirección, inspección, vigilancia o fiscalización",
+      "Exclusión": "Supervisores, vigilantes, personal administrativo y de almacén quedan fuera del CCT"
+    },
+    "Comisiones Mixtas": {
+      "Integración": "Igual número de representantes de empresa y sindicato",
+      "Facilidades": "Permisos para operar dentro o fuera del horario laboral"
+    },
+    "PTU": {
+      "Base": "Participación conforme a la Ley Federal del Trabajo",
+      "Relación": "El premio de puntualidad está ligado al reparto de utilidades"
+    },
+    "Operaciones": {
+      "Maniobras": "Carga, descarga y distribución realizadas exclusivamente por trabajadores sindicalizados"
+    },
+    "Obligaciones": {
+      "Trabajadores": "Desempeñar labores con intensidad, cuidado, esmero, productividad y eficiencia",
+      "Empresa": "Proveer herramientas y materiales necesarios oportunamente"
+    },
+    "Vigencia Legal": {
+      "Inicio": "16 de octubre de 2023",
+      "Sustitución": "Sustituye cualquier contrato o convenio anterior",
+      "Marco Legal": "Artículo 123 Constitucional y Ley Federal del Trabajo"
+    }
+  }
+}

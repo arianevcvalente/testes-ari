@@ -1,0 +1,145 @@
+{
+  "name": "SIGMA COMITAN",
+  "content": {
+    "Datos Base": {
+      "Empresa": "Sigma Alimentos Comercial, S.A. de C.V.",
+      "Centro de Trabajo": "Calle 6º Prolongación Oriente Sur número 3000, Colonia Los Sabinos, Comitán de Domínguez, Chiapas",
+      "Sindicato": "Sindicato Nacional Alimenticio y del Comercio, Similares y Conexos de la República Mexicana",
+      "Trabajadores Cubiertos": "Personal subordinado cuyos puestos aparecen en el tabulador de salarios",
+      "Vigencia": "Tiempo indefinido",
+      "Reglas Revision": "Revisión total o parcial cada dos años y revisión del tabulador salarial cada año",
+      "Proxima Revision": "Noviembre de 2025"
+    },
+    "Roles y Sindicato": {
+      "Representacion": "La empresa reconoce al sindicato como representante de los trabajadores sindicalizados",
+      "Afiliacion": "Los trabajadores pueden afiliarse libremente al sindicato",
+      "Notificacion Afiliacion": "El sindicato notificará a la empresa las nuevas afiliaciones para iniciar el descuento de cuotas",
+      "Cuotas Sindicales": "La empresa descontará cuotas previa autorización escrita del trabajador, quien puede cancelarlas en cualquier momento",
+      "Resolucion Conflictos": "Empresa y sindicato colaborarán para resolver conflictos derivados del contrato o de la ley"
+    },
+    "Horarios y Jornadas": {
+      "Jornada Diurna": "48 horas semanales",
+      "Jornada Mixta": "45 horas semanales",
+      "Jornada Nocturna": "42 horas semanales",
+      "Distribucion Jornada": "La empresa fija horarios y puede modificarlos según necesidades del servicio",
+      "Distribucion 6 a 5 dias": "La jornada de 6 días puede distribuirse en 5 para permitir descanso el sexto día",
+      "Descanso Alimentos": "30 minutos diarios para descanso y alimentos con libertad de salir del centro de trabajo",
+      "Vendedores a Bordo": "No están sujetos a control presencial de horario y administran su tiempo dentro de los límites legales"
+    },
+    "Pagos y Salarios": {
+      "Metodo Pago": "Depósito bancario, efectivo o cheque",
+      "Comision Vendedores": "0.92 pesos por kilo vendido",
+      "Garantia Nuevo Ingreso": "Durante las primeras 4 semanas se paga salario base más el 80% de la comisión de la ruta más baja",
+      "Tiempo Extra": {
+        "Primeras 9 horas": "Pago doble (100% adicional)",
+        "Horas Excedentes": "Pago triple (200% adicional)"
+      },
+      "Tabulador Salarios Diario 2025": {
+        "Auxiliar Almacen": 508.25,
+        "Chofer Ventas Cross Dock": 562.82,
+        "Prevendedor Conveniencia": 484.01,
+        "Vendedor Detalle Suplente A": 514.75,
+        "Vendedor Detalle Suplente B": 378.79,
+        "Vendedor Producto a Bordo A": 484.07,
+        "Vendedor Producto a Bordo B": 455.04
+      }
+    },
+    "Beneficios y Prestaciones": {
+      "Vacaciones": "12 días el primer año, aumentando 2 días por año hasta 20; después del quinto año aumenta 2 días cada 5 años",
+      "Prima Vacacional": {
+        "1 a 3 años": "60%",
+        "4 a 8 años": "80%",
+        "9 años en adelante": "100%"
+      },
+      "Aguinaldo": "30 días de salario pagaderos antes del 19 de diciembre",
+      "Vales Despensa": "12% del salario mensual entregado semanalmente en monedero electrónico",
+      "Fondo Ahorro": "13% aportado por trabajador y 13% por la empresa",
+      "Entrega Fondo Ahorro": "Febrero y agosto",
+      "Seguro Vida": {
+        "Muerte Natural o Accidental": "15 meses de salario",
+        "Incapacidad Total Permanente": "12 meses de salario"
+      },
+      "Uniformes": "Ropa de trabajo y equipo de seguridad gratuitos renovados cada 6 meses (abril y octubre)",
+      "Becas": "Apoyo para estudios de bachillerato o universidad para un trabajador o hijo"
+    },
+    "Permisos": {
+      "Fallecimiento Familiar": {
+        "Dias Local": 3,
+        "Dias Foraneo": 5,
+        "Apoyo Economico": 1200
+      },
+      "Paternidad o Adopcion": "5 días laborables con goce de sueldo",
+      "Permiso Sin Goce": "Deben solicitarse con anticipación y quedan sujetos a aprobación de la empresa",
+      "Utiles Escolares": {
+        "Periodo": "Julio",
+        "Beneficiarios": "Hijos en educación básica con asistencia perfecta",
+        "Monto": "Entre 200 y 500 pesos según promedio",
+        "Limite": "100 mejores promedios"
+      }
+    },
+    "Descansos": {
+      "Descanso Semanal": "Un día de descanso pagado proporcional a los días trabajados",
+      "Festivos Obligatorios": "Los establecidos por la Ley Federal del Trabajo",
+      "Festivos Adicionales": [
+        "Viernes Santo",
+        "Sábado Santo",
+        "10 de mayo",
+        "2 de noviembre",
+        "12 de diciembre"
+      ],
+      "Pago Trabajo Festivo": "Pago triple (200% adicional)",
+      "Prima Dominical": "25% adicional para quienes trabajen en domingo"
+    },
+    "Seguridad e Higiene": {
+      "Comision Mixta": "Investiga accidentes y propone medidas preventivas con inspecciones mensuales",
+      "Examenes Medicos": "La empresa puede solicitar revisiones médicas para verificar salud o detectar enfermedades contagiosas",
+      "Equipo Proteccion": "Uso obligatorio de uniformes y equipo de seguridad"
+    },
+    "Capacitacion": {
+      "Programas": "Empresa y sindicato establecen programas de capacitación y adiestramiento",
+      "Nuevas Tecnologias IA": {
+        "Capacitacion": "La empresa capacitará en uso de inteligencia artificial y nuevas tecnologías",
+        "Reconvercion Laboral": "Programas de reskilling para trabajadores afectados por cambios tecnológicos",
+        "Proteccion Empleo": "Ningún trabajador será desplazado exclusivamente por la implementación de IA; se buscará reubicación equivalente"
+      }
+    },
+    "Ascensos": {
+      "Derecho Escalafon": "Se consideran capacitación, antigüedad, aptitud y productividad"
+    },
+    "Disciplina": {
+      "Sanciones": "Incumplimientos a la ley, reglamento o contrato serán sancionados",
+      "Puntualidad": "Es obligatorio registrar entrada; omitirlo se considera falta injustificada",
+      "Cuidado Equipo": "Herramientas o uniformes dañados por negligencia deberán ser pagados por el trabajador"
+    },
+    "Trabajadores Temporales": {
+      "Contratacion": "Puede realizarse por obra o tiempo determinado",
+      "Estatus": "No se consideran de planta y al finalizar la obra o plazo termina la relación laboral"
+    },
+    "Personal Confianza": {
+      "Definicion": "Personal con funciones de dirección, inspección, vigilancia o fiscalización",
+      "Exclusion": "No pertenecen al sindicato ni se rigen por este contrato"
+    },
+    "Comisiones Mixtas": {
+      "Capacitacion Adiestramiento": "Formulación de planes de formación",
+      "Seguridad Higiene": "Prevención de riesgos laborales",
+      "Seguimiento IA": "Evaluación del impacto de la inteligencia artificial en la operación"
+    },
+    "Utilidades": {
+      "Regulacion": "Se rige por la Ley Federal del Trabajo y la Constitución"
+    },
+    "Areas y Multifuncionalidad": {
+      "Reubicacion": "La empresa puede reubicar trabajadores entre puestos o departamentos sin afectar su salario",
+      "Eficiencia": "Los trabajadores deben realizar tareas relacionadas con su puesto"
+    },
+    "Obligaciones": {
+      "Empresa": "Registrar trabajadores en el IMSS y cumplir con el artículo 132 de la LFT",
+      "Trabajadores": "Evitar desperdicios, cuidar herramientas y obedecer instrucciones de superiores",
+      "Ambiente Laboral": "Compromiso para prevenir discriminación, acoso y violencia laboral"
+    },
+    "Vigencia": {
+      "Inicio": "1 de enero de 2025",
+      "Firma": "11 de diciembre de 2024",
+      "Registro": "Ratificado para depósito ante autoridades laborales"
+    }
+  }
+}

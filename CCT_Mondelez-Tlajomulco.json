@@ -1,0 +1,167 @@
+{
+  "name": "MONDELEZ TLAJOMULCO",
+  "content": {
+    "Datos Base": {
+      "Empresa": "Mondelez México, S. de R.L. de C.V.",
+      "Centros de Trabajo": [
+        "Planta Tlajomulco – Km 13 Carretera a San Miguel Cuyutlán #320, Tlajomulco de Zúñiga, Jalisco",
+        "CEDIS Occidente – Carretera Guadalajara–Chapala Km 24.5, Tlajomulco de Zúñiga, Jalisco"
+      ],
+      "Sindicato": "Sindicato Nacional Alimenticio y del Comercio, Similares y Conexos de la República Mexicana",
+      "Trabajadores Cubiertos": "Personas físicas que prestan servicios personales subordinados a la empresa",
+      "Vigencia": "16 de octubre de 2025",
+      "Duracion": "Tiempo indefinido",
+      "Reglas Revision": "Revisión conforme a los artículos 399 y 399 Bis de la Ley Federal del Trabajo"
+    },
+    "Roles y Sindicato": {
+      "Representacion": "El sindicato representa el interés profesional de los trabajadores",
+      "Administracion Empresa": "La administración corresponde exclusivamente a la empresa",
+      "Resolucion Conflictos": "Se resolverán conforme a la Constitución, LFT, Contrato Colectivo y Reglamento Interior"
+    },
+    "Horarios y Jornada": {
+      "Semana Laboral": "6 días de trabajo por 1 de descanso",
+      "Jornada Diurna": "8 horas entre 06:00 y 20:00",
+      "Jornada Nocturna": "7 horas entre 20:00 y 06:00",
+      "Jornada Mixta": "7.5 horas",
+      "Tiempo Extra": {
+        "Primeras 9 Horas": "100% adicional",
+        "Horas Excedentes": "200% adicional",
+        "Condicion": "Requiere autorización expresa de la empresa"
+      }
+    },
+    "Pagos y Salarios": {
+      "Tabulador": "Definido en anexo del contrato colectivo",
+      "Garantia Minima": "Ningún salario será inferior al salario mínimo general vigente",
+      "Metodo Pago": "Pago semanal en efectivo o vía bancaria dentro de horas de trabajo",
+      "Cuota Sindical": "Retención por la empresa conforme a estatutos sindicales",
+      "Sin Merma": "No habrá reducción salarial por causas imputables a la empresa"
+    },
+    "Beneficios y Prestaciones": {
+      "Aguinaldo": {
+        "0 a 5 años": "19 días",
+        "6 a 10 años": "20 días",
+        "11 a 20 años": "21 días",
+        "21 años o mas": "22 días"
+      },
+      "Vales Despensa": {
+        "Monto": 1925,
+        "Frecuencia": "Mensual",
+        "Aportacion Trabajador": "0.5%",
+        "Condicion": "Se descuentan proporcionalmente por faltas injustificadas"
+      },
+      "Fondo Ahorro": {
+        "Trabajador": "5%",
+        "Empresa": "5%",
+        "Frecuencia": "Descuento semanal"
+      },
+      "Premio Nocturno": "Una hora de salario diario adicional por jornada nocturna",
+      "Seguro Vida": {
+        "Muerte Natural o Invalidez": 450000,
+        "Muerte Accidental Trabajo": 900000
+      },
+      "Becas": {
+        "Cantidad": 18,
+        "Monto Mensual": 1023.50
+      },
+      "Ropa Trabajo": "Entrega en mayo y noviembre con uso obligatorio",
+      "Prima Dominical": "25% sobre salario ordinario",
+      "Prestacion 12 Diciembre": "Se trabaja normalmente pero se paga un día adicional"
+    },
+    "Permisos": {
+      "Paternidad": "5 días laborables con goce de sueldo",
+      "Adopcion Madres": "6 semanas de descanso con sueldo",
+      "Matrimonio": {
+        "Permiso": "3 días con sueldo",
+        "Prima": "9 días de salario (solo primera vez)"
+      },
+      "Defuncion Familiares": {
+        "Permiso Local": "1 día",
+        "Permiso Fuera Localidad": "2 días",
+        "Ayuda Conyuge": 2400,
+        "Ayuda Otros Familiares": 1700
+      },
+      "Nacimiento": {
+        "Prima": 750
+      }
+    },
+    "Descansos y Vacaciones": {
+      "Descanso Semanal": "1 día pagado por cada 6 trabajados",
+      "Festivos": [
+        "1 de enero",
+        "Lunes correspondiente al 5 de febrero",
+        "Lunes correspondiente al 21 de marzo",
+        "Sábado de Gloria",
+        "1 de mayo",
+        "16 de septiembre",
+        "Lunes correspondiente al 20 de noviembre",
+        "Día de transmisión del Poder Ejecutivo",
+        "25 de diciembre"
+      ],
+      "Pago Descanso Trabajado": "Pago doble adicional",
+      "Vacaciones": {
+        "Tabla": [
+          {"Antiguedad": "1 año", "Vacaciones": 12, "Prima": 4},
+          {"Antiguedad": "2 años", "Vacaciones": 14, "Prima": 4},
+          {"Antiguedad": "3 años", "Vacaciones": 16, "Prima": 4.5},
+          {"Antiguedad": "4 años", "Vacaciones": 18, "Prima": 5},
+          {"Antiguedad": "5 años", "Vacaciones": 20, "Prima": 5.5},
+          {"Antiguedad": "6 a 10 años", "Vacaciones": 22, "Prima": "5.5 a 6"},
+          {"Antiguedad": "11 a 15 años", "Vacaciones": 24, "Prima": "6 a 7"},
+          {"Antiguedad": "16 a 20 años", "Vacaciones": 26, "Prima": 7},
+          {"Antiguedad": "21 a 25 años", "Vacaciones": 28, "Prima": 7},
+          {"Antiguedad": "26 a 30 años", "Vacaciones": 30, "Prima": 7.5},
+          {"Antiguedad": "31 a 35 años", "Vacaciones": 32, "Prima": 8}
+        ]
+      }
+    },
+    "Seguridad y Salud": {
+      "Cumplimiento": "Ley del Seguro Social y Reglamento Federal de Seguridad y Salud",
+      "Equipo": "La empresa proporciona equipo de protección necesario",
+      "Comision Seguridad": "Se integra dentro de los 30 días posteriores"
+    },
+    "Capacitacion": {
+      "Comision Mixta": "Supervisa capacitación y productividad",
+      "Registro": "Programas registrados ante la Secretaría del Trabajo",
+      "Condicion Cumplimiento": "Se considera cumplida si la empresa ofreció la capacitación"
+    },
+    "Ascensos y Escalafon": {
+      "Criterios": [
+        "Capacitación",
+        "Antigüedad",
+        "Aptitud",
+        "Productividad"
+      ],
+      "Proceso": "Vacantes requieren periodo de prueba y examen de conocimientos",
+      "Seleccion": "Se otorga a quien obtenga el mejor resultado"
+    },
+    "Disciplina y Prevencion": {
+      "Reglamento Interior": "Las labores se rigen por el Reglamento Interior de Trabajo",
+      "Protocolo Violencia": "Medidas contra discriminación, acoso y hostigamiento sexual"
+    },
+    "Trabajadores Temporales": {
+      "Contratacion": "Solo por obra o tiempo determinado en casos justificados",
+      "Terminacion": "Finaliza automáticamente al concluir el objeto del contrato",
+      "Servicios Especiales": "Pueden contratarse externamente si no forman parte del giro principal"
+    },
+    "Trabajadores Confianza": {
+      "Definicion": "Funciones de dirección, inspección, vigilancia o fiscalización",
+      "Exclusion": "Incluye supervisores, vigilantes y personal administrativo"
+    },
+    "Comisiones Mixtas": {
+      "Tipos": "Comisiones permanentes y temporales establecidas por la LFT",
+      "Facilidades": "La empresa proporcionará medios para su funcionamiento"
+    },
+    "Utilidades y Areas": {
+      "PTU": "Se rige por el Artículo 123 Constitucional y la LFT",
+      "Cobertura": "Aplica a todas las plantas, dependencias y CEDIS"
+    },
+    "Obligaciones": {
+      "Trabajadores": "Realizar labores con eficiencia, cuidado y productividad",
+      "Empresa": "Proporcionar materiales y equipo de protección oportunamente"
+    },
+    "Vigencia y Estatus": {
+      "Derogacion": "Este contrato deja sin efecto cualquier convenio anterior",
+      "Inicio Legal": "16 de octubre de 2025"
+    }
+  }
+}

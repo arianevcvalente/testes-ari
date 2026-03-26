@@ -1,0 +1,178 @@
+{
+  "name": "SABRITAS COATZINTLA",
+  "content": {
+    "Datos Base": {
+      "Empresa": "Comercializadora Pepsico México, S. de R.L. de C.V.",
+      "Centro de Trabajo": "Carretera Poza Rica Coatzintla km 2.7, Lotes 4 y 5, Col. Adolfo López Mateos, Coatzintla, Veracruz",
+      "Sindicato": "Sindicato Nacional Alimenticio y del Comercio, Similares y Conexos de la República Mexicana (SNAC)",
+      "Trabajadores Cubiertos": 66,
+      "Vigencia": "1 de abril de 2024",
+      "Duracion": "Tiempo indeterminado",
+      "Reglas Revision": "Revisable conforme a los artículos 399 y 399 Bis de la Ley Federal del Trabajo"
+    },
+    "Roles y Sindicato": {
+      "Reconocimiento Sindical": "La empresa reconoce al SNAC como representante de los trabajadores sindicalizados",
+      "Cuotas Sindicales": "La empresa descontará las cuotas ordinarias previstas por el sindicato",
+      "Facultad Administracion": "La empresa mantiene el derecho de administrar, reclasificar o suprimir puestos según necesidades operativas",
+      "Definiciones": [
+        "Contrato",
+        "Sindicato",
+        "Empresa",
+        "Tabulador",
+        "Ley",
+        "Trabajadores"
+      ]
+    },
+    "Horarios y Jornadas": {
+      "Normativa": "Conforme a los artículos 59 al 65 de la Ley Federal del Trabajo",
+      "Establecimiento Horarios": "La empresa establece horarios según necesidades operativas",
+      "Modificaciones": "La empresa puede modificar turnos, horarios y descansos si la operación lo requiere"
+    },
+    "Pagos y Salarios": {
+      "Frecuencia Pago": "Semanal o catorcenal",
+      "Metodo Pago": "Moneda de curso legal o medios electrónicos",
+      "Estructura Salario": "Salario fijo más comisión",
+      "Comisiones Incluyen": [
+        "Pago del séptimo día",
+        "Pago de días festivos obligatorios"
+      ],
+      "Tabulador Salarial": {
+        "Vendedor Detalle DTS": {
+          "Salario Diario": 248.93,
+          "Salario Semanal": 1742.51
+        },
+        "Vendedor Proximidad CStores": {
+          "Salario Diario": 248.93,
+          "Salario Semanal": 1742.51
+        }
+      },
+      "Esquema Comisiones": {
+        "Vendedor DTS": {
+          "Linea Salado": "2.80%",
+          "Linea Dulce": "6.60%"
+        },
+        "Vendedor Proximidad": {
+          "Linea Salado": "1.80%"
+        }
+      }
+    },
+    "Beneficios y Prestaciones": {
+      "Aguinaldo": {
+        "Menos de 1 año": "15 días",
+        "1 año": "18 días",
+        "2 años": "21 días",
+        "6 años o mas": "32 días"
+      },
+      "Fondo Ahorro": {
+        "Empresa": "9%",
+        "Trabajador": "9%",
+        "Base": "Salario fijo más comisión",
+        "Entrega": "Anual en enero con intereses"
+      },
+      "Vales Despensa": {
+        "Monto": "11% del sueldo promedio por cada periodo de 28 días"
+      },
+      "Seguro Vida": {
+        "Muerte Accidental": 180000,
+        "Muerte Natural": 90000
+      },
+      "Utiles Escolares": {
+        "Monto": 2000,
+        "Entrega": "Agosto"
+      },
+      "Uniformes": {
+        "Entrega": "Anual",
+        "Contenido": [
+          "3 pantalones",
+          "5 camisas",
+          "1 par de zapatos",
+          "1 chamarra"
+        ]
+      },
+      "Restriccion Antiguedad": "Prestaciones contractuales aplican a partir del mes 13 de servicio"
+    },
+    "Permisos y Ayudas": {
+      "Defuncion Familiar": {
+        "Apoyo": 3500,
+        "Permiso": "2 días con goce de sueldo"
+      },
+      "Defuncion Trabajador": {
+        "Apoyo": 3675
+      },
+      "Matrimonio": {
+        "Apoyo": 1260,
+        "Permiso": "2 días con goce de sueldo",
+        "Condicion": "Aplicable una sola vez"
+      },
+      "Nacimiento Hijos": {
+        "Apoyo": 1260,
+        "Permiso": "5 días con goce de sueldo"
+      },
+      "Paternidad y Adopcion": "5 días laborables con goce de sueldo"
+    },
+    "Descansos y Vacaciones": {
+      "Dias Festivos": [
+        "1 de enero",
+        "1 de mayo",
+        "16 de septiembre",
+        "25 de diciembre",
+        "Otros días oficiales de ley",
+        "Viernes de Semana Santa"
+      ],
+      "Pago Festivo Trabajado": "Dos salarios promedio adicionales",
+      "Vacaciones": {
+        "Base": "Conforme a artículos 76 al 81 de la LFT",
+        "Tabla Referencial": {
+          "1 año": {
+            "Vacaciones": 12,
+            "Prima Vacacional": "40%"
+          },
+          "5 a 8 años": {
+            "Vacaciones": 22,
+            "Prima Vacacional": "98%"
+          },
+          "14 años o mas": {
+            "Prima Vacacional": "100%"
+          }
+        }
+      }
+    },
+    "Seguridad y Salud": {
+      "IMSS": "Inscripción obligatoria de todos los trabajadores",
+      "Incapacidades": {
+        "Condicion": "En enfermedad general mayor a 4 días",
+        "Complemento": "La empresa cubre la diferencia no pagada por el IMSS",
+        "Periodo": "Del día 4 al 120",
+        "Base": "Promedio de las últimas 8 semanas"
+      },
+      "Protocolo Prevencion": "Compromiso para prevenir discriminación, violencia laboral y acoso sexual"
+    },
+    "Ascensos y Vacantes": {
+      "Criterio": "Promoción al trabajador mejor calificado",
+      "Antiguedad": "Se considera solo en caso de empate entre candidatos"
+    },
+    "Trabajadores": {
+      "De Planta": "Contratados por tiempo indeterminado",
+      "Temporales": "Por obra o tiempo determinado según necesidades",
+      "Jornada": "Pueden ser medio tiempo o tiempo completo con salario por día u hora"
+    },
+    "Trabajadores Confianza": {
+      "Definicion": "Personal no sindicalizado que no está sujeto al contrato",
+      "Puestos": [
+        "Directores",
+        "Gerentes",
+        "Supervisores",
+        "Almacenistas",
+        "Personal de transporte",
+        "Secretarias",
+        "Vigilancia",
+        "Administrativos de supervisión"
+      ]
+    },
+    "Disciplina y Reglamentos": {
+      "Reglamento Interior": "Se elaborará dentro de los 30 días posteriores a la firma del contrato",
+      "Accidentes Vehiculares": "El trabajador responsable cubre deducible del 2% del valor comercial de la unidad",
+      "Uniforme": "Uso obligatorio limpio y en horario laboral; incumplimiento se considera falta injustificada"
+    }
+  }
+}

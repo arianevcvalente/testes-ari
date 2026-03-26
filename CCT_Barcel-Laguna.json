@@ -1,0 +1,138 @@
+{
+  "_id": {
+    "$oid": "6994ce1d290c67aef2d4fc5d"
+  },
+  "name": "BARCEL LAGUNA",
+  "content": {
+    "Datos Base": {
+        "Empresa": "Barcel, S.A. de C.V. (Planta Laguna).",
+        "Centros de Trabajo": "Planta ubicada en Calle Agroindustrias N° 15, Colonia Luis Horacio Salinas, Torreón, Coahuila, C.P. 27279. Aplica también a una extensa lista de centros de distribución y agencias foráneas (ej. Zacatecas, Durango, Chihuahua, San Luis Potosí, Tijuana, entre otros).",
+        "Sindicato": "Sindicato Nacional Alimenticio y del Comercio (SNAC).",
+        "Vigencia": "A partir del 16 de octubre de 2023.",
+        "Duración": "Tiempo indefinido.",
+        "Reglas de Revisión": "Revisión integral cada dos años y revisión de salarios cada año (Art. 399 y 399 Bis LFT)."
+    },
+    "Roles y Sindicato": {
+        "Trabajadores de Planta": "Quienes llenan los requisitos y desempeñan trabajo permanente.",
+        "Confianza (Cláusula 9)": "Quedan fuera del contrato. Incluye directores, inspección, vigilancia, supervisores y personal administrativo.",
+        "Temporales (Cláusula 8)": "Contratados por obra o tiempo determinado. Al terminar el objeto del trabajo, concluye el contrato automáticamente.",
+        "Puestos Vacantes (Cláusula 10)": "La empresa contrata libremente, pero el Sindicato los acepta como agremiados."
+    },
+    "Horarios": {
+        "Jornada Semanal (Cláusula 16)": "6 días de trabajo por 1 de descanso.",
+        "Turnos": {
+            "Diurna": "8 horas (entre 6:00 y 20:00).",
+            "Nocturna": "7 horas (entre 20:00 y 6:00).",
+            "Mixta": "7.5 horas."
+        },
+        "Vendedores Comisionistas (Cláusula 14)": "Jornada máxima de 8 horas, pero debido a la naturaleza de la ruta en calle, no están sujetos a control de horario estricto, aunque deben iniciar a la hora establecida."
+    },
+    "Pagos": {
+        "Tabulador (Cláusula 12)": "Salarios ajustados al anexo (montos específicos no visibles en el extracto).",
+        "Comisión a Vendedores (Cláusula 14)": "5% sobre ventas netas para vendedores de conveniencia, detalle duplex y detalle junior. Este porcentaje ya incluye el pago de séptimos días y festivos.",
+        "Forma de Pago (Cláusula 15)": "Semanal, en efectivo o vía electrónica.",
+        "Viáticos (Cláusula 35)": "$216.17 diarios para transportistas o vendedores foráneos con rutas de 2 días continuos o más."
+    },
+    "Beneficios": {
+        "Vales de Despensa (Cláusula 37)": "$2,100.00 mensuales, entregados si no hay faltas injustificadas. El trabajador aporta el 0.5% del monto.",
+        "Aguinaldo (Cláusula 34)": {
+            "Pago": "Antes del 20 de diciembre de cada año.",
+            "Días según antigüedad": {
+                "1 a 5 años": "24 días",
+                "6 a 10 años": "25 días",
+                "11 a 20 años": "26 días",
+                "21 años en adelante": "27 días"
+            }
+        },
+        "Fondo de Ahorro (Cláusula 51)": "El trabajador ahorra 4.5% semanal y la empresa aporta otro 4.5%. Se entrega anualmente.",
+        "Fondo de Ahorro para el Retiro (Cláusula 52)": "Ahorro adicional con aportación del trabajador y empresa del 3% semanalmente.",
+        "Premio de Puntualidad y Productividad (Cláusula 36)": "Bono anual del 25% adicional sobre la cantidad que reciba el trabajador por Reparto de Utilidades (PTU). Requiere récord de puntualidad.",
+        "Premio Nocturno (Cláusula 38)": "Pago de 1.5 horas de salario diario adicionales por turno nocturno laborado (para transportistas es una cuota fija de $139.15 por noche).",
+        "Ayuda Defunción (Cláusula 46)": {
+            "Cónyuge/Concubina": "$4,671.82",
+            "Hijos": "$3,337.00"
+        },
+        "Seguro de Vida (Cláusula 49)": {
+            "Muerte natural": "$520,000.00",
+            "Muerte accidental": "$1,040,000.00",
+            "Invalidez total permanente": "$520,000.00"
+        },
+        "Ayuda Deportiva (Cláusula 50)": "$9,280.50 mensuales para fomento al deporte.",
+        "Becas (Cláusula 47)": "13 becas de $1,023.50 mensuales para trabajadores o hijos.",
+        "Vacaciones": {
+            "1 año": "12 días y 4 días de prima",
+            "2 años": "14 días y 5 días de prima",
+            "3 años": "16 días y 6 días de prima",
+            "4 años": "18 días y 6.5 días de prima",
+            "5 años": "20 días y 7.5 días de prima",
+            "6 años": "22 días y 7.5 días de prima",
+            "7-8 años": "22 días y 7.5 días de prima",
+            "9-11 años": "22-24 días y 9 días de prima",
+            "12-17 años": "24-26 días y 10 días de prima",
+            "18-22 años": "26-28 días y 11.5 días de prima",
+            "23-27 años": "28-30 días y 12.5 días de prima",
+            "28-32 años": "30-32 días y 13.5 días de prima",
+            "33-35 años": "32 días y 13.5 a 15 días de prima"
+        }
+    },
+    "Permisos": {
+        "Matrimonio (Cláusula 42)": "Prima de 9 días de salario + 1 semana de permiso con goce de sueldo (incluye 7º día).",
+        "Nacimiento de Hijo (Cláusula 43)": "Prima de $862.50.",
+        "Paternidad (Cláusula 44)": "5 días laborales con goce de sueldo.",
+        "Adopción (Madres) (Cláusula 45)": "6 semanas de descanso con goce de sueldo.",
+        "Defunción (Cláusula 46)": {
+            "Localidad del trabajo": "1 día con goce de sueldo (dentro de los 8 días siguientes).",
+            "Fuera de la localidad": "3 días con goce de sueldo."
+        }
+    },
+    "Descansos": {
+        "Descanso Semanal": "Un día de paga con goce de sueldo por cada 6 trabajados.",
+        "Días Festivos": {
+            "Normales": "1 enero, primer lunes febrero, tercer lunes marzo, 1 mayo, 16 septiembre, tercer lunes noviembre, 25 diciembre, cambio de gobierno federal.",
+            "Adicional": "Viernes Santo.",
+            "12 de diciembre": "Se trabaja normal, pero se paga un día adicional de salario diario."
+        },
+        "Trabajo en Descanso/Festivo": "Se paga salario doble adicional al normal (total triple).",
+        "Prima Dominical": "45% adicional sobre el salario diario."
+    },
+    "Seguridad": {
+        "Comisión Mixta": "Se integra la Comisión Mixta de Seguridad e Higiene para operar según la ley y el reglamento federal. Debe constituirse en un plazo no mayor a 30 días.",
+        "Ropa de Trabajo": "Entrega de uniformes y zapatos de seguridad en mayo y noviembre. Uso obligatorio."
+    },
+    "Capacitación": {
+        "Comisión Mixta": "Se integran las Comisiones Mixtas (Capacitación, Seguridad, etc.) conforme al artículo 391 de la LFT.",
+        "Obligación": "Los representantes deben asistir a cursos y sesiones."
+    },
+    "Ascensos": {
+        "Escalafón": "Derecho a ascenso considerando capacitación, antigüedad, aptitud y productividad. El trabajador debe aprobar el examen con mejor resultado."
+    },
+    "Disciplina": {
+        "Regla": "Se hace referencia general al cumplimiento del Reglamento Interior de Trabajo y la Ley Federal del Trabajo. No se detallan sanciones específicas en los extractos, salvo la pérdida de bonos por faltas."
+    },
+    "Temporales": {
+        "Contratación": "Permitida por obra o tiempo determinado (art. 36 y 37 LFT). Terminación automática al concluir el objeto."
+    },
+    "Confianza": {
+        "Definción": "Puestos de dirección, inspección, fiscalización y vigilancia. Excluidos del contrato colectivo."
+    },
+    "Comisiones": {
+        "Tipos": "Mixtas temporales y permanentes según la Ley (Seguridad e Higiene, Capacitación, PTU, etc.).",
+        "Funciones": "Deben operar dentro o fuera del horario de labores con facilidades de la empresa."
+    },
+    "Utilidades": {
+        "PTU": "Se menciona como base para el cálculo del 'Premio Anual por Puntualidad y Productividad' (Cláusula 36)."
+    },
+    "Áreas": {
+        "Definción": "El contrato cubre Planta Laguna y múltiples centros de ventas y agencias foráneas listadas en la Cláusula 4.",
+        "Reglas": "Reglas específicas para Vendedores (Comisiones) y Transportistas (Viáticos, pago promedio para vacaciones)."
+    },
+    "Obligaciones": {
+        "Subsidio Enfermedad": "Para enfermedad general (no profesional), la empresa paga el complemento para llegar al 100% del salario (hasta por 100 días en un año).",
+        "Transportistas": "Complemento al 80% del promedio de las últimas 4 semanas."
+    },
+    "Vigencia": {
+        "Inicio": "16 de octubre de 2023.",
+        "Derogación": "Este contrato anula cualquier convenio anterior."
+    }
+  }
+}

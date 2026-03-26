@@ -1,0 +1,185 @@
+{
+  "name": "INDUSTRIAS EW",
+  "content": {
+    "Datos Base": {
+      "Empresa": "Industrias E.W., S.A.",
+      "Centro Trabajo Principal": "Calle Victoria 31, Fraccionamiento Industrial Alce Blanco, Naucalpan de Juárez, Estado de México, C.P. 53370",
+      "Aplicacion": "Aplica para sucursales futuras y personal en unidades móviles de distribución o comercialización",
+      "Sindicato": "Sindicato Nacional Alimenticio y del Comercio, Similares y Conexos de la República Mexicana",
+      "Trabajadores Cubiertos": "Todo el personal subordinado excepto puestos de confianza",
+      "Duracion": "Tiempo indefinido",
+      "Vigencia Tabulador": "1 de julio de 2024 al 30 de junio de 2025",
+      "Reglas Revision": "Puede modificarse conforme a los artículos 399 y 399 Bis de la Ley Federal del Trabajo"
+    },
+    "Roles y Sindicato": {
+      "Representacion": "El sindicato representa el interés profesional de los trabajadores",
+      "Afiliacion": "Los trabajadores pueden afiliarse libremente al sindicato",
+      "Resolucion Conflictos": "Se resolverán conforme al artículo 123 Constitucional y la Ley Federal del Trabajo"
+    },
+    "Horarios": {
+      "Jornada Semanal": "48 horas",
+      "Distribucion": "Las horas del sábado pueden distribuirse entre los otros cinco días",
+      "Turnos": {
+        "Primer Turno": "Lunes a sábado de 07:00 a 15:00",
+        "Segundo Turno": "Lunes a viernes de 14:30 a 22:00 y sábado de 14:00 a 19:00",
+        "Tercer Turno": "Lunes a viernes de 22:00 a 06:30"
+      },
+      "Descanso Alimentos": "30 minutos diarios considerados tiempo trabajado",
+      "Horas Extra": {
+        "Primeras 9 Semanales": "Pago con 100% adicional",
+        "Excedentes": "Pago con 200% adicional",
+        "Requisito": "Autorización expresa de la empresa"
+      }
+    },
+    "Pagos": {
+      "Frecuencia": "Semanal",
+      "Metodo Pago": "Efectivo o depósito electrónico",
+      "Restricciones Descuentos": "No se permiten descuentos por multas",
+      "Cuota Sindical": "Descuento si lo acuerda el sindicato",
+      "Trabajo Destajo": "Tarifas fijadas por acuerdo entre empresa y sindicato",
+      "Salario Minimo Garantizado": "Ningún trabajador gana menos del salario mínimo del Estado de México",
+      "Tabulador Salarios Diario": {
+        "Aprendiz Chofer B": 382.97,
+        "Operario Pastas C": 322.06,
+        "Ayudante Reparto A": 316.06,
+        "Operario 3a A": 309.31,
+        "Aprendiz Mantenimiento": 302.72,
+        "Operario 3a D": 295.0,
+        "Operario 3a G": 289.87,
+        "Ayudante Reparto D": 277.4,
+        "Aprendiz Operario C": 273.19,
+        "Ayudante General": 248.93
+      },
+      "Incremento": "8% aplicado al tabulador excepto Ayudante General"
+    },
+    "Beneficios": {
+      "Vacaciones": {
+        "1": 12,
+        "2": 14,
+        "3": 16,
+        "4": 18,
+        "5": 20,
+        "6-10": 22,
+        "11-15": 24,
+        "16-20": 26,
+        "21-25": 28,
+        "26-30": 30,
+        "31-35": 32
+      },
+      "Prima Vacacional": "25%",
+      "Aguinaldo": "30 días de salario pagados antes del 20 de diciembre",
+      "Vales Despensa": {
+        "Monto Diario": 37.98,
+        "Entrega": "Semanal incluyendo vacaciones"
+      },
+      "Fondo Ahorro": {
+        "Trabajador": "6%",
+        "Empresa": "6%"
+      },
+      "Uniformes": {
+        "Entrega": ["Enero", "Julio"],
+        "Contenido": "2 uniformes completos, zapatos y 3 cofias"
+      },
+      "Seguro Funerario": "20000 pesos por fallecimiento del trabajador",
+      "Fomento Deporte Cultura": "Pago semestral equivalente a 8 salarios mínimos (febrero 28 y agosto 28)"
+    },
+    "Permisos": {
+      "Defuncion Familiar": {
+        "Dias": 2,
+        "Aplica": ["Padres", "Conyuge", "Hijos"]
+      },
+      "Asambleas": "Permiso para reuniones sindicales informativas previo acuerdo con la empresa"
+    },
+    "Descansos": {
+      "Descanso Semanal": "1 día pagado a la semana",
+      "Festivos": [
+        "1 enero",
+        "Primer lunes de febrero",
+        "Tercer lunes de marzo",
+        "Jueves Santo",
+        "Viernes Santo",
+        "Sabado Santo",
+        "1 mayo",
+        "10 mayo",
+        "15 septiembre",
+        "16 septiembre",
+        "1 noviembre",
+        "2 noviembre",
+        "Tercer lunes de noviembre",
+        "Transmision poder ejecutivo",
+        "24 diciembre",
+        "25 diciembre",
+        "31 diciembre"
+      ],
+      "Pago Festivo Trabajado": "2 días adicionales al salario semanal",
+      "Prohibicion Trabajo": "1 de mayo",
+      "Coincidencia Descanso": "Si coincide con festivo se paga un día adicional"
+    },
+    "Seguridad Salud": {
+      "Cumplimiento": "Ley del Seguro Social y Reglamento Federal de Seguridad y Salud en el Trabajo",
+      "Subsidio Incapacidad": {
+        "Enfermedad General": {
+          "Dias 1-3": "Empresa paga 100%",
+          "Dias 4-30": "Empresa paga diferencia para completar salario junto con IMSS"
+        },
+        "Excepciones": [
+          "Accidentes de trabajo",
+          "Enfermedades profesionales",
+          "Maternidad"
+        ]
+      }
+    },
+    "Capacitacion": {
+      "Programas": "Dentro de la jornada laboral salvo acuerdo distinto",
+      "Capacitacion Nuevo Ingreso": "4 a 6 semanas teórica y práctica",
+      "Capacitacion Voluntaria": "Fuera de jornada si es iniciativa del trabajador",
+      "Obligatoriedad": "Se considera cumplida si el curso es ofrecido por la empresa"
+    },
+    "Ascensos": {
+      "Sistema": "Escalafón por departamento",
+      "Criterios": [
+        "Capacitación",
+        "Antigüedad",
+        "Actitud",
+        "Productividad"
+      ],
+      "Requisito": "Existencia de vacante y aprobación de examen"
+    },
+    "Trabajadores Temporales": {
+      "Contratacion": [
+        "Obra determinada",
+        "Tiempo determinado"
+      ],
+      "Terminacion": "Finalizan al cumplir objetivo o plazo",
+      "Servicios Externos": "Permitidos si no corresponden al giro principal"
+    },
+    "Personal Confianza": {
+      "Definicion": "Puestos de dirección, inspección, vigilancia o trabajos personales para directivos",
+      "Exclusiones": [
+        "Vigilantes",
+        "Supervisores",
+        "Personal administrativo y de oficina"
+      ]
+    },
+    "Comisiones Mixtas": {
+      "Tipos": [
+        "Capacitacion y Productividad",
+        "Seguridad e Higiene"
+      ],
+      "Integracion": "Mismo número de representantes de empresa y sindicato",
+      "Facilidades": "Tiempo y facilidades para realizar sus funciones"
+    },
+    "Utilidades": {
+      "PTU": "Participación conforme al porcentaje fijado por la Comisión Nacional correspondiente"
+    },
+    "Obligaciones": {
+      "Trabajador": "Aplicar esfuerzo y rendimiento normal según su categoría",
+      "Empresa": "Proporcionar herramientas y materiales necesarios",
+      "No Discriminacion": "Protocolo para prevenir discriminación, violencia laboral y acoso sexual"
+    },
+    "Vigencia": {
+      "Inicio": "1 de julio de 2024",
+      "Estatus": "Deja sin efecto contratos o convenios anteriores"
+    }
+  }
+}

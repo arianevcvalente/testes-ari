@@ -1,0 +1,117 @@
+{
+    "name": "RICH",
+    "content": {
+        "Datos Base": {
+            "Empresa": "Productos Rich, S.A. de C.V.",
+            "Actividad": "Administración, venta y distribución de productos elaborados con harinas",
+            "Sindicato": "Sindicato Nacional Alimenticio y del Comercio, Similares y Conexos de la República Mexicana (SNAC)",
+            "Centros de Trabajo": [
+                "Sede principal en Ocoyoacac (Edo. de México)",
+                "Sucursales en Naucalpan, Cuajimalpa (CDMX), Monterrey (Nuevo León) y San Miguel de Allende (Guanajuato)",
+                "Unidades móviles"
+            ],
+            "Trabajadores Cubiertos": 826,
+            "Vigencia": "A partir del 1o de enero de 2026",
+            "Duración y Revisión": "Por tiempo indefinido. Las cláusulas pueden modificarse a petición de las partes según la Ley Federal del Trabajo. La revisión actual no termina el contrato."
+        },
+        "Roles y Sindicato": {
+            "Representación": "El Sindicato representa el total interés profesional de los miembros activos.",
+            "Ingreso de Personal": "La empresa contrata según su proceso establecido y el Sindicato acepta a los nuevos trabajadores como agremiados.",
+            "Asambleas": "La empresa permitirá celebrar asambleas en sus instalaciones para dar información, tratar asuntos generales o nombrar delegados, previo acuerdo mutuo."
+        },
+        "Horarios": {
+            "Jornada y Horarios": "Se ajustan de común acuerdo según las necesidades operativas de la empresa y la ley.",
+            "Descansos y Comidas": "Los trabajadores disponen de media hora de descanso para alimentos por jornada continua, la cual se computa como tiempo laborado.",
+            "Multifuncionalidad": "La empresa puede completar la producción de un trabajador con tareas de diferente elaboración dentro del área de producción sin afectar su salario (Cláusula Trigésima)."
+        },
+        "Pagos": {
+            "Mínimo Garantizado": "Ningún salario será inferior al mínimo general del área geográfica correspondiente.",
+            "Frecuencia de Pago": "Semanal para la mayoría; quincenal o decenal para ciertos empleados.",
+            "Descuentos y Cuotas": "No se permiten descuentos por multas. Se descontarán cuotas sindicales si el Sindicato lo acuerda, sin costo para este."
+        },
+        "Beneficios": {
+            "Vacaciones": {
+                "1 año": "12 días",
+                "5 años": "20 días",
+                "31 a 35 años": "32 días"
+            },
+            "Prima Vacacional": "40% sobre la cantidad recibida por vacaciones",
+            "Aguinaldo": {
+                "Pago": "Antes del 20 de diciembre",
+                "Días según antigüedad": {
+                    "1 a 4 años": "21 días",
+                    "5 a 9 años": "23 días",
+                    "10 años en adelante": "31 días"
+                }
+            },
+            "Premios y Bonos": {
+                "Puntualidad": "11% del salario tabulado si se cumple con los horarios de entrada y regreso de descanso durante 7 días. Se pierde por cualquier inasistencia.",
+                "Productividad": "Incentivo variable del 10.5% basado en objetivos individuales y de equipo."
+            },
+            "Seguro de Vida": {
+                "Personal de planta": "Por un monto de 24 meses de salario tabulado.",
+                "Eventuales": "$1,000 (muerte natural) o $2,000 (accidente de trabajo)."
+            },
+            "Gastos Funerales": {
+                "Apoyo": "Hasta 10 salarios mínimos mensuales, más un mes de sueldo (o el doble si fue accidente de trabajo)."
+            },
+            "Fondo de Ahorro": {
+                "Aportación mutua": "(Empresa 5% y Trabajador 5%) del salario semanal. Se entrega en julio."
+            },
+            "Vales de Despensa": "14.5% sobre el salario semanal tabulado.",
+            "Otros": "Descuento del 20% en compra de productos de la empresa para consumo personal."
+        },
+        "Permisos": {
+            "Paternidad y Adopción": "5 días laborables con goce de sueldo por nacimiento o adopción.",
+            "Defunción de Familiares": "2 días con goce de sueldo si es dentro de un radio de 50km, o 3 días si es fuera.",
+            "Matrimonio": "3 días de permiso con goce de sueldo para personal de planta. Requiere acta respectiva."
+        },
+        "Descansos": {
+            "Semanal": "Un día a la semana con salario íntegro.",
+            "Festivos Obligatorios": "Incluye 1 de enero, Jueves, Viernes y Sábado Santo, 1 y 10 de mayo, entre otros.",
+            "Pago en Festivos": "Si se trabaja en día de descanso, se paga el doble del salario. Si coincide festivo con descanso, se da un día más de descanso o se paga el día adicional.",
+            "Regla Especial": "El 1o de mayo no se trabaja bajo ningún concepto."
+        },
+        "Seguridad": {
+            "Compromiso": "Cumplimiento de la Ley del Seguro Social y reglamentos de seguridad.",
+            "Comisión de Higiene": "Se debe integrar en un plazo máximo de 30 días.",
+            "Uniformes": "Proporcionados al inicio de cada turno. La empresa regala un par de zapatos al año y una chamarra en julio."
+        },
+        "Capacitación": {
+            "Programas": "Planes obligatorios conforme a la ley. Se considera cumplida la obligación aunque el trabajador no apruebe el curso.",
+            "Personal Operativo": "Impartida por instructores en horarios que la empresa determine, percibiendo su salario normal.",
+            "Becas": "10 becas anuales de $2,500 para trabajadores de planta que cursen estudios relacionados con la operación.",
+            "Deportes": "Apoyo anual de hasta $25,000 para uniformes, canchas y arbitrajes."
+        },
+        "Ascensos": {
+            "Escalafón": "Basado en capacitación, antigüedad, aptitud y productividad. Se implementa por acuerdo entre las partes.",
+            "Proceso": "Ante vacantes, los trabajadores pueden ascender a la categoría superior tras aprobar un examen de aptitudes."
+        },
+        "Temporales": {
+            "Obra Determinada": "Contratación para trabajos exclusivos como albañilería, carpintería o mecánica.",
+            "Eventuales": "Tienen protecciones económicas específicas en caso de fallecimiento, aunque menores a las del personal de planta."
+        },
+        "Confianza": {
+            "Exclusión": "El personal de confianza (dirección, inspección, vigilancia) no está cubierto por este contrato colectivo."
+        },
+        "Comisiones": {
+            "Integración": "Comisiones mixtas permanentes y temporales con igual número de representantes de ambas partes.",
+            "Facilidades": "La empresa dará facilidades para su funcionamiento dentro o fuera del horario laboral."
+        },
+        "Utilidades (PTU)": {
+            "Participación": "Conforme al porcentaje legal determinado por la Comisión Nacional respectiva."
+        },
+        "Áreas": {
+            "Planta": "Se rige por el Reglamento Interior de Trabajo.",
+            "Herramientas": "La empresa debe proporcionar los materiales necesarios; no habrá merma salarial por causas no imputables al trabajador."
+        },
+        "Obligaciones": {
+            "Calidad": "El trabajo debe realizarse con el rendimiento normal acostumbrado sin perjudicar la salud.",
+            "Supletoriedad": "Lo no previsto se rige por el Artículo 123 Constitucional y la Ley Federal del Trabajo."
+        },
+        "Vigencia": {
+            "Inicio": "1o de enero de 2026.",
+            "Registro": "El contrato se firma en cuatro tantos para su depósito legal ante el Centro Federal de Conciliación y Registro Laboral."
+        }
+    }
+}

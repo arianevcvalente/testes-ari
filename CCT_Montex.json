@@ -1,0 +1,108 @@
+{
+  "name": "MONTEX",
+  "content": {
+    "Datos Base": {
+      "Empresa": "Agrocultivos Monte X, S. de P.R. de R.L.",
+      "Domicilio del Centro de Trabajo": "Carretera Tecate Ensenada km 103, colonia El Sauzal, Ensenada, Baja California, C.P. 22760.",
+      "Sindicato": "Sindicato Nacional Alimenticio y del Comercio, Similares y Conexos de la República Mexicana (SNAC).",
+      "Trabajadores Cubiertos": "Aproximadamente 80 trabajadores.",
+      "Duración": "Tiempo indefinido. (Cláusula Quinta)",
+      "Supletoriedad": "Lo no previsto en este contrato se regirá por el artículo 123 Constitucional, la Ley Federal del Trabajo y demás disposiciones legales. (Cláusula Trigésima Novena)"
+    },
+    "Roles y Sindicato": {
+      "Reconocimiento": "La empresa reconoce al sindicato y sus estatutos.",
+      "Libertad Sindical": "La empresa descontará las cuotas sindicales ordinarias a los trabajadores; este servicio será gratuito. (Cláusula Décima)"
+    },
+    "Horarios y Jornada": {
+      "Horas Extra": "Las primeras 9 horas a la semana se pagan al 100% más (doble). Las horas que excedan de 9 se pagan al 200% más (triple). Debe existir autorización expresa y por escrito de un representante facultado por la empresa. Sin este requisito no se reconocerá ni pagará el tiempo extra. Las mujeres embarazadas no podrán trabajar tiempo extra. (Cláusula Trigésima Cuarta, Cláusula Décima Primera)",
+      "Multifuncionalidad": "Para promover la productividad, la empresa puede mover a los trabajadores de un departamento a otro para cubrir ausencias temporales o necesidades operativas, previa capacitación y sin bajar el salario. Si el puesto a cubrir paga más, el trabajador recibirá el salario mayor durante ese tiempo. (Cláusula Vigésima Cuarta)"
+    },
+    "Pagos": {
+      "Salario Mínimo": "Ningún trabajador ganará menos del salario mínimo general o profesional de la zona. (Cláusula Décima)",
+      "Forma de Pago": "En efectivo, moneda legal, pagadero en el centro de trabajo o por medios electrónicos. (Cláusula Décima)",
+      "Protección al Salario": "Los salarios no sufrirán merma por causas no imputables al trabajador. La empresa debe dar los materiales necesarios para trabajar. (Cláusula Octava)",
+      "Incremento Salarial": "Se obtuvo un incremento del 8% directo al salario (vigente a partir del 16 de junio de 2023).",
+      "Tabulador de Salarios": {
+        "Área de Campo": {
+          "Jornalero": "$ 340.20",
+          "Regador": "$ 349.92",
+          "Tractorista": "$ 367.81",
+          "Supervisor": "$ 414.21",
+          "Mayordomo": "$ 540.00"
+        },
+        "Área de Producción": {
+          "Operador A": "$ 315.00",
+          "Operador B": "$ 340.20",
+          "Supervisor": "$ 368.55",
+          "Jefatura": "$ 466.66"
+        },
+        "Área de Etiquetado": {
+          "Operador A": "$ 315.00",
+          "Operador B": "$ 340.20",
+          "Montacarguista": "$ 400.00"
+        },
+        "Área de Seguridad": {
+          "Seguridad": "$ 333.90",
+          "Velador": "$ 345.60",
+          "Jefatura": "$ 403.88"
+        }
+      }
+    },
+    "Beneficios": {
+      "Aguinaldo": "15 días de salario, pagadero antes del 20 de diciembre. (Cláusula Trigésima Tercera)",
+      "Vacaciones y Prima": "Período anual conforme a la Ley Federal del Trabajo, con una Prima Vacacional no menor al 25%. (Cláusula Trigésima Primera)",
+      "Vales de Despensa": {
+        "Trabajadores de planta o tiempo indeterminado": "$ 610.00 mensuales",
+        "Trabajadores eventuales": "$ 250.00 mensuales",
+        "Pago": "Se pagan mensualmente en forma vencida. (Cláusula Trigésima Tercera Bis)"
+      },
+      "Bono de Permanencia": "Pago único a trabajadores de nuevo ingreso al cumplir un mes de antigüedad. (Cláusula Trigésima Primera Bis)",
+      "Bono de Referido": "Pago único por cada trabajador nuevo recomendado, pagadero cuando el recomendado cumpla un mes de antigüedad. (Cláusula Trigésima Primera Ter)",
+      "Bono Académico": "$ 2,500.00 anuales para trabajadores que cursen estudios de licenciatura (conforme al Art. 132 LFT). (Cláusula Trigésima Tercera Ter)",
+      "Ayuda por Defunción": "$ 2,500.00 en caso de fallecimiento de padres, cónyuge, concubina/o, hijos o hermanos. Se requiere presentar acta de defunción. (Cláusula Trigésima Sexta)",
+      "Uniformes": "La empresa entregará los uniformes necesarios, zapatos de protección, botas de trabajo y dos playeras por trabajador. El trabajador debe usarlos obligatoriamente dentro de las instalaciones. (Cláusula Trigésima Quinta)",
+      "Utilidades": "Los trabajadores participarán en las utilidades conforme a la Ley Federal del Trabajo. (Cláusula Vigésima Sexta)"
+    },
+    "Permisos": {
+      "Paternidad": "5 días laborales con goce de salario diario tabulado por nacimiento de hijos o adopción de un infante. Se requiere presentar documentos que lo acrediten. (Cláusula Trigésima Séptima)",
+      "Adopción (Madres)": "6 semanas de descanso con goce de salario, contados a partir de que reciben al infante. (Cláusula Trigésima Octava)"
+    },
+    "Descansos": {
+      "Descanso Semanal": "Un día de descanso por semana con pago de salario íntegro. Si no se trabaja la semana completa, se paga proporcional. (Cláusula Trigésima Segunda)",
+      "Días Festivos Obligatorios": "1 de enero, Primer lunes de febrero, Tercer lunes de marzo, 1 de mayo, 16 de septiembre, Tercer lunes de noviembre, 1 de diciembre (cada 6 años por cambio de gobierno), 25 de diciembre, y días electorales según la ley. (Cláusula Trigésima Segunda)",
+      "Pago en Días de Descanso": "Si se requiere trabajar en día de descanso semanal o festivo obligatorio, se pagará el salario normal más un pago doble adicional (es decir, pago triple), aunque no se trabaje la jornada completa. (Cláusula Trigésima Segunda)"
+    },
+    "Seguridad y Salud": {
+      "Comisión Mixta": "Empresa y Sindicato formarán la Comisión Mixta de Higiene y Seguridad en un plazo no mayor a 30 días para vigilar el cumplimiento de normas. (Cláusula Vigésima Novena)",
+      "Funcionamiento": "La empresa dará facilidades para su operación conforme a la Ley. Los representantes deben asistir a cursos y exámenes. (Cláusula Trigésima)"
+    },
+    "Capacitación": {
+      "Comisiones Mixtas": "Se integrarán las comisiones que marca la ley (como la de Capacitación) con igual número de representantes de la empresa y trabajadores. (Cláusula Vigésima Octava)",
+      "Obligación": "Los trabajadores nombrados en comisiones deben asistir a cursos y cumplir con los programas. (Cláusula Trigésima)"
+    },
+    "Ascensos": {
+      "Derecho de Escalafón": "La empresa concede el derecho de ascenso tomando en cuenta capacitación, antigüedad, aptitud y productividad. Se implementa de común acuerdo con el Sindicato. (Cláusula Décima Tercera)",
+      "Puestos Vacantes": "Cuando haya vacantes o puestos nuevos, la empresa contratará según su proceso de selección. El Sindicato puede proponer candidatos ('aceptará entre sus agremiados') conforme a la ley. (Cláusula Sexta)"
+    },
+    "Disciplina": {
+      "Reglamento": "El trabajo se rige por lo estipulado en el Reglamento Interior de Trabajo. (Cláusula Décima Cuarta)",
+      "Desempeño": "Los trabajadores deben desempeñar sus labores con la intensidad, cuidado, esmero y productividad apropiados. (Cláusula Novena)"
+    },
+    "Temporales y Trabajos Especiales": {
+      "Trabajos Especiales": "La empresa puede contratar libremente servicios externos para obras especializadas (construcción, reparaciones) que no sean parte del objeto social de la empresa. (Cláusula Décima Segunda)"
+    },
+    "Confianza": {
+      "Definición": "Directivos, supervisores, personal de oficina, administrativos y vigilancia.",
+      "Estatus": "Quedan excluidos de la aplicación de este contrato. (Cláusula Séptima)"
+    },
+    "Comisiones Sindicales": {
+      "Asambleas": "La empresa facilitará permisos para celebrar asambleas en las instalaciones para informar o elegir delegados.",
+      "Nombramientos": "El Sindicato otorgará nombramientos a los delegados elegidos según su capacidad y comportamiento. (Cláusula Vigésima Séptima)"
+    },
+    "Vigencia": {
+      "Vigencia": "Indefinida a partir de su firma.",
+      "Cláusula Derogada": "La Cláusula Vigésima Quinta se marca explícitamente como 'Se deroga'.",
+      "Contratos Anteriores": "Este contrato anula y sustituye cualquier convenio anterior. (Cláusula Cuadragésima)"
+    }
+  }
+}

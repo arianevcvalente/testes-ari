@@ -1,0 +1,123 @@
+{
+  "name": "BARRY",
+  "content": {
+    "Datos Base": {
+      "Empresa": "Barry Callebaut México, S. de R.L. de C.V.",
+      "Centro de Trabajo": "Carretera Toluca Ixtlahuaca km 1.5, N.° 114-20, Parque Industrial San Cayetano, Toluca, Estado de México, C.P. 50295. También aplica en cualquier otro lugar que la empresa designe.",
+      "Giro": "Elaboración de chocolate y derivados a partir del cacao.",
+      "Sindicato": "Sindicato Nacional Alimenticio y del Comercio (SNAC).",
+      "Vigencia": "A partir del 1 de enero de 2026.",
+      "Duración": "Tiempo indefinido.",
+      "Reglas de Revisión": {
+        "Integral (Cláusulas)": "Cada dos años (preferentemente en enero).",
+        "Salarial (Tabulador)": "Cada año."
+      }
+    },
+    "Roles y Sindicato": {
+      "Titularidad": "El Sindicato es el único representante del interés profesional de los trabajadores y titular del contrato.",
+      "Trabajador de Planta": "Aquel con contrato individual por tiempo indeterminado.",
+      "Ingreso": "La empresa puede rescindir el contrato sin responsabilidad en los primeros 30 días si el trabajador engañó con documentos falsos o falta de capacidad.",
+      "Exclusividad": "Trabajos de mantenimiento mayor (construcción, ingeniería, plomería, etc.) pueden ser contratados con externos libremente."
+    },
+    "Horarios": {
+      "Jornada Semanal": {
+        "Diurna": "48 horas",
+        "Mixta": "45 horas",
+        "Nocturna": "42 horas"
+      },
+      "Comidas": "El tiempo de reposo y comida no cuenta como tiempo efectivo de trabajo, ya que el trabajador sale del lugar de labores.",
+      "Turnos Rotativos": "Prohibido abandonar el puesto hasta ser relevado. Si el relevo no llega, se debe avisar al jefe. Abandonar sin aviso es causa de despido.",
+      "Asistencia": "Es obligatorio marcar o firmar los registros de asistencia; no hacerlo se considera falta injustificada.",
+      "Horas Extras": "Solo se pagan si hay solicitud previa por escrito de la empresa."
+    },
+    "Pagos": {
+      "Tabulador": "Los salarios se pagan conforme al anexo (montos específicos no visibles en el extracto, referenciados como 'Anexo 1').",
+      "Frecuencia de Pago": "Semanal (semana de lunes a domingo), pagadero a más tardar el jueves vía transferencia electrónica.",
+      "Descuentos": "La empresa descontará las cuotas sindicales ordinarias."
+    },
+    "Beneficios": {
+      "Aguinaldo": "23 días de salario (pago antes del 20 de diciembre).",
+      "Vales de Despensa": "13% del salario diario (con tope legal de ISR) mensual.",
+      "Fondo de Ahorro": {
+        "Trabajador": "11%",
+        "Empresa": "11%",
+        "Entrega": "Se entrega en febrero y agosto."
+      },
+      "Ayuda de Alimentos": "$340.00 mensuales.",
+      "Bono de Cumpleaños": "$500.00 en vales de despensa.",
+      "Ayuda Escolar": "$1,350.00 anuales si el trabajador o un familiar directo (hijos, cónyuge, padres) estudia.",
+      "Seguro de Vida": "$100,000.00 por fallecimiento o incapacidad.",
+      "Ayuda Defunción": "La empresa paga al sindicato $12.00 semanales por trabajador para una póliza de servicios funerarios para familiares directos.",
+      "Plan de Jubilación": "Al retiro (65 años edad + 10 antigüedad): 3 meses de sueldo + 20 días por año. Ver tabla de retiro anticipado en Cláusula 39."
+    },
+    "Permisos": {
+      "Paternidad/Adopción": "5 días de Ley + 5 días adicionales pagados por la empresa = 10 días laborables con goce de sueldo.",
+      "Defunción": "6 días laborables con goce de sueldo por muerte de familiar directo (padres, hijos, cónyuge, hermanos).",
+      "Sin goce de sueldo": "Deben solicitarse con anticipación y la empresa decide si los concede."
+    },
+    "Descansos": {
+      "Descanso Semanal": "Un día por cada 6 trabajados (preferentemente domingo).",
+      "Prima Dominical": "25% adicional.",
+      "Días Festivos de Ley": "Se pagan conforme a la LFT. Si se trabajan, se paga el día normal + 200% adicional (triple pago).",
+      "Días Festivos Adicionales": "Viernes y Sábado Santo, 2 de noviembre, 24 y 31 de diciembre."
+    },
+    "Seguridad": {
+      "Comisión Mixta": "Se establece con igual número de representantes de empresa y trabajadores.",
+      "Obligaciones": "Realizar inspecciones mensuales para prevenir incendios y riesgos."
+    },
+    "Capacitación": {
+      "Obligación": "Empresa y Sindicato formarán una Comisión Mixta. Los trabajadores están obligados a cumplir las órdenes de capacitación y asistir a cursos."
+    },
+    "Ascensos": {
+      "Procedimiento": "No se detallan procedimientos de escalafón específicos en los extractos provistos."
+    },
+    "Disciplina": {
+      "Sanciones": "Las faltas al Reglamento Interior o la Ley serán sancionadas por la Empresa.",
+      "Faltas Graves": "Abandonar el puesto en turnos rotativos sin avisar al jefe se considera causal de rescisión."
+    },
+    "Temporales": {
+      "Contratación": "Se permite contratar eventuales o por tiempo/obra determinada.",
+      "Condiciones": "Firman contrato individual. Al terminar la obra/tiempo, termina la relación sin responsabilidad para la empresa. No generan antigüedad de planta."
+    },
+    "Confianza": {
+      "Definición": "Dirección, inspección, vigilancia, fiscalización.",
+      "Puestos": "Gerentes, supervisores, jefes de línea, vigilantes, contadores, secretarias, médicos, personal de laboratorio, almacén y mantenimiento.",
+      "Estatus": "El contrato no aplica a ellos. Si un sindicalizado asciende a confianza, deja de pertenecer al sindicato."
+    },
+    "Comisiones": {
+      "Tipos": "Seguridad e Higiene, Capacitación y Adiestramiento.",
+      "Integración": "Paritaria (igual número de representantes empresa-sindicato)."
+    },
+    "Utilidades": {
+      "PTU": "Cláusula no visible en los extractos provistos."
+    },
+    "Áreas y Movilidad": {
+      "Reubicación": "La empresa puede reubicar libremente a los trabajadores de un departamento o puesto a otro según necesidades, sin perjuicio de su salario.",
+      "Cambios Técnicos": "La empresa puede cambiar formas de operación, maquinaria o sistemas de producción en cualquier momento."
+    },
+    "Obligaciones": {
+      "Eficiencia": "Los trabajos deben ejecutarse con la intensidad y calidad requerida.",
+      "Casos no previstos": "Se resolverán por convenio entre las partes basado en uso, costumbre y la Ley."
+    },
+    "Vigencia": {
+      "Inicio de Efectos": "1 de enero de 2026.",
+      "Fecha de Firma": "25 de noviembre de 2025."
+    },
+    "Vacaciones y Prima": {
+      "Prima Vacacional": "80% sobre el salario de vacaciones.",
+      "Tabla": {
+        "1 año": "12 días",
+        "2 años": "14 días",
+        "3 años": "16 días",
+        "4 años": "18 días",
+        "5 años": "20 días",
+        "6 a 10 años": "22 días",
+        "11 a 15 años": "24 días",
+        "16 a 20 años": "26 días",
+        "21 a 25 años": "28 días",
+        "26 a 30 años": "30 días",
+        "31 a 35 años": "32 días"
+      }
+    }
+  }
+}

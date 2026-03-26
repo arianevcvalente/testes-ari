@@ -1,0 +1,145 @@
+{
+    "name": "BARCEL TOLUCA",
+    "content": {
+        "Datos Base": {
+            "Empresa": "Barcel, S.A. de C.V. (Planta Toluca).",
+            "Centros de Trabajo": "Domicilio principal: Calle Sin Nombre Nº 107, Col. La Bomba, Lerma, México, C.P. 52004. Alcance: Aplica en todas las dependencias, departamentos, agencias y centros de ventas dependientes de esta planta, incluyendo unidades móviles de venta.",
+            "Sindicato": "Sindicato Nacional Alimenticio y del Comercio (SNAC).",
+            "Vigencia": "A partir del 16 de octubre de 2023.",
+            "Duración": "Indefinida (mientras la empresa exista).",
+            "Reglas de Revisión": {
+                "Integral (todo el contrato)": "Cada dos años.",
+                "Salarial (tabulador)": "Cada año."
+            }
+        },
+        "Roles y Sindicato": {
+            "Trabajador": "Persona física que presta servicios personales subordinados.",
+            "Trabajador de Planta": "Quien ha llenado requisitos y tiene trabajo permanente.",
+            "Representación": "La empresa reconoce al SNAC como el único representante del interés profesional de los trabajadores y tratará con él los conflictos colectivos.",
+            "Nuevos Ingresos": "La empresa selecciona y contrata a los nuevos trabajadores, pero el Sindicato los acepta como agremiados (Cláusula de admisión)."
+        },
+        "Horarios": {
+            "Jornada Semanal": "6 días de trabajo por 1 día de descanso.",
+            "Turnos (Cláusula 16)": {
+                "Diurno": "8 horas (entre 6:00 y 20:00).",
+                "Nocturno": "7 horas (entre 20:00 y 6:00).",
+                "Mixto": "7.5 horas (menos de 3.5 horas nocturnas)."
+            },
+            "Horas Extras": {
+                "Primeras 9 horas a la semana": "Se pagan al 100% (doble).",
+                "Excedentes de 9 horas": "Se pagan al 200% (triple).",
+                "Requisito": "Deben ser autorizadas por escrito por un representante facultado de la empresa."
+            }
+        },
+        "Pagos": {
+            "Garantía Mínima": "Nadie ganará menos del salario mínimo general de la zona.",
+            "Forma de Pago": "Semanal, en efectivo o vía electrónica, en el lugar de trabajo.",
+            "Cuota Sindical": "La empresa descuenta las cuotas ordinarias y las entrega al sindicato gratuitamente.",
+            "Comisión a Vendedores (Cláusula 14)": "Los vendedores comisionistas reciben un porcentaje sobre ventas netas que ya incluye el pago de séptimos días y festivos: Vendedor de Conveniencia 5.0%, Vendedor Detalle Duplex 5.0%, Vendedor Detalle Junior 5.0%."
+        },
+        "Beneficios": {
+            "Vales de Despensa (Cláusula 35)": "$2,100.00 pesos mensuales. Se otorgan si no hay faltas injustificadas. El trabajador aporta el 0.5% del valor.",
+            "Aguinaldo (Cláusula 32)": {
+                "Pago": "Antes del 20 de diciembre.",
+                "Días según antigüedad": {
+                    "1 a 5 años": "19 días.",
+                    "6 a 10 años": "20 días.",
+                    "11 a 20 años": "21 días.",
+                    "21 años en adelante": "22 días."
+                }
+            },
+            "Fondo de Ahorro (Anual)": "El trabajador ahorra 4.5% semanal y la empresa aporta otro 4.5%. Se entrega una vez al año.",
+            "Fondo de Ahorro (Largo Plazo)": "Para el retiro. Trabajador 4.0% y Empresa 4.0% semanalmente,.",
+            "Premio de Puntualidad y Productividad": "Bono anual del 25% sobre la cantidad que reciba el trabajador por Reparto de Utilidades (PTU). Requiere récord de puntualidad.",
+            "Premio Nocturno": "Pago de 1.5 horas de salario diario adicionales por turno nocturno trabajado.",
+            "Ayuda Defunción": {
+                "Cónyuge/Concubina": "$2,102.95.",
+                "Hijos": "$1,460.73."
+            },
+            "Seguro de Vida": {
+                "Muerte natural": "$520,000.00.",
+                "Muerte accidental": "$1,040,000.00.",
+                "Invalidez total permanente": "$520,000.00."
+            },
+            "Becas": "13 becas de $1,023.50 mensuales para trabajadores o hijos.",
+            "Ayuda Deportiva": "$2,279.30 mensuales para fomento al deporte.",
+            "Viáticos Transportistas": "$216.17 diarios para rutas de 2 días o más.",
+            "Vacaciones y Prima vacacional": {
+                "1 año": "12 días de vacaciones y 4 días de prima.",
+                "2 años": "14 días de vacaciones y 5 días de prima.",
+                "3 años": "16 días de vacaciones y 6 días de prima.",
+                "4 años": "18 días de vacaciones y 6.5 días de prima.",
+                "5 años": "20 días de vacaciones y 7.5 días de prima.",
+                "6 a 8 años": "22 días de vacaciones y 7.5 días de prima.",
+                "9 a 10 años": "22 días de vacaciones y 9 días de prima.",
+                "11 años": "24 días de vacaciones y 9 días de prima.",
+                "12 años": "24 días de vacaciones y 10 días de prima.",
+                "13 a 17 años": "24 a 26 días de vacaciones y 10 días de prima.",
+                "18 a 22 años": "26 a 28 días de vacaciones y 11.5 días de prima.",
+                "23 a 27 años": "28 a 30 días de vacaciones y 12.5 días de prima.",
+                "28 a 32 años": "30 a 32 días de vacaciones y 13.5 días de prima.",
+                "33 a 35 años": "32 días de vacaciones y entre 13.5 y 15 días de prima."
+            }
+        },
+        "Permisos": {
+            "Matrimonio": "Prima de 9 días de salario + 1 semana de permiso con goce de sueldo (incluye 7º día).",
+            "Nacimiento de Hijo": "Prima de $862.50 (para trabajadoras o esposas de trabajadores).",
+            "Paternidad": "5 días laborales con goce de sueldo.",
+            "Adopción (Madres)": "6 semanas de descanso con goce de sueldo.",
+            "Defunción": {
+                "Local": "1 día con goce de sueldo.",
+                "Fuera de la localidad": "2 días con goce de sueldo."
+            }
+        },
+        "Descansos": {
+            "Descanso Semanal": "Un día de paga con goce de sueldo por cada 6 trabajados.",
+            "Días Festivos Obligatorios": "1 enero, primer lunes febrero, tercer lunes marzo, 1 mayo, 16 septiembre, tercer lunes noviembre, 25 diciembre, cambio de gobierno federal. Adicional: Sábado de Gloria. 12 de Diciembre: Se trabaja normal, pero se paga un día adicional de salario diario. Si se falta, se pierde el pago.",
+            "Pago en Descanso/Festivo": "Si se trabaja, se paga salario doble adicional al normal (triple en total).",
+            "Prima Dominical": "45% adicional sobre el salario diario."
+        },
+        "Seguridad": {
+            "Obligaciones": "Cumplimiento estricto de la Ley del Seguro Social y reglamentos de seguridad.",
+            "Comisión Mixta": "Se integra la Comisión Mixta de Seguridad e Higiene para operar según la ley y el reglamento federal.",
+            "Ropa de Trabajo": "La empresa dotará de ropa necesaria en mayo y noviembre. Uso obligatorio."
+        },
+        "Capacitación": {
+            "Comisión Mixta": "Se constituye para vigilar la capacitación, adiestramiento y productividad (Cláusula 21).",
+            "Nuevo Ingreso": "Recibirán capacitación inicial; mientras tanto, sus condiciones serán las mínimas de ley.",
+            "Obligación": "La empresa debe capacitar conforme a planes. Se considera cumplida si el trabajador no aprueba o no asiste."
+        },
+        "Ascensos": {
+            "Escalafón (Cláusula 18)": "Derecho de ascenso considerando capacitación, antigüedad, aptitud y productividad.",
+            "Exámenes": "Para ascender, el trabajador debe aprobar el examen con el mejor resultado. En igualdad de condiciones, decide la antigüedad."
+        },
+        "Disciplina": {
+            "Faltas": "Se menciona que las faltas a la Ley o al Reglamento Interior serán sancionadas.",
+            "Efectos de Faltas Injustificadas": "Afectan directamente el pago de aguinaldo, vacaciones y vales de despensa."
+        },
+        "Temporales": {
+            "Contratación": "Permitida por obra o tiempo determinado (art. 36 y 37 LFT). Terminación automática al concluir el objeto del contrato.",
+            "Servicios Especiales": "La empresa puede contratar externos para tareas exclusivas no relacionadas con el objeto social principal."
+        },
+        "Confianza": {
+            "Definición": "Personal de dirección, inspección, fiscalización y vigilancia. Incluye vigilantes, supervisores y administrativos. Están excluidos del contrato colectivo."
+        },
+        "Comisiones": {
+            "Integración": "Empresa y Sindicato integran Comisiones Mixtas (temporales y permanentes) según la Ley (Art. 391 LFT).",
+            "Funciones": "Los representantes deben asistir a cursos y sesiones dentro o fuera del horario laboral con facilidades de la empresa."
+        },
+        "Utilidades": {
+            "PTU": "Se menciona como base para el cálculo del 'Premio Anual por Puntualidad y Productividad' (25% sobre la PTU)."
+        },
+        "Áreas": {
+            "Vendedores": "Reglas específicas de jornada (flexible pero máximo 8 horas efectivas) y reorganización de rutas (no debe afectar ingreso promedio).",
+            "Transportistas": "Pago de vacaciones y aguinaldo basado en promedio semanal sin viáticos/tiempo extra."
+        },
+        "Obligaciones": {
+            "Subsidio Enfermedad": "Para enfermedad general (no profesional), la empresa paga el complemento para llegar al 100% del salario (hasta por 100 días en un año).",
+            "Transportistas": "Complemento al 80% del promedio de las últimas 4 semanas."
+        },
+        "Vigencia": {
+            "Inicio": "16 de octubre de 2023.",
+            "Derogación": "Este contrato anula cualquier convenio anterior."
+        }
+    }
+}

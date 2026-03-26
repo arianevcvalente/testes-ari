@@ -1,0 +1,194 @@
+{
+  "name": "SABRITAS VALLE DE BRAVO",
+  "content": {
+    "Datos Base": {
+      "Empresa": "Comercializadora Pepsico México, S. de R.L. de C.V.",
+      "Centro de Trabajo": "Carretera Valle de Bravo-Toluca Lote 5, Colonia El Arco, Valle de Bravo, Estado de México, C.P. 51217",
+      "Sindicato": "Sindicato Nacional Alimenticio y del Comercio, Similares y Conexos de la República Mexicana",
+      "Trabajadores Cubiertos": "Trabajadores en las categorías del tabulador anexo",
+      "Vigencia": "1 de abril de 2024",
+      "Duracion": "Tiempo indeterminado",
+      "Reglas Revision": "Revisión conforme a los artículos 399 y 399 Bis de la Ley Federal del Trabajo",
+      "Restriccion Inicial Prestaciones": "Prestaciones contractuales aplican a partir del día 1 del mes 13 de servicio"
+    },
+    "Roles y Sindicato": {
+      "Definicion Trabajador": "Personas que prestan servicios en las categorías del tabulador",
+      "Representacion": "Las partes reconocen su capacidad legal para obligarse",
+      "Facultad Administrativa": "La empresa puede administrar operaciones y reclasificar, crear o suprimir puestos",
+      "Servicios Externos": "La empresa puede contratar servicios con terceros para labores no cubiertas por el contrato"
+    },
+    "Horarios y Jornadas": {
+      "Normativa": "Artículos 59 al 65 de la Ley Federal del Trabajo",
+      "Establecimiento Horarios": "Definidos por la empresa según necesidades de operación",
+      "Modificaciones": "La empresa puede modificar horarios, turnos y descansos"
+    },
+    "Pagos y Salarios": {
+      "Frecuencia Pago": "Semanal",
+      "Metodo Pago": "Moneda de curso legal o medios electrónicos",
+      "Salario Fijo Semanal": {
+        "Linea Mixto": 2078.44,
+        "Linea Salado": 2078.44
+      },
+      "Comisiones": {
+        "Linea Salado": "3.40%",
+        "Linea Dulce": "6.60%"
+      },
+      "Integracion": "Las comisiones incluyen el pago de séptimo día y días festivos",
+      "Cuota Sindical": "La empresa descontará cuotas sindicales ordinarias"
+    },
+    "Beneficios y Prestaciones": {
+      "Vacaciones": "Conforme a artículos 76 al 81 de la LFT",
+      "Prima Vacacional Ejemplos": {
+        "1 año": {
+          "Vacaciones": 12,
+          "Prima Vacacional": "40%"
+        },
+        "5 años": {
+          "Vacaciones": 20,
+          "Prima Vacacional": "80%"
+        },
+        "10 a 14 años": {
+          "Vacaciones": 24,
+          "Prima Vacacional": "106%"
+        },
+        "35 a 40 años": {
+          "Vacaciones": 34,
+          "Prima Vacacional": "100%"
+        }
+      },
+      "Aguinaldo": {
+        "Menos de 1 año": "15 días",
+        "1 año": "18 días",
+        "2 años": "21 días",
+        "3 a 5 años": "26 días",
+        "6 años o mas": "32 días"
+      },
+      "Fondo Ahorro": {
+        "Empresa": "6%",
+        "Trabajador": "6%",
+        "Base": "Salario fijo más comisión",
+        "Entrega": "Enero con intereses",
+        "Retiro": "Un retiro anual permitido"
+      },
+      "Vales Despensa": {
+        "Monto": "11% del sueldo promedio",
+        "Periodicidad": "Cada 28 días"
+      },
+      "Vales Fin Año": {
+        "Monto": 1500,
+        "Entrega": "Diciembre"
+      },
+      "Beca Escolar": {
+        "Monto": 2200,
+        "Entrega": "Agosto"
+      },
+      "Seguro Vida": {
+        "Muerte Natural": 108000,
+        "Muerte Accidental": 216000
+      },
+      "Uniformes": {
+        "Pantalones": 3,
+        "Camisas": 4,
+        "Frecuencia": "Cada semestre",
+        "Zapatos": "1 par anual",
+        "Chamarra": "1 en noviembre"
+      }
+    },
+    "Permisos y Ayudas": {
+      "Matrimonio": {
+        "Apoyo": 3500,
+        "Permiso": "2 días con goce de sueldo",
+        "Condicion": "Una sola vez"
+      },
+      "Nacimiento": {
+        "Apoyo": 1500,
+        "Permiso": "5 días con goce de sueldo"
+      },
+      "Paternidad y Adopcion": {
+        "Permiso": "5 días laborables con goce de sueldo"
+      },
+      "Defuncion Familiar": {
+        "Apoyo": 4000,
+        "Permiso": "2 días con goce de sueldo",
+        "Parentesco": "Primer grado"
+      },
+      "Defuncion Trabajador": {
+        "Apoyo": 3500
+      }
+    },
+    "Descansos": {
+      "Dias Obligatorios": [
+        "1 de enero",
+        "Primer lunes de febrero",
+        "Tercer lunes de marzo",
+        "1 de mayo",
+        "16 de septiembre",
+        "Tercer lunes de noviembre",
+        "12 de diciembre",
+        "25 de diciembre",
+        "Cambio de Poder Ejecutivo",
+        "Viernes Santo",
+        "Días electorales"
+      ],
+      "Pago Festivo Trabajado": "Dos salarios promedio adicionales (pago triple)"
+    },
+    "Seguridad y Salud": {
+      "IMSS": "Inscripción obligatoria",
+      "Incapacidad Enfermedad General": {
+        "Condicion": "Mayor a 4 días",
+        "Complemento": "La empresa cubre la diferencia no pagada por el IMSS",
+        "Periodo": "Del día 4 hasta 120 días"
+      },
+      "Accidentes Vehiculares": "Trabajador responsable cubre deducible del 2% del valor comercial del vehículo"
+    },
+    "Capacitacion": {
+      "Compromiso": "Capacitación y orientación para prevenir violencia y discriminación laboral"
+    },
+    "Ascensos": {
+      "Escalafon": "Vacantes cubiertas respetando derechos de escalafón conforme al artículo 159 de la LFT"
+    },
+    "Disciplina": {
+      "Reglamento Interior": "Empresa y sindicato formularán reglamento interior",
+      "Uso Uniforme": "Obligatorio presentarse aseado y con uniforme limpio; no usar fuera de horario laboral"
+    },
+    "Trabajadores": {
+      "Temporales": "Contratación por obra o tiempo determinado",
+      "Flexibilidad": "La empresa puede variar número de trabajadores y contratar jornada completa o reducida"
+    },
+    "Trabajadores Confianza": {
+      "Exclusion": "No están sujetos al contrato colectivo",
+      "Puestos": [
+        "Directores",
+        "Gerentes",
+        "Supervisores",
+        "Almacenistas",
+        "Personal de transporte",
+        "Secretarias",
+        "Vigilancia",
+        "Administrativos con funciones de supervisión"
+      ]
+    },
+    "Comisiones": {
+      "Cuadro Antiguedades": "Se integrará comisión mixta del cuadro general de antigüedades"
+    },
+    "Utilidades": {
+      "Base": "Participación conforme a lo establecido por la Ley Federal del Trabajo"
+    },
+    "Categorias": {
+      "Lineas": [
+        "Mixto",
+        "Salado"
+      ],
+      "Aplicacion": "Salarios y beneficios aplican según la categoría del tabulador"
+    },
+    "Obligaciones": {
+      "No Discriminacion": "Compromiso para prevenir discriminación, acoso y hostigamiento",
+      "Linea Reporte": "Implementación de canal de denuncia para violencia laboral"
+    },
+    "Vigencia": {
+      "Inicio": "1 de abril de 2024",
+      "Fecha Firma": "11 de agosto de 2025",
+      "Efecto": "Sustituye y deroga cualquier convenio anterior"
+    }
+  }
+}

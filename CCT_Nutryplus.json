@@ -1,0 +1,130 @@
+{
+  "name": "NUTRYPLUS",
+  "content": {
+    "Datos Base": {
+      "Empresa": "Nutryplus, S.A.P.I. de C.V.",
+      "Centros de Trabajo": {
+        "Matriz": "Carretera al Campo Militar No. 305 Letra A, Col. San Antonio de La Punta, Querétaro, Querétaro",
+        "Sucursal": "Calle Poniente 148 No. 511, Col. Lindavista Vallejo, Gustavo A. Madero, Ciudad de México"
+      },
+      "Sindicato": "Sindicato Nacional Alimenticio y del Comercio Similares y Conexos de la República Mexicana (SNAC)",
+      "Trabajadores Cubiertos": "Todos los miembros activos del sindicato que laboran en la empresa",
+      "Vigencia Tabulador": "1 de febrero de 2025 al 31 de enero de 2026",
+      "Duración": "Tiempo indefinido",
+      "Revisión": "Modificable conforme a los artículos 399 y 399 Bis de la Ley Federal del Trabajo"
+    },
+    "Roles y Sindicato": {
+      "Representación Sindical": "El sindicato representa el total interés profesional de los trabajadores activos",
+      "Contratación": "La empresa contrata bajo su proceso interno y el sindicato puede aceptar a los trabajadores como agremiados",
+      "Asambleas": "La empresa facilitará permisos para realizar asambleas sindicales en sus instalaciones previo acuerdo"
+    },
+    "Horarios": {
+      "Jornadas": "Se ajustan de común acuerdo según necesidades de la empresa y conforme a la ley",
+      "Tiempo de Comida": "30 minutos por jornada continua considerados como tiempo laborado",
+      "Tiempo Extra": "Requiere autorización escrita del jefe inmediato para ser reconocido y pagado"
+    },
+    "Pagos": {
+      "Salario Minimo Garantizado": "Ningún salario será inferior al salario mínimo general",
+      "Frecuencia Pago": "Pago semanal en efectivo o vía bancaria; algunos empleados pueden cobrar quincenal o por decena",
+      "Descuentos": "Prohibidos los descuentos por multas impuestas por la empresa",
+      "Cuotas Sindicales": "La empresa descuenta y entrega gratuitamente cuotas sindicales ordinarias o extraordinarias"
+    },
+    "Tabulador Salarial 2025": {
+      "Operador Secador": 576.68,
+      "Operador Varios": 513.78,
+      "Operador Auxiliar": 409.31,
+      "Ayudante General": 383.36,
+      "Nuevo Ingreso Eventual": 356.38
+    },
+    "Beneficios": {
+      "Aguinaldo": "15 días de salario pagados antes del 20 de diciembre",
+      "Bono Productividad Mensual": "Entre $125 y $750 según indicadores de área",
+      "Bono Anual Desempeño": "5% del salario diario acumulado semanalmente y pagado en diciembre",
+      "Vales Despensa": "$420 mensuales",
+      "Fondo Ahorro": {
+        "Trabajador": "3% del salario",
+        "Empresa": "3% adicional"
+      },
+      "Seguro Vida": {
+        "Muerte Natural": "180 días de salario",
+        "Accidente Trabajo": "360 días de salario"
+      },
+      "Uniformes": "Una sudadera anual en agosto",
+      "Deporte y Festejos": "$10,000 anuales para deporte y día de fiesta de fin de año con goce de sueldo"
+    },
+    "Permisos": {
+      "Defuncion Familiar": "2 días con goce de sueldo para familiares de primer grado",
+      "Paternidad o Adopcion": "5 días laborables con goce de sueldo"
+    },
+    "Descansos": {
+      "Descanso Semanal": "1 día por cada semana con pago íntegro",
+      "Dias Festivos": [
+        "1 de enero",
+        "Primer lunes de febrero",
+        "Tercer lunes de marzo",
+        "1 de mayo (no se trabaja bajo ningún concepto)",
+        "16 de septiembre",
+        "Tercer lunes de noviembre",
+        "Cambio de poder ejecutivo",
+        "25 de diciembre"
+      ],
+      "Pago Festivos": "Si se trabaja en día de descanso o festivo (excepto 1 de mayo) se pagan dos días adicionales de salario"
+    },
+    "Seguridad y Salud": {
+      "Cumplimiento": "Cumplimiento de la Ley del Seguro Social y reglamentos de seguridad e higiene",
+      "Comision Higiene": "Debe integrarse dentro de los 30 días posteriores"
+    },
+    "Capacitacion": {
+      "Programas": "La empresa establecerá sistemas de capacitación conforme a la ley",
+      "Nuevo Ingreso": "Reciben capacitación inicial con condiciones mínimas de ley",
+      "Condiciones": "Se imparte dentro de horarios definidos por la empresa con salario completo"
+    },
+    "Ascensos": {
+      "Criterios": [
+        "Capacitación",
+        "Antigüedad",
+        "Aptitud",
+        "Productividad"
+      ],
+      "Escalafon": "Se establece de común acuerdo entre empresa y sindicato",
+      "Examen": "Ascensos otorgados mediante pruebas de aptitud"
+    },
+    "Trabajadores Temporales": {
+      "Obra Determinada": "Para trabajos específicos como albañilería, carpintería o mecánica",
+      "Eventuales": "Existe categoría salarial específica para personal eventual o de nuevo ingreso"
+    },
+    "Comisiones": {
+      "Tipo": "Comisiones mixtas con igual número de representantes de empresa y sindicato",
+      "Objetivo": [
+        "Capacitación",
+        "Seguridad e higiene",
+        "Utilidades",
+        "Otras funciones sociales o económicas"
+      ]
+    },
+    "Utilidades": {
+      "PTU": "Se paga conforme al porcentaje fijado por la Comisión Nacional correspondiente"
+    },
+    "Vacaciones": {
+      "Prima Vacacional": "Mínimo 25% del salario correspondiente",
+      "Dias Continuos": "Se deben disfrutar al menos 12 días consecutivos",
+      "Tabla": {
+        "1 año": "12 días",
+        "2 años": "14 días",
+        "3 años": "16 días",
+        "4 años": "18 días",
+        "5 años": "20 días",
+        "6 a 10 años": "22 días"
+      },
+      "Maximo": "Hasta 36 días de vacaciones para antigüedad de 41 a 45 años"
+    },
+    "Obligaciones y Etica": {
+      "Materiales": "La empresa debe proporcionar materiales y herramientas necesarias",
+      "No Discriminacion": "Existe protocolo contra discriminación, violencia laboral, acoso y hostigamiento",
+      "Reglamento": "El trabajo se rige por el Reglamento Interior de Trabajo"
+    },
+    "Vigencia Final": {
+      "Derogacion": "Este contrato sustituye cualquier convenio o contrato colectivo previo"
+    }
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "name": "HERSHEY",
+  "content": {
+    "Datos Base": {
+      "Empresa": "Hershey México, S.A. de C.V.",
+      "Centros de Trabajo": {
+        "Planta El Salto": "Km 8.05 Carretera Guadalajara-El Castillo, Parque Industrial El Salto, El Salto, Jalisco, C.P. 45680",
+        "Oficinas": "Prolongación Galeana número 119-L, Santa Ana Tepetitlán, Zapopan, Jalisco"
+      },
+      "Sindicato": "Sindicato Nacional Alimenticio y del Comercio (SNAC)",
+      "Vigencia": "1 de enero de 2026",
+      "Duración": "Tiempo indefinido",
+      "Reglas de Revisión": {
+        "Integral (Cláusulas)": "Cada dos años",
+        "Salarial": "Cada año conforme a los artículos 399 y 399 Bis de la LFT"
+      }
+    },
+    "Roles y Sindicato": {
+      "Representación": "La empresa reconoce al SNAC como representante del interés profesional de los trabajadores y tratará conflictos con el Comité Ejecutivo o comisiones",
+      "Ingreso": "La empresa contrata a los trabajadores y el sindicato los acepta como agremiados (cláusula de admisión)",
+      "Definiciones": {
+        "Oficinas": "Instalaciones administrativas en fábrica y en Zapopan",
+        "Delegado Sindical": "Persona autorizada para tratar conflictos con la empresa"
+      }
+    },
+    "Horarios": {
+      "Jornada": "Conforme a artículos 58 al 62 de la Ley Federal del Trabajo",
+      "Turnos": "Existen tres tipos de turnos en la fábrica",
+      "Descanso o Comida": "Media hora en jornadas continuas para reposar o alimentos, considerada tiempo efectivo de trabajo",
+      "Movilidad": "La empresa puede mover a trabajadores de puesto o turno respetando su salario"
+    },
+    "Pagos": {
+      "Tabulador": "Salarios conforme al tabulador anexo vigente desde el 1 de enero de 2026",
+      "Descuentos": "La empresa descuenta cuotas sindicales y aportaciones a cajas de ahorro",
+      "Pago de Descanso": "Si no se completa la semana se paga el 16.66% del salario base por cada día trabajado"
+    },
+    "Beneficios": {
+      "Aguinaldo": {
+        "1 a 3 años": "27 días de sueldo base",
+        "4 años o más": "32 días de sueldo base"
+      },
+      "Prima Vacacional": "90% sobre los días de vacaciones",
+      "Vales de Despensa": "$950.00 mensuales para trabajadores de planta y eventuales",
+      "Fondo de Ahorro": {
+        "Trabajador": "8.5% del salario mensual",
+        "Empresa": "8.5% del salario mensual",
+        "Entrega": "Anualmente en diciembre"
+      },
+      "Premio de Asistencia": "2 días de salario base (tope $1,200.00) si no hay faltas en 30 días",
+      "Seguro de Vida": {
+        "Muerte Natural": "24 meses de salario",
+        "Muerte Accidental de Trabajo": "48 meses de salario"
+      },
+      "Becas": "10 becas de $550.00 mensuales para trabajadores de planta que estudien bachillerato o licenciatura afín",
+      "Útiles Escolares": "$600.00 anuales en vales de despensa en julio si no hay faltas injustificadas",
+      "Ayuda Defunción": "$1,900.00 por fallecimiento de padres, cónyuge o hijos",
+      "Bono Nacimiento": "$1,500.00 por nacimiento de hijo (máximo 2 eventos para mujeres)",
+      "Ayuda Matrimonio": "$500.00 por matrimonio civil (una sola vez)",
+      "Deporte": "$1,000.00 mensuales entregados al sindicato para fomento deportivo"
+    },
+    "Permisos": {
+      "Paternidad": "6 días laborables con goce de sueldo por nacimiento o adopción",
+      "Adopción (Madres)": "6 semanas de descanso con goce de sueldo",
+      "Matrimonio": "3 días de descanso (1 con goce de sueldo y 2 sin goce)",
+      "Defunción": {
+        "Familiares Directos": "3 días con goce de sueldo",
+        "Hermanos": "3 días con goce de sueldo"
+      },
+      "Permisos Legales": "Los autorizados por el artículo 132 fracciones IX y X de la LFT"
+    },
+    "Descansos": {
+      "Descanso Semanal": "1 día de descanso con goce de salario por cada 6 trabajados (no necesariamente domingo)",
+      "Días Festivos": [
+        "1 de enero",
+        "Primer lunes de febrero",
+        "Tercer lunes de marzo",
+        "1 de mayo",
+        "16 de septiembre",
+        "Tercer lunes de noviembre",
+        "25 de diciembre",
+        "Cambio de poder ejecutivo",
+        "Días de jornada electoral"
+      ],
+      "Días Adicionales": [
+        "Viernes Santo",
+        "Sábado Santo"
+      ],
+      "Pago en Descanso o Festivo": "Si el descanso semanal coincide con festivo se paga un día adicional"
+    },
+    "Seguridad": {
+      "Obligaciones": "Negarse a obedecer órdenes de seguridad e higiene o no usar equipo es causa de rescisión",
+      "Altas Temperaturas": "Protocolo para prevenir estrés térmico con hidratación, pausas y EPP específico",
+      "Equipo": "La empresa entrega anualmente uniformes, zapatos de seguridad e instrumentos necesarios"
+    },
+    "Capacitación": {
+      "Obligación": "El trabajador debe cumplir con programas de capacitación internos o externos",
+      "Nuevo Ingreso": "Reciben capacitación inicial"
+    },
+    "Ascensos": {
+      "Promoción": "Derecho de ascenso y cambio de puesto",
+      "Periodo de Prueba": "30 días para demostrar competencia en ascenso",
+      "Resultado": "Si no aprueba regresa a su puesto anterior sin responsabilidad para la empresa",
+      "Rechazo": "Si rechaza ascenso conserva derechos en su puesto actual"
+    },
+    "Disciplina": {
+      "Medidas": "La empresa acatará medidas disciplinarias impuestas por el sindicato si no afectan la operación",
+      "Rescisión": "Negarse a medidas de seguridad puede causar despido"
+    },
+    "Temporales": {
+      "Contratación": "Se permite contratar trabajadores eventuales o por obra determinada",
+      "Derechos": "No generan antigüedad ni indemnización al terminar, solo partes proporcionales",
+      "Nuevas Instalaciones": "Para ampliaciones se contrata inicialmente como trabajadores generales eventuales"
+    },
+    "Confianza": {
+      "Nota": "No se listan específicamente en los extractos, pero se infiere su exclusión de los beneficios sindicales"
+    },
+    "Comisiones": {
+      "Comisión Mixta de Productividad": "Establece factores de bono de productividad y calidad",
+      "Comisión de Deportes": "Administra el fomento deportivo"
+    },
+    "Utilidades": {
+      "PTU": "Se rige conforme a la Ley Federal del Trabajo"
+    },
+    "Áreas": {
+      "Movilidad": "La empresa puede mover trabajadores de puesto o turno",
+      "Pago por Puesto Superior": "Si se cubre temporalmente un puesto superior al menos una jornada completa se paga el salario de ese puesto"
+    },
+    "Obligaciones": {
+      "Subsidio Incapacidad": {
+        "Primeros 3 días (incapacidad general mayor a 4 días)": "Empresa paga 90% del sueldo",
+        "Del día 4 al 110": "Complemento al subsidio IMSS para alcanzar 90%",
+        "Mayor a 8 días": "Se cubre hasta el 100%"
+      },
+      "Violencia y Acoso": "Protocolo para erradicar violencia y acoso laboral",
+      "Privacidad de Datos": "Protección de datos recolectados mediante inteligencia artificial",
+      "Intensidad del Trabajo": "El trabajador debe desempeñar sus labores con intensidad, cuidado y esmero apropiados"
+    },
+    "Vigencia": {
+      "Inicio": "1 de enero de 2026",
+      "Sustitución": "Sustituye al contrato del 1 de enero de 2024"
+    },
+    "Vacaciones": {
+      "Tabla": [
+        {
+          "Años de Servicio": "1",
+          "Días Laborables": 12,
+          "Prima Vacacional": "90%"
+        },
+        {
+          "Años de Servicio": "2",
+          "Días Laborables": 14,
+          "Prima Vacacional": "90%"
+        },
+        {
+          "Años de Servicio": "3",
+          "Días Laborables": 16,
+          "Prima Vacacional": "90%"
+        },
+        {
+          "Años de Servicio": "4",
+          "Días Laborables": 18,
+          "Prima Vacacional": "90%"
+        },
+        {
+          "Años de Servicio": "5",
+          "Días Laborables": 20,
+          "Prima Vacacional": "90%"
+        },
+        {
+          "Años de Servicio": "6 a 10",
+          "Días Laborables": 22,
+          "Prima Vacacional": "90%"
+        },
+        {
+          "Años de Servicio": "11 a 15",
+          "Días Laborables": 24,
+          "Prima Vacacional": "90%"
+        },
+        {
+          "Años de Servicio": "16 a 20",
+          "Días Laborables": 26,
+          "Prima Vacacional": "90%"
+        },
+        {
+          "Años de Servicio": "21 a 25",
+          "Días Laborables": 28,
+          "Prima Vacacional": "90%"
+        },
+        {
+          "Años de Servicio": "26 a 30",
+          "Días Laborables": 30,
+          "Prima Vacacional": "90%"
+        },
+        {
+          "Años de Servicio": "31 a 35",
+          "Días Laborables": 32,
+          "Prima Vacacional": "90%"
+        }
+      ]
+    }
+  }
+}

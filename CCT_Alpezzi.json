@@ -1,0 +1,118 @@
+{
+  "name": "ALPEZZI",
+  "content": {
+    "Información Básica del Contrato": {
+      "Empresa": "Alpezzi Chocolate, S.A. de C.V.",
+      "Sindicato": "Sindicato Nacional Alimenticio y del Comercio, Similares y Conexos de la República Mexicana (SNAC).",
+      "Centros de Trabajo": "Planta Los Robles (Zapopan), Planta Technology Park (Zapopan) y Planta 3 (Venta del Astillero).",
+      "Vigencia": "Inicia el 1º de enero de 2025. El tabulador de salarios tiene vigencia hasta el 31 de diciembre de 2025.",
+      "Duración": "Tiempo indefinido. Se revisará según los artículos 399 y 399 Bis de la Ley Federal del Trabajo."
+    },
+    "Definiciones y Representatividad": {
+      "Trabajadores cubiertos": "Todos los miembros activos del sindicato que presten servicios en la empresa.",
+      "Trabajadores de Confianza": "Están excluidos del contrato. Incluye puestos de dirección, inspección, vigilancia, fiscalización, mantenimiento, oficinas y personal administrativo en general.",
+      "Puestos Vacantes": "La empresa contratará personal nuevo según sus procesos y el sindicato los aceptará como agremiados."
+    },
+    "Jornada y Horario": {
+      "Jornada": "Se ajusta a la ley (artículos 58-62 LFT) y a las necesidades operativas.",
+      "Descanso diario": "El trabajador tiene media hora para alimentos por jornada continua, la cual se cuenta como tiempo trabajado.",
+      "Tiempo Extra": "Se paga conforme a lo que marca la Ley Federal del Trabajo."
+    },
+    "Salarios y Compensación": {
+      "Pago": "Se realiza semanalmente en efectivo o transferencia. Empleados específicos pueden cobrar por quincena o decena.",
+      "Garantía": "Ningún salario será inferior al mínimo general. No se permiten descuentos por concepto de multas aplicadas por la empresa.",
+      "Cuotas Sindicales": "La empresa las descontará si el sindicato así lo acuerda, sin costo para el sindicato."
+    },
+    "Prestaciones y Beneficios Económicos": {
+      "Vacaciones": {
+        "1 año": "12 días",
+        "2 años": "14 días",
+        "3 años": "16 días",
+        "4 años": "18 días",
+        "5 años": "20 días",
+        "6 a 10 años": "22 días",
+        "11 a 15 años": "24 días",
+        "16 a 20 años": "26 días",
+        "21 a 25 años": "28 días",
+        "26 a 30 años": "30 días",
+        "31 a 35 años": "32 días",
+        "36 a 45 años": "34-36 días"
+      },
+      "Prima Vacacional": "60% sobre los salarios del periodo de vacaciones.",
+      "Aguinaldo": "Equivalente a 30 días de salario, pagadero antes del 20 de diciembre.",
+      "Fondo de Ahorro": {
+        "Inicial": "Al obtener la planta, el trabajador aporta 8% y la empresa otro 8%.",
+        "Posterior": "Tras 6 meses y evaluación positiva, sube al 13% cada uno."
+      },
+      "Vales de Despensa": "11% del salario semanal devengado.",
+      "Bonos Semanales": {
+        "Puntualidad": "8% sobre salario semanal si llega a tiempo toda la semana.",
+        "Asistencia": "8% sobre salario semanal si no tiene faltas."
+      },
+      "Seguro de Vida": "$100,000.00 por fallecimiento (cualquier causa).",
+      "Ayudas por Defunción": {
+        "Del trabajador": "$9,000.00 para beneficiarios.",
+        "Familiares directos": "$4,000.00 para padres, cónyuge, hijos o hermanos."
+      },
+      "Otros": "Útiles escolares en agosto (primaria/secundaria), subsidio de comedor y servicio de transporte gratuito."
+    },
+    "Permisos": {
+      "Paternidad/Adopción": "5 días laborables pagados para hombres por nacimiento o adopción.",
+      "Adopción (Mujeres)": "6 semanas de descanso pagado desde la entrega del infante.",
+      "Fallecimiento de familiares": "3 días con goce de sueldo (familiares en primer grado).",
+      "Matrimonio Civil": "3 días de descanso pagado."
+    },
+    "Descansos": {
+      "Días Obligatorios": "1º enero, lunes de febrero (por el 5), lunes de marzo (por el 21), Jueves y Viernes Santo, 1º mayo, 16 septiembre, lunes de noviembre (por el 20), 1º octubre (cada 6 años), 24, 25 y 31 de diciembre.",
+      "Pago Especial": "Si se trabaja en festivo, se pagan dos días adicionales al salario normal.",
+      "Día de las Madres": "Descanso pagado el 10 de mayo solo para trabajadoras que son madres.",
+      "Compensación": "Si el festivo cae en día de descanso semanal, se da un día adicional. Si es viernes, se puede recorrer al sábado según acuerdo."
+    },
+    "Capacitación y Ascensos": {
+      "Capacitación Inicial": "Los nuevos ingresos reciben formación básica bajo condiciones mínimas de ley mientras aprenden.",
+      "Capacitación Continua": "Es obligatoria y se imparte en horarios establecidos por la empresa; el trabajador cobra su salario normal durante el curso.",
+      "Escalafón": "Los ascensos se basan en capacitación, antigüedad, aptitud y productividad. Se requiere aprobar una evaluación para subir de categoría."
+    },
+    "Disciplina y Comisiones": {
+      "Reglamento": "La disciplina en plantas se rige por el Reglamento Interior de Trabajo.",
+      "Sanciones Sindicales": "La empresa aplicará medidas disciplinarias que el sindicato solicite por escrito por faltas a estatutos o deberes cívicos.",
+      "Comisiones Mixtas": "Se integran con igual número de representantes de empresa y sindicato para Higiene y Seguridad, y Capacitación y Adiestramiento."
+    },
+    "Tabulador de Salarios 2025": {
+      "Producción": {
+        "Operador B": {
+          "Nivel 1": "$307.11",
+          "Nivel 4": "$338.85"
+        },
+        "Líder Operativo": {
+          "Nivel 1": "$361.40",
+          "Nivel 4": "$407.17"
+        }
+      },
+      "Pastas BNB": {
+        "Operador A": {
+          "Nivel 1": "$379.08",
+          "Nivel 4": "$432.00"
+        }
+      },
+      "Almacén": {
+        "Montacarguista": {
+          "Nivel 1": "$356.39",
+          "Nivel 4": "$420.43"
+        }
+      },
+      "Tráfico": {
+        "Chofer de Torton": {
+          "Nivel 1": "$486.00",
+          "Nivel 3": "$557.28"
+        }
+      },
+      "Sanidad": {
+        "Operador": {
+          "Nivel 3": "$307.11",
+          "Nivel 6": "$338.85"
+        }
+      }
+    }
+  }
+}

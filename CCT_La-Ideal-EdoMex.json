@@ -1,0 +1,137 @@
+{
+  "name": "LA IDEAL EDOMEX",
+  "content": {
+    "Datos Base": {
+      "Empresa": "Pastelería Ideal, S.A. de C.V.",
+      "Sindicato": "Sindicato Nacional Alimenticio y del Comercio, Similares y Conexos de la República Mexicana (SNAC)",
+      "Centros de Trabajo": [
+        {
+          "Sucursal": "Aragón",
+          "Dirección": "Av. Hank González 773, Col. Valle de Aragón, Nezahualcóyotl, Estado de México"
+        },
+        {
+          "Sucursal": "Azteca",
+          "Dirección": "Boulevard de los Aztecas 143, Ciudad Azteca, Ecatepec, Estado de México"
+        },
+        {
+          "Sucursal": "Neza",
+          "Dirección": "Av. Adolfo López Mateos 172, Col. Metropolitana, Nezahualcóyotl, Estado de México"
+        }
+      ],
+      "Trabajadores Cubiertos": "Todos los trabajadores que laboran en estas sucursales y en futuras unidades móviles o dependencias",
+      "Vigencia": "1 de enero de 2025",
+      "Duración": "Tiempo indefinido"
+    },
+    "Roles y Representación Sindical": {
+      "Denominaciones": {
+        "Empresa": "La Negociación",
+        "Trabajadores": "El Sindicato"
+      },
+      "Representación": "El sindicato representa el interés profesional de los trabajadores afiliados",
+      "Ingresos": "La empresa contrata personal conforme a su proceso y el sindicato acepta su afiliación si el trabajador lo solicita"
+    },
+    "Horarios y Jornadas": {
+      "Jornada": "Se ajusta a los límites legales de la LFT según necesidades de la sucursal",
+      "Tiempo para Alimentos": "30 minutos en jornada continua considerados como tiempo laborado",
+      "Tiempo Extra": "Se pagará conforme a la Ley Federal del Trabajo"
+    },
+    "Pagos y Salarios": {
+      "Salario Mínimo Garantizado": "Ningún trabajador ganará menos del salario mínimo general",
+      "Incremento Salarial": "10.50% directo al salario para 2025",
+      "Frecuencia de Pago": {
+        "Operativos": "Pago semanal en efectivo o sistema bancario",
+        "Administrativos": "Pago por quincena o decena"
+      },
+      "Cuotas Sindicales": "La empresa podrá descontarlas gratuitamente si el sindicato lo solicita",
+      "Tabulador 2025": [
+        {
+          "Categoría": "Auxiliar General A",
+          "Salario Diario": 288.41
+        },
+        {
+          "Categoría": "Oficial de Producción",
+          "Salario Diario": 444.21
+        }
+      ]
+    },
+    "Beneficios": {
+      "Vacaciones": "Periodo anual pagado conforme a la antigüedad",
+      "Prima Vacacional": "50% adicional sobre el pago de los días de vacaciones",
+      "Aguinaldo": [
+        { "Antigüedad": "1 a 4 años", "Días": 19 },
+        { "Antigüedad": "5 a 9 años", "Días": 21 },
+        { "Antigüedad": "10 a 14 años", "Días": 28 },
+        { "Antigüedad": "15 años o más", "Días": 31 }
+      ],
+      "Ayuda Defunción Familiar": "Apoyo solidario de $10 por trabajador más 30% adicional aportado por la empresa",
+      "Ayuda Fallecimiento Trabajador": {
+        "Muerte Natural": "100 días de salario",
+        "Accidente de Trabajo": "200 días de salario"
+      },
+      "Fondo de Ahorro": {
+        "Empresa": "10% del salario diario",
+        "Trabajador": "10% del salario diario"
+      },
+      "Uniformes": "Dos uniformes gratuitos en mayo más gorra o cofia",
+      "Cultura y Deporte": "La empresa aporta $27,000 anuales al sindicato para estas actividades"
+    },
+    "Permisos y Licencias": {
+      "Fallecimiento Familiar": "3 días con goce de sueldo por muerte de padres, hijos o cónyuge",
+      "Paternidad o Adopción": "5 días laborables con goce de sueldo",
+      "Permisos Personales": "Hasta 30 días al año sin goce de sueldo con solicitud previa de una semana"
+    },
+    "Descansos": {
+      "Descanso Semanal": "Un día a la semana con pago íntegro",
+      "Días Festivos": [
+        "1 de enero",
+        "Primer lunes de febrero",
+        "Tercer lunes de marzo",
+        "1 de mayo",
+        "16 de septiembre",
+        "Tercer lunes de noviembre",
+        "Cambio de Poder Ejecutivo Federal",
+        "25 de diciembre"
+      ],
+      "Pago Festivo Trabajado": "Pago triple total (doble adicional al salario diario)",
+      "Festivo en Descanso": "Se otorga un día adicional de descanso"
+    },
+    "Seguridad e Higiene": {
+      "Cumplimiento": "Empresa y trabajadores deben cumplir las normas del IMSS y reglamentos de higiene",
+      "Comisión Mixta": "Debe integrarse en un plazo de 30 días para supervisar seguridad y salud laboral"
+    },
+    "Capacitación y Adiestramiento": {
+      "Programas": "Obligatorios para mejorar productividad",
+      "Nuevo Ingreso": "Recibe capacitación inicial con prestaciones mínimas de ley",
+      "Condiciones": "Se imparte en horarios establecidos por la empresa con salario normal"
+    },
+    "Ascensos y Escalafón": {
+      "Criterios": [
+        "Capacitación",
+        "Antigüedad",
+        "Aptitud",
+        "Productividad"
+      ],
+      "Proceso": "Los ascensos se otorgan tras demostrar aptitudes mediante exámenes acordados entre empresa y sindicato"
+    },
+    "Personal Temporal": {
+      "Contratación": "Permitida para obra o tiempo determinado en casos justificados",
+      "Servicios Especializados": "La empresa puede contratar servicios externos para tareas no relacionadas con su objeto social"
+    },
+    "Comisiones Mixtas": {
+      "Tipos": [
+        "Reparto de utilidades (PTU)",
+        "Cuadro de antigüedad y vacaciones",
+        "Reglamento Interior de Trabajo"
+      ],
+      "Integración": "Igual número de representantes de empresa y trabajadores"
+    },
+    "Utilidades": {
+      "PTU": "Participación conforme al porcentaje determinado por la Comisión Nacional para la Participación de los Trabajadores en las Utilidades"
+    },
+    "Obligaciones Generales": {
+      "Empresa": "Proporcionar materiales y herramientas necesarias y no reducir salarios injustificadamente",
+      "Trabajador": "Cumplir con intensidad y calidad normal del trabajo, asistir a cursos y cuidar su salud",
+      "Marco Legal": "Las relaciones laborales se rigen por el artículo 123 Constitucional"
+    }
+  }
+}

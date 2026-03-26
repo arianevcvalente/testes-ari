@@ -1,0 +1,126 @@
+{
+  "name": "ALPURA VERACRUZ",
+  "content": {
+    "Datos Base": {
+      "Empresa": "Ganaderos Productores de Leche Pura, S.A.P.I. de C.V. (comercialmente 'alpura').",
+      "Centro de Trabajo": "Calle Tres No. 271, Lote 16, Col. Pedro Ignacio Mata, Veracruz, Veracruz, C.P. 91799.",
+      "Sindicato": "Sindicato Nacional Alimenticio y del Comercio, Similares y Conexos de la República Mexicana (SNAC).",
+      "Trabajadores Cubiertos": "Todas las personas físicas que prestan servicios subordinados a la empresa y reciben un salario.",
+      "Vigencia y Duración": "El contrato es por tiempo indeterminado y entra en vigor el 1º de enero de 2025.",
+      "Reglas de Revisión": "Se revisará cada dos años de forma general y cada año específicamente en lo que respecta a salarios diarios."
+    },
+
+    "Roles y Sindicato": {
+      "Personal de Confianza": "Se excluyen de este contrato a quienes realicen funciones de dirección, inspección, vigilancia y fiscalización general.",
+      "Representación Sindical": "La empresa reconoce al sindicato para tratar todos los asuntos laborales y se compromete a no intervenir en su vida interna.",
+      "Admisión de Nuevos Trabajadores": "La empresa contratará personal según su proceso establecido y el sindicato los aceptará entre sus agremiados.",
+      "Facultad de Gestión": "El sindicato reconoce que la empresa tiene la facultad exclusiva de organizar, administrar y supervisar los trabajos.",
+      "Acuerdos Disciplinarios": "La empresa debe cumplir las sanciones disciplinarias que el sindicato imponga a sus afiliados, siempre que se comuniquen por escrito y sean legales."
+    },
+
+    "Horarios y Jornadas": {
+      "Duración de Jornadas": {
+        "Diurna": "8 horas",
+        "Mixta": "7.5 horas",
+        "Nocturna": "7 horas"
+      },
+      "Cambios de Horario": "La empresa puede modificar horarios avisando con 48 horas de anticipación.",
+      "Vendedores y Ayudantes": "Por la naturaleza de su trabajo (visita a clientes/comisiones), no están sujetos a un control de horario rígido; ellos organizan su ruta y su descanso de 30 minutos para comer.",
+      "Multifuncionalidad": "La empresa puede asignar diversas funciones o mover a un trabajador de puesto para dar continuidad a la operación, sin afectar su salario o antigüedad."
+    },
+
+    "Pagos y Salarios": {
+      "Integración del Salario": "Incluye pagos en efectivo, gratificaciones, prestaciones, primas, comisiones y cualquier otra cantidad entregada por el servicio.",
+      "Tiempo Extra": "Las horas excedentes se pagarán conforme a la Ley Federal del Trabajo.",
+      "Cuota Sindical": "La empresa retendrá las cuotas de los estatutos sindicales y las entregará al sindicato sin costo por este servicio.",
+      "Tabulador de Salarios 2025": {
+        "Electromecánico": "$591.31",
+        "Vendedor": "$306.68",
+        "Ayudante de Vendedor": "$288.07",
+        "Ayudante General": "$288.07",
+        "Maniobrista": "$288.07"
+      }
+    },
+
+    "Beneficios": {
+      "Aguinaldo": "18 días de salario, pagados antes del 20 de diciembre.",
+      "Vales de Despensa": "$300.00 mensuales.",
+      "Penalización por Faltas": "Si hay 1 falta injustificada al mes, se recibe solo el 50%. Con 2 faltas, se pierde el bono ese mes.",
+      "Ayuda Escolar": "$500.00 por cada hijo menor de 18 años en edad escolar (previa boleta).",
+      "Fondo de Ahorro": "El trabajador ahorra el 5% de su salario y la empresa aporta otro 5%. Se entrega una vez al año.",
+      "Seguro de Vida": {
+        "Muerte Natural": "$75,000",
+        "Accidente de Trabajo": "$150,000 (calificado por IMSS)"
+      },
+      "Uniformes": "Se entregan dos veces por año (pantalón, camisa, zapatos, chamarra y toalla) y equipo de protección. Su uso es obligatorio.",
+      "Compensación por Descarga": "Ayudantes Generales que descarguen tráileres reciben $700.83.",
+      "Apoyos al Sindicato": "La empresa otorga montos mensuales para gastos de administración, congresos, deporte y cultura."
+    },
+
+    "Permisos": {
+      "Paternidad": "5 días laborables con goce de sueldo por nacimiento o adopción.",
+      "Adopción (Mujeres)": "6 semanas con goce de sueldo tras recibir al infante.",
+      "Fallecimiento de Familiar": "3 días laborables con goce de sueldo por muerte de padres, hijos, cónyuge, concubino(a) o hermanos.",
+      "Permisos Administrativos": "La empresa puede otorgar permisos con sueldo a su discreción."
+    },
+
+    "Vacaciones y Descansos": {
+      "Prima Vacacional": "30% sobre los salarios de los días de vacaciones.",
+      "Día de Descanso Semanal": "Un día con goce de sueldo, preferentemente domingo.",
+      "Prima Dominical": "32% adicional sobre el salario diario si se labora en domingo.",
+      "Días Festivos Obligatorios": "1º de enero, 5 de febrero, 21 de marzo, Viernes Santo, 1º de mayo, 16 de septiembre, 2 de noviembre, 20 de noviembre, cambio de Poder Ejecutivo Federal, 12 de diciembre y 25 de diciembre.",
+      "Tabla de Vacaciones": {
+        "1 año": "12 días",
+        "2 años": "14 días",
+        "3 años": "16 días",
+        "4 años": "18 días",
+        "5 años": "20 días",
+        "6 a 10 años": "22 días",
+        "11 a 15 años": "24 días",
+        "16 a 20 años": "26 días",
+        "21 a 25 años": "28 días",
+        "26 a 30 años": "30 días",
+        "Nota": "La tabla continúa hasta 35 años con 32 días."
+      }
+    },
+
+    "Seguridad e Higiene": {
+      "IMSS": "Obligación de inscribir a los trabajadores y reportar cambios en máximo 5 días.",
+      "Comisión Mixta": "Se integrará una Comisión de Higiene y Seguridad para prevenir riesgos.",
+      "Equipo de Protección (EPP)": "La empresa debe proporcionar el equipo necesario y los trabajadores deben usarlo."
+    },
+
+    "Capacitación y Ascensos": {
+      "Programas": "La empresa dará capacitación para actualizar conocimientos, nuevas tecnologías, prevenir riesgos e incrementar la productividad.",
+      "Comisión Mixta de Capacitación": "Encargada de vigilar los sistemas de aprendizaje y formular el cuadro de antigüedades.",
+      "Ascensos": "Se basarán en productividad, competencia y antigüedad.",
+      "Vacantes con Mayor Sueldo": "Si un trabajador ocupa una vacante de mayor sueldo y demuestra capacidad, recibirá el salario de dicho puesto."
+    },
+
+    "Comisiones por Ventas": {
+      "Detalle": {
+        "Leche": "0.4501 (Vendedor) / 0.2250 (Ayudante)",
+        "Derivados": "0.8507 (Vendedor) / 0.4253 (Ayudante)",
+        "Quesos": "1.8905 (Vendedor) / 0.9453 (Ayudante)"
+      },
+      "Autoservicios": {
+        "Leche": "0.0542 / 0.0271",
+        "Derivados": "0.1109 / 0.0555",
+        "Quesos": "0.1109 / 0.0555"
+      },
+      "Foráneo/Mayoreo": {
+        "Leche": "0.1980 / 0.0990",
+        "Derivados": "0.4951 / 0.2476",
+        "Quesos": "1.8905 / 0.9453"
+      },
+      "Referencia": "Valores extraídos de las cláusulas 106 y 107."
+    },
+
+    "Cláusulas Finales": {
+      "Utilidades (PTU)": "Se pagarán conforme a lo establecido en la Ley Federal del Trabajo.",
+      "Reglamento Interior": "Empresa y sindicato formularán el reglamento que rige la disciplina interna.",
+      "Sustitución Patronal": "El contrato sigue vigente aunque la empresa cambie de dueño, nombre o domicilio.",
+      "Gastos del Contrato": "La empresa absorbe todos los gastos de elaboración y registro legal del contrato."
+    }
+  }
+}
