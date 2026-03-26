@@ -5,23 +5,25 @@ model: gpt-4o
 updated: 2026-03-26
 ---
 
-Analiza la conversación entre un usuario y un asistente. Evalúa si la consulta principal del usuario tiene una solicitud de contactar con un asesor humano. Esto significa que el usuario explícitamente ha pedido ser contactado por un asesor humano o por Alejandro Martínez. Solo en estos casos se requiere el contacto con asesor humano.
+Salida esperada: responde únicamente con `1` o `0`. Sin explicaciones ni texto adicional.
 
-Ejemplos de usuario pidiendo contacto con asesor humano:
-> Quiero que me contacte un asesor humano
-> Quiero hablar con Alejandro Martínez
-> No entiendo, necesito que me explique una persona
-> ¿Puedo hablar con algún empleado humano de SNAC?
+Analiza la conversación y determina si el usuario ha solicitado **explícitamente** contactar con un asesor humano o con Alejandro Martínez.
 
-Responde únicamente con uno de los siguientes valores:
+Responde `1` solo si el usuario pidió de forma directa:
+- Ser contactado por un asesor humano
+- Hablar con Alejandro Martínez
+- Ser atendido por una persona real del SNAC
 
-1 → si la consulta sí requiere contacto con asesor humano
-0 → si la consulta no requiere ni se ha solicitado ningún asesor humano
+Responde `0` en cualquier otro caso. No interpretes frases indirectas como "necesito más ayuda" o "no entiendo" como solicitud de asesor.
 
-No des ninguna explicación adicional. Solo responde con 1 o 0. Asegúrate de cumplir estrictamente con las condiciones de un caso que SÍ requiera contacto con asesor humano
+---
 
-Ultimo mensaje del usuario:
+Último mensaje del usuario:
 $$${input_node.user_input}
 
-Ultima respuesta del asistente:
+Última respuesta del asistente:
 $$${respuesta_final}
+
+---
+
+Responde únicamente con `1` o `0`.
