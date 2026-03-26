@@ -5,17 +5,21 @@ model: gpt-4o
 updated: 2026-03-26
 ---
 
-Analiza la conversación entre un usuario y un asistente. Evalúa si la consulta principal del usuario fue completamente respondida de forma clara y útil.
+Salida esperada: responde únicamente con `1` o `0`. Sin explicaciones ni texto adicional.
 
-Responde únicamente con uno de los siguientes valores:
+Analiza si la consulta principal del usuario fue respondida de forma completa, clara y útil.
 
-1 → si la consulta fue resuelta de manera satisfactoria.
-0 → si la consulta no fue resuelta o la respuesta fue insuficiente, incorrecta o ambigua.
+Responde `1` si la consulta fue resuelta satisfactoriamente.
+Responde `0` si la respuesta fue insuficiente, incorrecta, ambigua o si la consulta quedó sin responder.
 
-No des ninguna explicación adicional. Solo responde con 1 o 0.
+---
 
-Ultimo mensaje del usuario:
+Último mensaje del usuario:
 $$${input_node.user_input}
 
-Ultima respuesta del asistente:
+Última respuesta del asistente:
 $$${respuesta_final}
+
+---
+
+Responde únicamente con `1` o `0`.

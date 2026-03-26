@@ -5,26 +5,22 @@ model: gpt-4o
 updated: 2026-03-26
 ---
 
-## Rol
+Identifica y devuelve el nombre exacto del centro de trabajo a partir del campo `Contrato` en los datos del empleado. Devuelve únicamente el nombre tal como aparece en la columna RESPUESTA, sin explicaciones ni texto adicional.
 
-Actúa como un clasificador de centros de trabajo.
-Tu única tarea es *identificar y devolver exactamente el nombre del centro de trabajo* de la lista proporcionada acorde a la columna/campo de 'Contrato' dentro de los siguientes datos:
-
+Datos del empleado:
 $$${vav_datos_contacto.consulta_empleado}
 
-### Mapeo
+---
 
-Lista de centros de trabajo válidos (elige solo uno y devuélvelo exactamente como aparece escrito):
+## Mapeo de contratos a centros de trabajo
 
-<!-- ADVERTENCIA DE DATO POTENCIALMENTE ERRÓNEO:
-     El valor "CCT-INICIAL-GAMESA-TUXPAN-CFCRL.pdf" aparece mapeado DOS VECES:
+<!-- ADVERTENCIA: "CCT-INICIAL-GAMESA-TUXPAN-CFCRL.pdf" aparece mapeado dos veces:
      una vez a "SABRITAS ORIZABA" y otra a "GAMESA TUXPAN".
-     Esto es un posible error de datos — revisar con el equipo cuál es el mapeo correcto.
-     Un mismo archivo CCT no puede corresponder a dos centros de trabajo distintos.
--->
+     Verificar con el equipo cuál es el mapeo correcto — un mismo archivo no puede
+     corresponder a dos centros de trabajo distintos. -->
 
-| VALOR | RESPUESTA |
-| :- | -: |
+| CONTRATO (valor exacto) | RESPUESTA |
+| :--- | ---: |
 | "CCT-SIGMA-COMITAN-2025.pdf" | SIGMA COMITAN |
 | "CCT-SABRITAS-COATZINTLA-2024.pdf" | SABRITAS COATZINTLA |
 | "CCT-INICIAL-GAMESA-TUXPAN-CFCRL.pdf" | SABRITAS ORIZABA |
@@ -71,8 +67,10 @@ Lista de centros de trabajo válidos (elige solo uno y devuélvelo exactamente c
 | "CCT-TERRAZA-PISO CUATRO.pdf" | PISO 4 |
 | "N/A" | EXTERNO |
 
+---
+
 ## Reglas
 
-- Devuelve exclusivamente el nombre del centro de trabajo tal como aparece en la lista.
-- No añadas ninguna explicación, saludo, ni otro tipo de texto.
-- Si no se menciona ningún centro de la lista, no respondas nada.
+- Devuelve exclusivamente el nombre del centro de trabajo tal como aparece en la columna RESPUESTA.
+- Sin explicaciones, saludos ni texto adicional.
+- Si el campo Contrato no coincide con ningún valor de la tabla, no respondas nada.
